@@ -20,4 +20,27 @@ For resource contibution, just follow the following format: `[reference-name](li
 * Tools
 * Blogs
 * Books
+* Tech Talks
+
+
+# Libraries
+
+## Background Processing
+
+* [Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) - A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability
+* [Evernote's Android Job](https://github.com/evernote/android-job) - Android library to handle jobs in the background
+* [Firebase Job Dispatcher](https://github.com/firebase/firebase-jobdispatcher-android) - The Firebase JobDispatcher is a library for scheduling background jobs in your Android app. It provides a JobScheduler-compatible API that works on all recent versions of Android (API level 9+) that have Google Play services installed
+
+## Crash Reporting
+* [Fabric Crash Analytics](https://get.fabric.io/) -  Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business
+* [Bugsnag](Monitor application errors to improve customer experiences and code quality) - Monitor application errors to improve customer experiences and code quality
+
+## Networking
+* [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
+* [Retorfit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface
+* [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
+* [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
+
+
+
 
