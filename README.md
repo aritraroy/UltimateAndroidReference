@@ -85,6 +85,22 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
 
 
+# Open-Source Apps
+
+* [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) - Amaze File Manager source code
+* [ClipStack](https://github.com/heruoxin/Clip-Stack) - A tiny clipboard history manager app
+* [Kickstarter](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere
+* [LeafPic](https://github.com/HoraApps/LeafPic) - LeafPic is an ad-free, open-source and material-designed android gallery alternative
+* [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Free as in Freedom torrent client for Android
+* [Materialize](https://github.com/oxoooo/materialize) - Materialize all those not material
+* [MLManager](https://github.com/javiersantos/MLManager) - A modern, easy and customizable app manager for Android with Material Design
+* [PhotoAffix](https://github.com/afollestad/photo-affix) - 
+Stitch your photos together vertically or horizontally easily!
+* [QkSms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger app for Android
+* [SuperCleanMaster](https://github.com/joyoyao/superCleanMaster) - CleanMaster like open-source app
+* [Timber](https://github.com/naman14/Timber) - Material Design Music Player
+* [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) - Smart App Lock for Android
+
 
 
 
