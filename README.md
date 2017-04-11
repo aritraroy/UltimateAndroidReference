@@ -31,6 +31,12 @@ For resource contibution, just follow the following format: `[reference-name](li
 * [Evernote's Android Job](https://github.com/evernote/android-job) - Android library to handle jobs in the background
 * [Firebase Job Dispatcher](https://github.com/firebase/firebase-jobdispatcher-android) - The Firebase JobDispatcher is a library for scheduling background jobs in your Android app. It provides a JobScheduler-compatible API that works on all recent versions of Android (API level 9+) that have Google Play services installed
 
+## Charts
+* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations
+* [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Android library to create charts
+* [HelloCharts](https://github.com/lecho/hellocharts-android) - Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
+
+
 ## Crash Reporting
 * [Fabric Crash Analytics](https://get.fabric.io/) - Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business
 * [InstaBug](https://www.bugsnag.com/) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting.
@@ -65,11 +71,19 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 * [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use 
 
+## Logging
+* [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class
+* [Logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for Android
+* [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds
+* [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data
+
+
 ## Networking
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
 * [Retorfit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
+
 
 
 
