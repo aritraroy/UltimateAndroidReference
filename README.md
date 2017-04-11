@@ -1,22 +1,22 @@
 # Ultimate Android Reference
 
-The goal of this project is to provide a hand-picked collection of Android libraries, tools, open-source projects, books, blogs - you name it.
+The goal of this project is to provide a hand-picked collection of Android libraries, tools, open-source projects, books, blogs, tutorials - you name it.
 
-This project will **only contain the best, most popular and well-tested resources** that you will actually need rather than overwhelming you with a plethora of low-quality ones.
+This project will **only showcase the best, most popular and well-tested resources** that you will actually need rather than overwhelming you with a plethora of low-quality ones.
 
 # Contribution
 
-This project is open to all kinds of contribution from you. **We can together make it the ultimate Android reference.**
+This project is open to all kinds of contribution in all of its categories from you. **Together, we can make it the ultimate Android reference available for free, for everyone, forever.**
 
-If you have any suggestions for including more categories, feel free to raise a Github issue for it so that we can discuss about it.
+If you have any suggestion for including more categories, feel free to raise a Github issue for us to have a detailed discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promtional stuffs. This project will only include resources, **that make the cut**.
 
-For resource contibution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request.
+For resource contibution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request. If you want to contribute multiple resources, consider raising seperate PRs for each of them.
 
 
 # Categories
 
 * [Libraries](#libraries)
-* Open-Source Apps
+* [Open-Source Apps](#open-source-apps)
 * Tools
 * Blogs
 * Books
@@ -24,6 +24,7 @@ For resource contibution, just follow the following format: `[reference-name](li
 
 
 # Libraries
+These are some of the best and the most popular libraries and utilities to boost up your Android development. This list only includes libraries which have been battle tested by plenty of developers for a very long time.
 
 ## Background Processing
 
@@ -42,13 +43,6 @@ For resource contibution, just follow the following format: `[reference-name](li
 * [InstaBug](https://www.bugsnag.com/) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting.
 Gather feedback from your beta testers and have live conversations with your users
 * [Bugsnag](https://www.bugsnag.com/) - Monitor application errors to improve customer experiences and code quality
-
-## Databases
-* [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs 
-* [SQL Brite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations
-* [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you
-* [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android 
-* [Firebase Realtime Database](https://firebase.google.com/docs/database/) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
 
 ## Debugging
 * [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
@@ -83,6 +77,13 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Retorfit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
+
+## Persistent Storage
+* [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs 
+* [SQL Brite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations
+* [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you
+* [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android 
+* [Firebase Realtime Database](https://firebase.google.com/docs/database/) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
 
 
 # Open-Source Apps
