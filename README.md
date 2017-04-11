@@ -32,10 +32,25 @@ For resource contibution, just follow the following format: `[reference-name](li
 * [Firebase Job Dispatcher](https://github.com/firebase/firebase-jobdispatcher-android) - The Firebase JobDispatcher is a library for scheduling background jobs in your Android app. It provides a JobScheduler-compatible API that works on all recent versions of Android (API level 9+) that have Google Play services installed
 
 ## Crash Reporting
-* [Fabric Crash Analytics](https://get.fabric.io/) -  Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business
+* [Fabric Crash Analytics](https://get.fabric.io/) - Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business
 * [InstaBug](https://www.bugsnag.com/) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting.
 Gather feedback from your beta testers and have live conversations with your users
 * [Bugsnag](https://www.bugsnag.com/) - Monitor application errors to improve customer experiences and code quality
+
+## Databases
+* [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs 
+* [SQL Brite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations
+* [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you
+* [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android 
+* [Firebase Realtime Database](https://firebase.google.com/docs/database/) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
+
+## Debugging
+* [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
+* [Stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more
+* [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
+* [Takt](https://github.com/wasabeef/Takt) - Takt is Android library for measuring the FPS using Choreographer
+* [Android Performance Monitor](https://github.com/markzhai/AndroidPerformanceMonitor) - A transparent ui-block detection library for Android (known as BlockCanary)
+* [Debug Drawer](https://github.com/palaima/DebugDrawer) - Android Debug Drawer for faster development
 
 ## Dependency Injection
 * [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java
