@@ -18,7 +18,7 @@ For resource contibution, just follow the following format: `[reference-name](li
 * [Libraries](#libraries)
 * [Open-Source Apps](#open-source-apps)
 * Tools
-* Blogs
+* Sites
 * Books
 * Tech Talks
 
@@ -85,6 +85,11 @@ Gather feedback from your beta testers and have live conversations with your use
 * [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android 
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
 
+## Utilities
+* [Dart](https://github.com/f2prateek/dart) - Extras "injection" library for Android
+* [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
+* [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
+
 
 # Open-Source Apps
 
@@ -117,7 +122,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Signal](https://github.com/WhisperSystems/Signal-Android) - A private messenger for Android
 * [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads
 * [SoundRecorder](https://github.com/dkim0419/SoundRecorder) - A simple sound recording app implementing Material Design
-* [SuperCleanMaster](https://github.com/joyoyao/superCleanMaster) - CleanMaster like open-source app'
+* [SuperCleanMaster](https://github.com/joyoyao/superCleanMaster) - CleanMaster like open-source app
 * [Talon for Twitter](https://github.com/klinker24/Talon-for-Twitter) - 100% open source version of my popular Talon for Twitter app on Android
 * [Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 * [Timber](https://github.com/naman14/Timber) - Material Design Music Player
@@ -125,6 +130,11 @@ Stitch your photos together vertically or horizontally easily!
 * [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) - Smart App Lock for Android
 * [WeGit](https://github.com/Leaking/WeGit) - An Android App for Github
 
+
+# Sites
+
+* [Google Developers](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
+* [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
 
 
 
