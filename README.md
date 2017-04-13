@@ -6,9 +6,9 @@ This project will **only showcase the best, most popular and well-tested resourc
 
 # Contribution
 
-This project is open to all kinds of contribution in all of its categories from you. **Together, we can make it the ultimate Android reference available for free, for everyone, forever.**
+This project is open to all kinds of contribution in all of its categories. **Together, we can make it the ultimate Android reference available for free, for everyone, forever.**
 
-If you have any suggestion for including more categories, feel free to raise a Github issue for us to have a detailed discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promtional stuffs. This project will only include resources, **that make the cut**.
+If you have any suggestion for including more categories, feel free to raise a Github issue for more discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promtional stuff. This project is meant to only include resources, **that make the cut**.
 
 For resource contibution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request. If you want to contribute multiple resources, consider raising seperate PRs for each of them.
 
@@ -90,17 +90,25 @@ Gather feedback from your beta testers and have live conversations with your use
 
 * [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) - Amaze File Manager source code
 * [ClipStack](https://github.com/heruoxin/Clip-Stack) - A tiny clipboard history manager app
+* [EverMemo](https://github.com/daimajia/EverMemo) - Fast Record,Organize,and Share. The android memo app you will deeply love
+* [Google I/O App](https://github.com/google/iosched) - The Google I/O 2016 Android App
+* [InstaMaterial](https://github.com/frogermcs/InstaMaterial) - Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)
 * [Kickstarter](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere
 * [LeafPic](https://github.com/HoraApps/LeafPic) - LeafPic is an ad-free, open-source and material-designed android gallery alternative
 * [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Free as in Freedom torrent client for Android
 * [Materialize](https://github.com/oxoooo/materialize) - Materialize all those not material
+* [MinimalTodo](https://github.com/avjinder/Minimal-Todo) - Material To-Do App
 * [MLManager](https://github.com/javiersantos/MLManager) - A modern, easy and customizable app manager for Android with Material Design
+* [OmniNotes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android 
 * [PhotoAffix](https://github.com/afollestad/photo-affix) - 
 Stitch your photos together vertically or horizontally easily!
 * [QkSms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger app for Android
-* [SuperCleanMaster](https://github.com/joyoyao/superCleanMaster) - CleanMaster like open-source app
+* [SuperCleanMaster](https://github.com/joyoyao/superCleanMaster) - CleanMaster like open-source app'
+* [Talon for Twitter](https://github.com/klinker24/Talon-for-Twitter) - 100% open source version of my popular Talon for Twitter app on Android
 * [Timber](https://github.com/naman14/Timber) - Material Design Music Player
+* [Turbo Editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android
 * [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) - Smart App Lock for Android
+* [WeGit](https://github.com/Leaking/WeGit) - An Android App for Github
 
 
 
