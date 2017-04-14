@@ -65,6 +65,14 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 * [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use 
 
+## Image Processing
+
+* [PhotoFiltersSDK](https://github.com/Zomato/AndroidPhotoFilters) - AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media
+* [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide
+* [Fresco Processors](https://github.com/wasabeef/fresco-processors) - An Android image processor library providing a variety of image transformations for Fresco
+* [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
+
+
 ## Logging
 * [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class
 * [Logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for Android
@@ -89,6 +97,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Dart](https://github.com/f2prateek/dart) - Extras "injection" library for Android
 * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
 * [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
+* [Guava](https://github.com/google/guava) - Google Core Libraries for Java
 
 
 # Open-Source Apps
