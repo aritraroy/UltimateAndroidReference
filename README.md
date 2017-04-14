@@ -83,6 +83,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 * [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use 
+* [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android
 
 
 ## Image Processing
@@ -126,6 +127,13 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
 * [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API. 
 * [Mateiral Search View](https://github.com/MiguelCatalan/MaterialSearchView) - Cute library to implement SearchView in a Material Design Approach
+* [BlurKit Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS
+* [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
+* [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
+* [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for android
+* [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
+* [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
+* [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way
 
 
 ## Utilities
@@ -135,6 +143,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
 * [IcePick](https://github.com/frankiesardo/icepick) - Android Instance State made easy
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
+* [LibPhoneNumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 
 
 ## Utilities (Advanced)
