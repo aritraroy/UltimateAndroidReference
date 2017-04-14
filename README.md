@@ -37,16 +37,19 @@ These are some of the best and the most popular libraries and utilities to boost
 * [Rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app
 * [Backborad](https://github.com/tumblr/Backboard) - A motion-driven animation framework for Android
 
+
 ## Background Processing
 
 * [Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) - A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability
 * [Evernote's Android Job](https://github.com/evernote/android-job) - Android library to handle jobs in the background
 * [Firebase Job Dispatcher](https://github.com/firebase/firebase-jobdispatcher-android) - The Firebase JobDispatcher is a library for scheduling background jobs in your Android app. It provides a JobScheduler-compatible API that works on all recent versions of Android (API level 9+) that have Google Play services installed
 
+
 ## Charts
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations
 * [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Android library to create charts
 * [HelloCharts](https://github.com/lecho/hellocharts-android) - Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
+* [EazeGraph](https://github.com/blackfizz/EazeGraph) - An Android chart and graph library
 
 
 ## Crash Reporting
@@ -55,6 +58,7 @@ These are some of the best and the most popular libraries and utilities to boost
 Gather feedback from your beta testers and have live conversations with your users
 * [Bugsnag](https://www.bugsnag.com/) - Monitor application errors to improve customer experiences and code quality
 
+
 ## Debugging
 * [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
 * [Stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more
@@ -62,6 +66,8 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Takt](https://github.com/wasabeef/Takt) - Takt is Android library for measuring the FPS using Choreographer
 * [Android Performance Monitor](https://github.com/markzhai/AndroidPerformanceMonitor) - A transparent ui-block detection library for Android (known as BlockCanary)
 * [Debug Drawer](https://github.com/palaima/DebugDrawer) - Android Debug Drawer for faster development
+* [Chuck](https://github.com/jgilfelt/chuck) - An in-app HTTP inspector for Android OkHttp clients
+
 
 ## Dependency Injection
 
@@ -71,11 +77,13 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Dart](https://github.com/f2prateek/dart) - Extras "injection" library for Android
 * [Kotterknife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android (in Kotlin)
 
+
 ## Image Loading
 
 * [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 * [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use 
+
 
 ## Image Processing
 
@@ -85,11 +93,13 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
 * [Android GPU Image](https://github.com/CyberAgent/android-gpuimage) - Android filters based on OpenGL (idea from GPUImage for iOS)
 
+
 ## Logging
 * [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class
 * [Logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for Android
 * [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds
 * [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data
+
 
 ## Networking
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
@@ -107,6 +117,15 @@ Gather feedback from your beta testers and have live conversations with your use
 * [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
 * [RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
 * [Paper](https://github.com/pilgr/Paper) - Fast and simple data storage library for Android
+* [greenDAO](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases
+
+## UI Components
+* [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures
+* [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
+* [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
+* [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
+* [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API. 
+* [Mateiral Search View](https://github.com/MiguelCatalan/MaterialSearchView) - Cute library to implement SearchView in a Material Design Approach
 
 
 ## Utilities
