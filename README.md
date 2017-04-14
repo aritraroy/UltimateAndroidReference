@@ -26,6 +26,14 @@ For resource contibution, just follow the following format: `[reference-name](li
 # Libraries
 These are some of the best and the most popular libraries and utilities to boost up your Android development. This list only includes libraries which have been battle tested by plenty of developers for a very long time.
 
+## Animations
+
+* [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection
+* [Lottie](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
+* [Grav](https://github.com/glomadrian/Grav) - Configurable animations based on points
+* [Spruce](https://github.com/willowtreeapps/spruce-android) - Spruce Animation Library
+* [ExpetAnim](https://github.com/florent37/ExpectAnim) - Describe your animation and run! 
+
 ## Background Processing
 
 * [Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) - A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability
@@ -53,6 +61,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Debug Drawer](https://github.com/palaima/DebugDrawer) - Android Debug Drawer for faster development
 
 ## Dependency Injection
+
 * [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java
 * [Butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance.
@@ -79,7 +88,6 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds
 * [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data
 
-
 ## Networking
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
 * [Retorfit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface
@@ -93,11 +101,20 @@ Gather feedback from your beta testers and have live conversations with your use
 * [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android 
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
 
+
 ## Utilities
-* [Dart](https://github.com/f2prateek/dart) - Extras "injection" library for Android
 * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
 * [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
 * [Guava](https://github.com/google/guava) - Google Core Libraries for Java
+* [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
+* [IcePick](https://github.com/frankiesardo/icepick) - Android Instance State made easy
+* [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
+
+## Utilities (Advanced)
+
+* [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM
+* [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
+* [RetroLambda](https://github.com/evant/gradle-retrolambda) - A gradle plugin for getting java lambda support in java 6, 7 and android
 
 
 # Open-Source Apps
