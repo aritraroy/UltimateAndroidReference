@@ -20,6 +20,7 @@ For resource contibution, just follow the following format: `[reference-name](li
 * Tools
 * Sites
 * Books
+* Sample Projects
 * Tech Talks
 
 
@@ -33,6 +34,8 @@ These are some of the best and the most popular libraries and utilities to boost
 * [Grav](https://github.com/glomadrian/Grav) - Configurable animations based on points
 * [Spruce](https://github.com/willowtreeapps/spruce-android) - Spruce Animation Library
 * [ExpetAnim](https://github.com/florent37/ExpectAnim) - Describe your animation and run! 
+* [Rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app
+* [Backborad](https://github.com/tumblr/Backboard) - A motion-driven animation framework for Android
 
 ## Background Processing
 
@@ -80,7 +83,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide
 * [Fresco Processors](https://github.com/wasabeef/fresco-processors) - An Android image processor library providing a variety of image transformations for Fresco
 * [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
-
+* [Android GPU Image](https://github.com/CyberAgent/android-gpuimage) - Android filters based on OpenGL (idea from GPUImage for iOS)
 
 ## Logging
 * [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class
@@ -94,12 +97,16 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
 
+
 ## Persistent Storage
 * [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs 
 * [SQL Brite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations
 * [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you
 * [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android 
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
+* [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
+* [RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
+* [Paper](https://github.com/pilgr/Paper) - Fast and simple data storage library for Android
 
 
 ## Utilities
@@ -109,6 +116,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
 * [IcePick](https://github.com/frankiesardo/icepick) - Android Instance State made easy
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
+
 
 ## Utilities (Advanced)
 
