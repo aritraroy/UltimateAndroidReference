@@ -195,8 +195,11 @@ Stitch your photos together vertically or horizontally easily!
 
 # Tools
 
+* [ADB IDEA](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - A collection of tools to easily generate assets such as launcher icons for your Android app
+* [Android Tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
 * [Android Wifi ADB](https://github.com/pedrovgs/AndroidWiFiADB) - IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected
+* [DevKnox](https://devknox.io/) - Autocorrect Security Issues As You Write Code
 * [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages
 * [Drawable Optimizer](https://github.com/fabiomsr/drawable-optimizer) - Gradle plugin to optimize png files and reduce resultant apk size within an Android project
 * [Dry Run](https://github.com/cesarferreira/dryrun) - Try any android library hosted online directly from the command line
@@ -208,6 +211,10 @@ Stitch your photos together vertically or horizontally easily!
 * [Infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 * [JRebel for Android](https://zeroturnaround.com/software/jrebel-for-android) - Instantly update code and resources
 JRebel for Android is an IDE plug-in that accelerates the development of Android applications
+* [JSONBlob](https://jsonblob.com/) - JSON Blob is a web-based tool to create, edit, view, format, and share JSON
+* [JSONSchema2POJO](http://www.jsonschema2pojo.org/) - Easy and quick way to convert your JSON to Java objects 
+* [KeyPromoter](https://plugins.jetbrains.com/plugin/4455-key-promoter) - Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)
+* [Methods Count](http://www.methodscount.com/) - Your solution for a perfectly fit APK
 * [NimbleDroid](https://nimbledroid.com/) - Auto-test Your Android Apps for Critical Issues. No Coding Required
 * [Scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
