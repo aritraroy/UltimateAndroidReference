@@ -197,14 +197,22 @@ Stitch your photos together vertically or horizontally easily!
 
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - A collection of tools to easily generate assets such as launcher icons for your Android app
 * [Android Wifi ADB](https://github.com/pedrovgs/AndroidWiFiADB) - IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected
+* [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages
+* [Drawable Optimizer](https://github.com/fabiomsr/drawable-optimizer) - Gradle plugin to optimize png files and reduce resultant apk size within an Android project
 * [Dry Run](https://github.com/cesarferreira/dryrun) - Try any android library hosted online directly from the command line
+* [FindBugs](http://findbugs.sourceforge.net/) - Powerful static code analysis tool for Java and Android
+* [FlatIcon](http://www.flaticon.com/) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats
 * [GenyMotion](https://www.genymotion.com/) - A unique platform to bring your Android app to perfection!
 * [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Windows, Mac AND Linux
 * [Gradle Please](http://gradleplease.appspot.com/) - Quick and easy way to build Gradle based libraries in Android
+* [Infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 * [JRebel for Android](https://zeroturnaround.com/software/jrebel-for-android) - Instantly update code and resources
 JRebel for Android is an IDE plug-in that accelerates the development of Android applications
+* [NimbleDroid](https://nimbledroid.com/) - Auto-test Your Android Apps for Critical Issues. No Coding Required
+* [Scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
 * [SourceTree](https://www.sourcetreeapp.com/) - Harness the power of Git and Hg in a beautifully simple application
+* [The Noun Project](https://thenounproject.com/) - Icons for Everything
 * [Vysor](https://www.vysor.io/) - Vysor puts your Android on your desktop
 
 
