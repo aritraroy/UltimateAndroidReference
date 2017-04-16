@@ -199,7 +199,15 @@ Stitch your photos together vertically or horizontally easily!
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - A collection of tools to easily generate assets such as launcher icons for your Android app
 * [Android Tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
 * [Android Wifi ADB](https://github.com/pedrovgs/AndroidWiFiADB) - IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected
+* [APK DeGuard](http://apk-deguard.com/) - DeGuard reverses the process of obfuscation performed by Android obfuscation tools. This enables numerous security analyses, including code inspection and predicting libraries
+* [Butterknife Zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML
+* [ClassyShark](https://github.com/google/android-classyshark) - Android executables browser
+* [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting
+* [Codota](https://www.codota.com/ide-plugin) - Supercharge your development workflow by getting great code examples directly in your IDE. The Codota plugin for IntelliJ lets you quickly find the best code examples for every API class or method
+* [Dagger IntelliJ Plugin](https://github.com/square/dagger-intellij-plugin) - An IntelliJ IDEA plugin for Dagger which provides insight into how injections and providers are used
 * [DevKnox](https://devknox.io/) - Autocorrect Security Issues As You Write Code
+* [DTO Generator](https://plugins.jetbrains.com/plugin/7834-dto-generator) - Data Transfer Object(DTO) generator that generates Java classes from the given feed
+* [DPI Love](http://dpi.lv/) - Get accurate DPI information on a wide range of Android devices
 * [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages
 * [Drawable Optimizer](https://github.com/fabiomsr/drawable-optimizer) - Gradle plugin to optimize png files and reduce resultant apk size within an Android project
 * [Dry Run](https://github.com/cesarferreira/dryrun) - Try any android library hosted online directly from the command line
@@ -208,26 +216,30 @@ Stitch your photos together vertically or horizontally easily!
 * [GenyMotion](https://www.genymotion.com/) - A unique platform to bring your Android app to perfection!
 * [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Windows, Mac AND Linux
 * [Gradle Please](http://gradleplease.appspot.com/) - Quick and easy way to build Gradle based libraries in Android
+* [IDE Scout](http://www.idescout.com/) - SQLScout is a plugin for Android Studio and IntelliJ IDEA that provides powerful, dedicated support for managing and debugging SQLite databases
 * [Infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 * [JRebel for Android](https://zeroturnaround.com/software/jrebel-for-android) - Instantly update code and resources
 JRebel for Android is an IDE plug-in that accelerates the development of Android applications
 * [JSONBlob](https://jsonblob.com/) - JSON Blob is a web-based tool to create, edit, view, format, and share JSON
 * [JSONSchema2POJO](http://www.jsonschema2pojo.org/) - Easy and quick way to convert your JSON to Java objects 
 * [KeyPromoter](https://plugins.jetbrains.com/plugin/4455-key-promoter) - Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)
+* [Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin) - This plugin help you to set material design icon to your project
+* [Material Palette](https://www.materialpalette.com/) - Generate Material Design color palettes quickly and easily
 * [Methods Count](http://www.methodscount.com/) - Your solution for a perfectly fit APK
 * [NimbleDroid](https://nimbledroid.com/) - Auto-test Your Android Apps for Critical Issues. No Coding Required
 * [Scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
 * [SourceTree](https://www.sourcetreeapp.com/) - Harness the power of Git and Hg in a beautifully simple application
+* [SVG2VectorDrawable Plugin](https://plugins.jetbrains.com/plugin/8103-svg2vectordrawable) - Tools for convert SVG file to Android VectorDrawable
 * [The Noun Project](https://thenounproject.com/) - Icons for Everything
 * [Vysor](https://www.vysor.io/) - Vysor puts your Android on your desktop
-
-
+* [Zeplin](https://zeplin.io/) - Design hand-off has never been easier. Generate styleguides and resources, automatically
 
 # Sites
 
 * [Google Developers](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
 * [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
-* [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast[
+* [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
+* [CasterIO](https://caster.io/) - Skyrocket your Android career with bite sized Android development video training
 
 
