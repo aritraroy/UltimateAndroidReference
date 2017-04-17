@@ -237,9 +237,12 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 
 # Sites
 
-* [Google Developers](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
-* [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
-* [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
+* [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
+* [AndroidDevDigest](https://www.androiddevdigest.com/) - A Handcrafted Weekly #AndroidDev Newsletter
+* [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development
 * [CasterIO](https://caster.io/) - Skyrocket your Android career with bite sized Android development video training
-
-
+* [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
+* [Google Developers](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
+* [Material Up](http://materialup.com/) - Get fresh Material Design inspiration daily
+* [Reddit's AndroidDev](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
+* [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
