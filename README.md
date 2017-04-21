@@ -27,7 +27,7 @@ For resource contibution, just follow the following format: `[reference-name](li
 	* [Image Processing](#image-processing)
 	* [Logging](#logging)
 	* [Networking](#networking)
-	* [Persistent Storage](#persistent-storage)
+	* [Persistent Storage](#persistentence)
 	* [UI Components](#ui-components)
 	* [Utilities](#utilities)
 	* [Utilities (Advanced)](#utilities-advanced)
@@ -37,6 +37,7 @@ For resource contibution, just follow the following format: `[reference-name](li
 * Books
 * [Sample Projects](#sample-projects)
 * YouTube Channels
+* Twitter Profiles
 
 
 ## Libraries
@@ -267,7 +268,7 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Android Hive](http://www.androidhive.info/) - Androidhive is independent online publication that covers android programming tutorials, app reviews and more
 * [Android Niceties](http://androidniceties.tumblr.com/) - A collection of screenshots encompassing some of the most beautiful looking Android apps
 * [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development
-* [CasterIO](https://caster.io/) - Skyrocket your Android career with bite sized Android development video training
+* [Caster.IO](https://caster.io/) - Skyrocket your Android career with bite sized Android development video training
 * [Codepath Android Cliffnotes](https://guides.codepath.com/android) - One of the best and most up-to-date crowdsourced resource for Android developers where you will find guides and tutorials about almost everything in Android
 * [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
 * [Material Up](http://materialup.com/) - Get fresh Material Design inspiration daily
@@ -275,6 +276,16 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Reddit's AndroidDev](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
 * [Styling Android](https://blog.stylingandroid.com/) - Learn perfecting your Android UI and UX development skills
 * [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
+
+## Books
+
+* [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/) - by Bill Phillips, Chris Stewart, and Kristin Marsicano
+* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) - by Robert C. Martin
+* [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) - by Joshua Bloch
+* [Head First Design Patterns](https://www.amazon.com/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124) - by Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson
+* [Java: The Complete Reference](https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/9339212096) - by Herbert Schildt
+* [The Busy Coder's Guide to Advanced Android Development](https://commonsware.com/Android/) - by Mark Murphy
+* [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) - by Michael Feathers
 
 ## Sample Projects
 
