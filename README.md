@@ -4,7 +4,8 @@ The goal of this project is to provide a hand-picked collection of Android libra
 
 This project will **only showcase the best, most popular and well-tested resources** that you will actually need rather than overwhelming you with a plethora of low-quality ones.
 
-# Contribution
+
+## Contribution
 
 This project is open to all kinds of contribution in all of its categories. **Together, we can make it the ultimate Android reference available for free, for everyone, forever.**
 
@@ -13,7 +14,7 @@ If you have any suggestion for including more categories, feel free to raise a G
 For resource contibution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request. If you want to contribute multiple resources, consider raising seperate PRs for each of them.
 
 
-# Categories
+## Categories
 
 * [Libraries](#libraries)
 * [Open-Source Apps](#open-source-apps)
@@ -21,13 +22,14 @@ For resource contibution, just follow the following format: `[reference-name](li
 * [Sites](#sites)
 * Books
 * [Sample Projects](#sample-projects)
-* Tech Talks
+* YouTube Channels
 
 
-# Libraries
+## Libraries
 These are some of the best and the most popular libraries and utilities to boost up your Android development. This list only includes libraries which have been battle tested by plenty of developers for a very long time.
 
-## Animations
+
+### Animations
 
 * [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection
 * [Lottie](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
@@ -38,28 +40,28 @@ These are some of the best and the most popular libraries and utilities to boost
 * [Backborad](https://github.com/tumblr/Backboard) - A motion-driven animation framework for Android
 
 
-## Background Processing
+### Background Processing
 
 * [Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) - A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability
 * [Evernote's Android Job](https://github.com/evernote/android-job) - Android library to handle jobs in the background
 * [Firebase Job Dispatcher](https://github.com/firebase/firebase-jobdispatcher-android) - The Firebase JobDispatcher is a library for scheduling background jobs in your Android app. It provides a JobScheduler-compatible API that works on all recent versions of Android (API level 9+) that have Google Play services installed
 
 
-## Charts
+### Charts
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations
 * [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Android library to create charts
 * [HelloCharts](https://github.com/lecho/hellocharts-android) - Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
 * [EazeGraph](https://github.com/blackfizz/EazeGraph) - An Android chart and graph library
 
 
-## Crash Reporting
+### Crash Reporting
 * [Fabric Crash Analytics](https://get.fabric.io/) - Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business
 * [InstaBug](https://www.bugsnag.com/) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting.
 Gather feedback from your beta testers and have live conversations with your users
 * [Bugsnag](https://www.bugsnag.com/) - Monitor application errors to improve customer experiences and code quality
 
 
-## Debugging
+### Debugging
 * [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
 * [Stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more
 * [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
@@ -69,7 +71,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Chuck](https://github.com/jgilfelt/chuck) - An in-app HTTP inspector for Android OkHttp clients
 
 
-## Dependency Injection
+### Dependency Injection
 
 * [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java
 * [Butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods
@@ -78,7 +80,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Kotterknife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android (in Kotlin)
 
 
-## Image Loading
+### Image Loading
 
 * [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
@@ -86,7 +88,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android
 
 
-## Image Processing
+### Image Processing
 
 * [PhotoFiltersSDK](https://github.com/Zomato/AndroidPhotoFilters) - AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media
 * [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide
@@ -95,21 +97,21 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Android GPU Image](https://github.com/CyberAgent/android-gpuimage) - Android filters based on OpenGL (idea from GPUImage for iOS)
 
 
-## Logging
+### Logging
 * [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class
 * [Logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for Android
 * [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds
 * [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data
 
 
-## Networking
+### Networking
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
 * [Retorfit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
 
 
-## Persistent Storage
+### Persistent Storage
 * [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs 
 * [SQL Brite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations
 * [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you
@@ -120,7 +122,9 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Paper](https://github.com/pilgr/Paper) - Fast and simple data storage library for Android
 * [greenDAO](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases
 
-## UI Components
+
+
+### UI Components
 * [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures
 * [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android 
 * [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
@@ -137,7 +141,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way
 
 
-## Utilities
+### Utilities
 * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
 * [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
 * [Guava](https://github.com/google/guava) - Google Core Libraries for Java
@@ -147,14 +151,15 @@ Gather feedback from your beta testers and have live conversations with your use
 * [LibPhoneNumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 
 
-## Utilities (Advanced)
+### Utilities (Advanced)
 
 * [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM
 * [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
 * [RetroLambda](https://github.com/evant/gradle-retrolambda) - A gradle plugin for getting java lambda support in java 6, 7 and android
 
 
-# Open-Source Apps
+
+## Open-Source Apps
 
 * [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) - Amaze File Manager source code
 * [AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
@@ -194,7 +199,8 @@ Stitch your photos together vertically or horizontally easily!
 * [WeGit](https://github.com/Leaking/WeGit) - An Android App for Github
 
 
-# Tools
+
+## Tools
 
 * [ADB IDEA](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - A collection of tools to easily generate assets such as launcher icons for your Android app
@@ -237,7 +243,9 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Zeplin](https://zeplin.io/) - Design hand-off has never been easier. Generate styleguides and resources, automatically
 * [Trialy.IO](https://www.trialy.io/) - Increase your IAP conversions by letting your users try premium features for a limited time
 
-# Sites
+
+
+## Sites
 
 * [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
 * [AndroidDevDigest](https://www.androiddevdigest.com/) - A Handcrafted Weekly #AndroidDev Newsletter
@@ -254,7 +262,7 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Styling Android](https://blog.stylingandroid.com/) - Learn perfecting your Android UI and UX development skills
 * [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
 
-# Sample Projects
+## Sample Projects
 
 * [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps
 * [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
