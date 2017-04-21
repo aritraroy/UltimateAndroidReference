@@ -20,7 +20,7 @@ For resource contibution, just follow the following format: `[reference-name](li
 * [Tools](#tools)
 * [Sites](#sites)
 * Books
-* Sample Projects
+* [Sample Projects](#sample-projects)
 * Tech Talks
 
 
@@ -241,12 +241,17 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 
 * [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
 * [AndroidDevDigest](https://www.androiddevdigest.com/) - A Handcrafted Weekly #AndroidDev Newsletter
+* [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
+* [Android Hive](http://www.androidhive.info/) - Androidhive is independent online publication that covers android programming tutorials, app reviews and more
+* [Android Niceties](http://androidniceties.tumblr.com/) - A collection of screenshots encompassing some of the most beautiful looking Android apps
 * [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development
 * [CasterIO](https://caster.io/) - Skyrocket your Android career with bite sized Android development video training
+* [Codepath Android Cliffnotes](https://guides.codepath.com/android) - One of the best and most up-to-date crowdsourced resource for Android developers where you will find guides and tutorials about almost everything in Android
 * [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
-* [Google Developers](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
 * [Material Up](http://materialup.com/) - Get fresh Material Design inspiration daily
+* [Medium's Google Developers Blog](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
 * [Reddit's AndroidDev](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
+* [Styling Android](https://blog.stylingandroid.com/) - Learn perfecting your Android UI and UX development skills
 * [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
 
 # Sample Projects
@@ -254,7 +259,7 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps
 * [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
+* [AndroidThings Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
+* [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 * [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
 * [RxJava2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
-* [AndroidThings Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
-
