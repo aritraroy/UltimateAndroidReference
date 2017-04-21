@@ -122,6 +122,7 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ## UI Components
 * [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures
+* [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android 
 * [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
 * [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
@@ -234,6 +235,7 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [The Noun Project](https://thenounproject.com/) - Icons for Everything
 * [Vysor](https://www.vysor.io/) - Vysor puts your Android on your desktop
 * [Zeplin](https://zeplin.io/) - Design hand-off has never been easier. Generate styleguides and resources, automatically
+* [Trialy.IO](https://www.trialy.io/) - Increase your IAP conversions by letting your users try premium features for a limited time
 
 # Sites
 
@@ -246,3 +248,13 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Material Up](http://materialup.com/) - Get fresh Material Design inspiration daily
 * [Reddit's AndroidDev](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
 * [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
+
+# Sample Projects
+
+* [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps
+* [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
+* [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
+* [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
+* [RxJava2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
+* [AndroidThings Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
+
