@@ -17,6 +17,20 @@ For resource contibution, just follow the following format: `[reference-name](li
 ## Categories
 
 * [Libraries](#libraries)
+	* [Animations](#animations)
+	* [Background Processing](#background-processing)
+	* [Charts](#charts)
+	* [Crash Reporting](#crash-reporting)
+	* [Debugging](#debugging)
+	* [Dependency Injection](#dependency-injection)
+	* [Image Loading](#image-loading)
+	* [Image Processing](#image-processing)
+	* [Logging](#logging)
+	* [Networking](#networking)
+	* [Persistent Storage](#persistent-storage)
+	* [UI Components](#ui-components)
+	* [Utilities](#utilities)
+	* [Utilities (Advanced)](#utilities-advanced)
 * [Open-Source Apps](#open-source-apps)
 * [Tools](#tools)
 * [Sites](#sites)
@@ -35,7 +49,8 @@ These are some of the best and the most popular libraries and utilities to boost
 * [Lottie](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
 * [Grav](https://github.com/glomadrian/Grav) - Configurable animations based on points
 * [Spruce](https://github.com/willowtreeapps/spruce-android) - Spruce Animation Library
-* [ExpectAnim](https://github.com/florent37/ExpectAnim) - Describe your animation and run! 
+* [ExpectAnim](https://github.com/florent37/ExpectAnim) - Describe your animation and run
+* [ViewAnimator](https://github.com/florent37/ViewAnimator) - A fluent Android animation library
 * [Rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app
 * [Backborad](https://github.com/tumblr/Backboard) - A motion-driven animation framework for Android
 
@@ -43,7 +58,7 @@ These are some of the best and the most popular libraries and utilities to boost
 ### Background Processing
 
 * [Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) - A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability
-* [Evernote's Android Job](https://github.com/evernote/android-job) - Android library to handle jobs in the background
+* [Evernote Android Job](https://github.com/evernote/android-job) - Android library to handle jobs in the background
 * [Firebase Job Dispatcher](https://github.com/firebase/firebase-jobdispatcher-android) - The Firebase JobDispatcher is a library for scheduling background jobs in your Android app. It provides a JobScheduler-compatible API that works on all recent versions of Android (API level 9+) that have Google Play services installed
 
 
@@ -75,7 +90,6 @@ Gather feedback from your beta testers and have live conversations with your use
 
 * [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java
 * [Butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods
-* [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance.
 * [Dart](https://github.com/f2prateek/dart) - Extras "injection" library for Android
 * [Kotterknife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android (in Kotlin)
 
@@ -106,12 +120,12 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ### Networking
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
-* [Retorfit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface
+* [Retrofit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
 
 
-### Persistent Storage
+### Persistenence
 * [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs 
 * [SQL Brite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations
 * [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you
@@ -127,10 +141,10 @@ Gather feedback from your beta testers and have live conversations with your use
 ### UI Components
 * [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures
 * [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android 
-* [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
+* [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
 * [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
-* [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API. 
+* [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API
 * [Mateiral Search View](https://github.com/MiguelCatalan/MaterialSearchView) - Cute library to implement SearchView in a Material Design Approach
 * [BlurKit Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
@@ -138,18 +152,18 @@ Gather feedback from your beta testers and have live conversations with your use
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for android
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
 * [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
-* [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way
 
 
 ### Utilities
 * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
+* [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance.
 * [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
 * [Guava](https://github.com/google/guava) - Google Core Libraries for Java
 * [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
 * [IcePick](https://github.com/frankiesardo/icepick) - Android Instance State made easy
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
 * [LibPhoneNumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
-
+* [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way
 
 ### Utilities (Advanced)
 
