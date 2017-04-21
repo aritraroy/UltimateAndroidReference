@@ -34,10 +34,10 @@ For resource contibution, just follow the following format: `[reference-name](li
 * [Open-Source Apps](#open-source-apps)
 * [Tools](#tools)
 * [Sites](#sites)
-* Books
+* [Books](#books)
 * [Sample Projects](#sample-projects)
-* YouTube Channels
-* Twitter Profiles
+* [Video Tutorials](#video-tutorials)
+* [Twitter Profiles](#twitter-profiles)
 
 
 ## Libraries
@@ -296,3 +296,55 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 * [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
 * [RxJava2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
+
+## Video Tutorials
+
+* [Advanced Android App Development (Udacity)](https://www.udacity.com/course/advanced-android-app-development--ud855) - This course will guide you through the process of productionizing an app, using Sunshine, the weather app we built in Developing Android Apps
+* [Android Developers (YouTube)](https://www.youtube.com/user/androiddevelopers) - Google's official Android development channel on Youtube for all the tutorials, demos, events, etc
+* [Design Patterns Tutorials (YouTube)](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07) - Learn about all the Java design patterns in details from these quick and easy video tutorials by Derek Banas
+* [Developing Android Apps (Udacity)](https://www.udacity.com/course/new-android-fundamentals--ud851) - As the first course in the Android Developer Nanodegree, Developing Android Apps is the foundation of our advanced Android curriculum. This course blends theory and practice to help you build great apps the right way
+* [Firebase in a Weekend: Android (YouTube)](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) - In this course, you’ll learn how to use Firebase. Firebase is app development platform that provides developers a variety of tools and a scalable infrastructure to build high quality apps
+* [Firebase for Android (YouTube)](https://www.youtube.com/user/Firebase) - Learn everything abour Firebase and boost your Android development skills
+* [Slidenerd Tutorials (YouTube)](https://www.youtube.com/user/slidenerd) - One of the best channels covering a lot of tutorials on various aspects of Android
+
+## Twitter Profiles
+
+* [Android Developers](https://twitter.com/AndroidDev) - News and announcements for developers from the Android team
+* [Chet Haase](https://twitter.com/chethaase) - Willful misinterpretation. Android. Comedy. That kind of stuff
+* [Chris Banes](https://twitter.com/chrisbanes) - #Android Developer Relations @Google
+* [Chiu-Ki Chan](https://twitter.com/chiuki) - @monkeywrite & @heartcollage creator, Android developer, public speaker (@techspeakdigest), sketchnoter, language lover, world traveller
+* [Cyril Mottier](https://twitter.com/cyrilmottier) - Mobile Product Devsigner & Android expert. ex-Head of Mobile & Web @captaintrain. #UI #UX #Design
+* [Dan Lew](https://twitter.com/danlew42) - Android @Trello/@Atlassian, gamer and geek. The views expressed in these tweets are yours and your employer's
+* [Donn Felker](https://twitter.com/donnfelker) - Best Selling Mobile Dev Book Author. Android GDE. Android Consultant. Co-Host of the @fragmentedcast. Teaching Android at @caster_io. Remote workforce advocate
+* [DroidSmith](https://twitter.com/devunwired) - I write, speak, and build...mostly with Android+Embedded. IoT @ Google. Recovering spark-chaser
+* [GenyMotion](https://twitter.com/Genymotion) - The most complete Android emulation platform (desktop, cloud, on-demand) 🚀 • Trusted by 5M+ developers, testers & enthusiasts 🙌 • Made by @Genymobile in France
+* [Huyen Tue Dao](https://twitter.com/queencodemonkey) - Native Android Code Monkey: monkey code, monkey break, monkey debug, monkey iterate. Randomly typing on @Trello for @Atlassian. GDE. ½ of Android Dialogs
+* [Jake Wharton](https://twitter.com/JakeWharton) - Stop stopping
+* [jessewilson](https://twitter.com/jessewilson) - Android and jokes. Sometimes also inclusivity & sustainability
+* [Kaushik Gopal](https://twitter.com/kaushikgopal) - I'm ½ of the @FragmentedCast and a Google Developer Expert. I build Android apps for @Instacart. I watch atleast 1 movie every week and Jon Stewart is my hero
+* [Kristin Marsicano](https://twitter.com/kristinmars) - Android Developer and Instructor @bignerdranch. Co-author of Android Programming: The Big Nerd Ranch Guide. Always learning
+* [Lars Vogel](https://twitter.com/vogella) - Eclipse platform UI and e4 project lead. Android and Eclipse RCP developer. CEO of vogella GmbH, book author, speaker, trainer and proud Dad and husband
+* [Mark Allison](https://twitter.com/MarkIAllison) - GDE for Android. I write code and https://blog.stylingandroid.com . Then I relax by supporting Watford FC. After that I need to drink good whisky
+* [Nick Butcher](https://twitter.com/crafty) - Design + Developer Advocate @Google, I help people to design and build lovely Android apps
+* [Py](https://twitter.com/Piwai) - Android baker @Square
+* [Rebecca Franks](https://twitter.com/riggaroo) - Android Engineering Lead at @DVT_Corporate | Google Developer Expert for #Android and #IoT #GDE | Made @bookdash app | I ❤ baking and travelling
+* [Reto Meier](https://twitter.com/retomeier) - Developer Advocate at Google, Android developer, and author of Professional Android Application Development series. Views expressed are mine alone
+* [Romain Guy](https://twitter.com/romainguy) - Android Graphics team manager @Google, Photography
+* [Roman Nurik](https://twitter.com/romannurik) - Designer on @Firebase at @Google · Android/Web Developer
+* [Ryan Harter](https://twitter.com/rharter) - Freelance Android Developer, Google Developer Expert, community leader
+* [Tor Norbye](https://twitter.com/tornorbye) - Tor Norbye is the tech lead for Android Studio at Google
+* [Ty](https://twitter.com/tsmith) - Android at @Uber Dev Platform - Google Developer Expert - @specializedtype investor - @sfaug and @droidconsf organizer - ex @twitter @fabric @evernote @zagat
+
+
+## Project Maintained By
+
+### Aritra Roy
+
+Android & Backend Developer. Blogger. Designer. Fitness Enthusiast.
+
+
+<a href="https://play.google.com/store/apps/details?id=com.codexapps.andrognito&hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true" width="60"></a> <a href="https://blog.aritraroy.in/"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a>
+<a href="http://stackoverflow.com/users/2858654/aritra-roy"><img src="https://github.com/aritraroy/social-icons/blob/master/stackoverflow-icon.png?raw=true" width="60"></a>
+<a href="https://twitter.com/aritraroy93"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+
+
