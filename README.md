@@ -1,21 +1,19 @@
 ![UltimateAndroidReference](https://github.com/aritraroy/ultimate-android-reference/blob/master/raw/top-banner.png?raw=true)
 
 
-# Ultimate Android Reference
-
 The goal of this project is to provide a hand-picked collection of Android libraries, tools, open-source projects, books, blogs, tutorials - you name it.
 
-This project will **only showcase the best, most popular and well-tested resources** that you will actually need rather than overwhelming you with a plethora of low-quality ones.
+This project will ty to **only showcase the best, most popular and well-tested resources** that you will actually need rather than overwhelming you with a plethora of low-quality ones.
 
+Happy learning. :-)
 
-## Contribution
+## Contribution Guide
 
 This project is open to all kinds of contribution in all of its categories. **Together, we can make it the ultimate Android reference available for free, for everyone, forever.**
 
-If you have any suggestion for including more categories, feel free to raise a Github issue for more discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promtional stuff. This project is meant to only include resources, **that make the cut**.
+For resource contibution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request. If you want to contribute multiple resources, raise seperate PRs for each of them. Please consider adding resources maintaining the default sorting order of the category, like alphabetical sorting.
 
-For resource contibution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request. If you want to contribute multiple resources, consider raising seperate PRs for each of them.
-
+If you have any suggestion for including more categories, feel free to open a Github issue for more discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promtional stuff. Let's keep this project clean and useful.
 
 ## Categories
 
