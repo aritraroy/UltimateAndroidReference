@@ -18,6 +18,9 @@ For resource contibution, just follow the following format: `[reference-name](li
 
 If you have any suggestion for including more categories, feel free to open a Github issue for more discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promtional stuff. Let's keep this project clean and useful.
 
+If you feel that a particular resource listed here is not a good fit for this project and should be removed, feel free to let me know by opening an issue.
+
+
 ## Categories
 
 * [Libraries](#libraries)
@@ -36,7 +39,12 @@ If you have any suggestion for including more categories, feel free to open a Gi
 	* [Utilities](#utilities)
 	* [Utilities (Advanced)](#utilities-advanced)
 * [Open-Source Apps](#open-source-apps)
+	* [Beginner](#beginner)
+	* [Intermediate](#intermediate)
+	* [Expert](#expert)
 * [Tools](#tools)
+	* [Free](#free)
+	* [Pro](#pro)
 * [Sites](#sites)
 * [Books](#books)
 * [Sample Projects](#sample-projects)
@@ -182,6 +190,12 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ## Open-Source Apps
 
+### Beginner
+
+### Intermediate
+
+### Expert
+
 * [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) - Amaze File Manager source code
 * [AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 * [ClipStack](https://github.com/heruoxin/Clip-Stack) - A tiny clipboard history manager app
@@ -222,6 +236,10 @@ Stitch your photos together vertically or horizontally easily!
 
 
 ## Tools
+
+### Free
+
+### Pro
 
 * [ADB IDEA](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - A collection of tools to easily generate assets such as launcher icons for your Android app
@@ -286,6 +304,7 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 ## Books
 
 * [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/) - by Bill Phillips, Chris Stewart, and Kristin Marsicano
+* [Asynchronous Android](http://www.amazon.in/Asynchronous-Android-Steve-Liles/dp/1783286873) - by Steve Liles 
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) - by Robert C. Martin
 * [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) - by Joshua Bloch
 * [Head First Design Patterns](https://www.amazon.com/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124) - by Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson
@@ -296,9 +315,12 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 ## Sample Projects
 
 * [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps
+* [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Collected code examples from the O'Reilly Android Cookbook
 * [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
 * [AndroidThings Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
+* [CW Omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
+* [Firebase Quickstart Android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
 * [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 * [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
 * [RxJava2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
