@@ -45,19 +45,18 @@ If you have any suggestion for including more categories, feel free to open a Gi
 
 
 ## Libraries
-These are some of the best and the most popular libraries and utilities to boost up your Android development. This list only includes libraries which have been battle tested by plenty of developers for a very long time.
-
+These are some of the best and the most popular libraries and utilities to boost up your Android development. This list is divided into a few essential categories and only includes libraries which have been battle tested by a lot of developers.
 
 ### Animations
 
 * [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection
-* [Lottie](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
-* [Grav](https://github.com/glomadrian/Grav) - Configurable animations based on points
-* [Spruce](https://github.com/willowtreeapps/spruce-android) - Spruce Animation Library
+* [Backboard](https://github.com/tumblr/Backboard) - A motion-driven animation framework for Android
 * [ExpectAnim](https://github.com/florent37/ExpectAnim) - Describe your animation and run
-* [ViewAnimator](https://github.com/florent37/ViewAnimator) - A fluent Android animation library
+* [Grav](https://github.com/glomadrian/Grav) - Configurable animations based on points
+* [Lottie](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
 * [Rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app
-* [Backborad](https://github.com/tumblr/Backboard) - A motion-driven animation framework for Android
+* [Spruce](https://github.com/willowtreeapps/spruce-android) - Spruce Animation Library
+* [ViewAnimator](https://github.com/florent37/ViewAnimator) - A fluent Android animation library
 
 
 ### Background Processing
@@ -75,45 +74,48 @@ These are some of the best and the most popular libraries and utilities to boost
 
 
 ### Crash Reporting
+* [Bugsee](https://www.bugsee.com/) - Flight recorder for your iOS
+and Android apps
+* [Bugsnag](https://www.bugsnag.com/) - Monitor application errors to improve customer experiences and code quality
 * [Fabric Crash Analytics](https://get.fabric.io/) - Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business
 * [InstaBug](https://www.bugsnag.com/) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting.
 Gather feedback from your beta testers and have live conversations with your users
-* [Bugsnag](https://www.bugsnag.com/) - Monitor application errors to improve customer experiences and code quality
 
 
 ### Debugging
+* [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences
+* [Android Performance Monitor](https://github.com/markzhai/AndroidPerformanceMonitor) - A transparent ui-block detection library for Android (known as BlockCanary)
+* [Chuck](https://github.com/jgilfelt/chuck) - An in-app HTTP inspector for Android OkHttp clients
+* [Debug Drawer](https://github.com/palaima/DebugDrawer) - Android Debug Drawer for faster development
 * [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
 * [Stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more
-* [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
 * [Takt](https://github.com/wasabeef/Takt) - Takt is Android library for measuring the FPS using Choreographer
-* [Android Performance Monitor](https://github.com/markzhai/AndroidPerformanceMonitor) - A transparent ui-block detection library for Android (known as BlockCanary)
-* [Debug Drawer](https://github.com/palaima/DebugDrawer) - Android Debug Drawer for faster development
-* [Chuck](https://github.com/jgilfelt/chuck) - An in-app HTTP inspector for Android OkHttp clients
 
 
 ### Dependency Injection
 
-* [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java
 * [Butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods
+* [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java
 * [Dart](https://github.com/f2prateek/dart) - Extras "injection" library for Android
 * [Kotterknife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android (in Kotlin)
 
 
 ### Image Loading
 
+* [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android
+* [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use 
 * [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
-* [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use 
-* [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android
 
 
 ### Image Processing
 
-* [PhotoFiltersSDK](https://github.com/Zomato/AndroidPhotoFilters) - AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media
-* [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide
-* [Fresco Processors](https://github.com/wasabeef/fresco-processors) - An Android image processor library providing a variety of image transformations for Fresco
-* [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
 * [Android GPU Image](https://github.com/CyberAgent/android-gpuimage) - Android filters based on OpenGL (idea from GPUImage for iOS)
+* [Fresco Processors](https://github.com/wasabeef/fresco-processors) - An Android image processor library providing a variety of image transformations for Fresco
+* [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide
+* [PhotoFiltersSDK](https://github.com/Zomato/AndroidPhotoFilters) - AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media
+* [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
+
 
 
 ### Logging
