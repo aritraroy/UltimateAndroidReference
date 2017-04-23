@@ -6,8 +6,9 @@ This project will ty to **only showcase the best, most popular and well-tested r
 
 Happy learning. :-)
 
-[![GitHub stars](https://img.shields.io/github/stars/aritraroy/ultimate-android-reference.svg?style=social&label=Star)](https://github.com/aritraroy/ultimate-android-reference) [![GitHub forks](https://img.shields.io/github/forks/aritraroy/ultimate-android-reference.svg?style=social&label=Fork)](https://github.com/aritraroy/ultimate-android-reference/fork) [![GitHub watchers](https://img.shields.io/github/watchers/aritraroy/ultimate-android-reference.svg?style=social&label=Watch)](https://github.com/aritraroy/ultimate-android-reference) [![GitHub followers](https://img.shields.io/github/followers/aritraroy?style=social&label=Follow)](https://github.com/aritraroy/ultimate-android-reference) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/aritraroy?style=social)](https://twitter.com/aritraroy)
+
+#### Spread Some :heart:
+[![GitHub stars](https://img.shields.io/github/stars/aritraroy/ultimate-android-reference.svg?style=social&label=Star)](https://github.com/aritraroy/ultimate-android-reference) [![GitHub forks](https://img.shields.io/github/forks/aritraroy/ultimate-android-reference.svg?style=social&label=Fork)](https://github.com/aritraroy/ultimate-android-reference/fork) [![GitHub watchers](https://img.shields.io/github/watchers/aritraroy/ultimate-android-reference.svg?style=social&label=Watch)](https://github.com/aritraroy/ultimate-android-reference)[![GitHub followers](https://img.shields.io/github/followers/aritraroy.svg?style=social&label=Follow)](https://github.com/aritraroy) [![Twitter Follow](https://img.shields.io/twitter/follow/aritraroy93.svg?style=social)](https://twitter.com/aritraroy93)
 
 ## Contribution Guide
 
