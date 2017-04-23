@@ -1,5 +1,3 @@
-## Ultimate Android Reference
-
 ![UltimateAndroidReference](https://github.com/aritraroy/ultimate-android-reference/blob/master/raw/top-banner.png?raw=true)
 
 The goal of this project is to provide a hand-picked collection of Android libraries, tools, open-source projects, books, blogs, tutorials - you name it.
@@ -7,6 +5,9 @@ The goal of this project is to provide a hand-picked collection of Android libra
 This project will ty to **only showcase the best, most popular and well-tested resources** that you will actually need rather than overwhelming you with a plethora of low-quality ones.
 
 Happy learning. :-)
+
+[![GitHub stars](https://img.shields.io/github/stars/aritraroy/ultimate-android-reference.svg?style=social&label=Star)](https://github.com/aritraroy/ultimate-android-reference) [![GitHub forks](https://img.shields.io/github/forks/aritraroy/ultimate-android-reference.svg?style=social&label=Fork)](https://github.com/aritraroy/ultimate-android-reference/fork) [![GitHub watchers](https://img.shields.io/github/watchers/aritraroy/ultimate-android-reference.svg?style=social&label=Watch)](https://github.com/aritraroy/ultimate-android-reference) [![GitHub followers](https://img.shields.io/github/followers/aritraroy?style=social&label=Follow)](https://github.com/aritraroy/ultimate-android-reference) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/aritraroy?style=social)](https://twitter.com/aritraroy)
 
 ## Contribution Guide
 
