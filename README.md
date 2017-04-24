@@ -75,17 +75,19 @@ These are some of the best and the most popular libraries and utilities to boost
 
 
 ### Charts
+
+* [EazeGraph](https://github.com/blackfizz/EazeGraph) - An Android chart and graph library
+* [HelloCharts](https://github.com/lecho/hellocharts-android) - Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations
 * [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Android library to create charts
-* [HelloCharts](https://github.com/lecho/hellocharts-android) - Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
-* [EazeGraph](https://github.com/blackfizz/EazeGraph) - An Android chart and graph library
 
 
-### Crash Reporting
+### Crash Reporting & Analytics
 * [Bugsee](https://www.bugsee.com/) - Flight recorder for your iOS
 and Android apps
 * [Bugsnag](https://www.bugsnag.com/) - Monitor application errors to improve customer experiences and code quality
 * [Fabric Crash Analytics](https://get.fabric.io/) - Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business
+* [MixPanel](https://mixpanel.com/) - Deeply understand every user's journey with instant insights for everyone on mobile and web
 * [InstaBug](https://www.bugsnag.com/) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting.
 Gather feedback from your beta testers and have live conversations with your users
 
@@ -127,65 +129,65 @@ Gather feedback from your beta testers and have live conversations with your use
 
 
 ### Logging
-* [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class
-* [Logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for Android
 * [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds
+* [Logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for Android
 * [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data
+* [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class
 
 
 ### Networking
+* [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
+* [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
 * [Retrofit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface
-* [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
-* [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
-
 
 ### Persistenence
-* [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs 
-* [SQL Brite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations
-* [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you
 * [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android 
+* [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
-* [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
-* [RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
-* [Paper](https://github.com/pilgr/Paper) - Fast and simple data storage library for Android
 * [greenDAO](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases
-
+* [Paper](https://github.com/pilgr/Paper) - Fast and simple data storage library for Android
+* [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs 
+* [RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
+* [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
+* [SQL Brite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations
 
 
 ### UI Components
-* [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures
+
+* [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
+* [BlurKit Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS
+* [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
+* [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
+* [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for android
 * [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android 
+* [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API
+* [Material Drawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
+* [Material Search View](https://github.com/MiguelCatalan/MaterialSearchView) - Cute library to implement SearchView in a Material Design Approach
+* [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures
 * [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
-* [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
-* [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API
-* [Mateiral Search View](https://github.com/MiguelCatalan/MaterialSearchView) - Cute library to implement SearchView in a Material Design Approach
-* [BlurKit Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS
-* [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
-* [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
-* [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for android
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
-* [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
+
 
 
 ### Utilities
-* [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
-* [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance.
-* [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
-* [Guava](https://github.com/google/guava) - Google Core Libraries for Java
-* [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
-* [IcePick](https://github.com/frankiesardo/icepick) - Android Instance State made easy
+* [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
-* [LibPhoneNumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
+* [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
 * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way
+* [Guava](https://github.com/google/guava) - Google Core Libraries for Java
+* [IcePick](https://github.com/frankiesardo/icepick) - Android Instance State made easy
+* [LibPhoneNumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
+* [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
+* [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
+
 
 ### Utilities (Advanced)
 
-* [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM
 * [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
 * [RetroLambda](https://github.com/evant/gradle-retrolambda) - A gradle plugin for getting java lambda support in java 6, 7 and android
-
+* [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM
 
 
 ## Open-Source Apps
