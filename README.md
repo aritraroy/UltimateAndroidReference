@@ -31,7 +31,7 @@ If you feel that a particular resource listed here is not a good fit for this pr
 	* [Animations](#animations)
 	* [Background Processing](#background-processing)
 	* [Charts](#charts)
-	* [Crash Reporting](#crash-reporting)
+	* [Crash Reporting & Tracking](#crash-reporting-&-tracking)
 	* [Debugging](#debugging)
 	* [Dependency Injection](#dependency-injection)
 	* [Image Loading](#image-loading)
@@ -89,10 +89,12 @@ These are some of the best and the most popular libraries and utilities to boost
 * [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Android library to create charts
 
 
-### Crash Reporting & Analytics
+### Crash Reporting & Tracking
 * [Bugsee](https://www.bugsee.com/) - Flight recorder for your iOS
 and Android apps
 * [Bugsnag](https://www.bugsnag.com/) - Monitor application errors to improve customer experiences and code quality
+* [CleverTap](https://clevertap.com/) - A complete tool to track and analyze user activity in your Android app
+* [Countly](https://count.ly/) - End-to-end platform for web, mobile applications and game analytics
 * [Fabric Crash Analytics](https://get.fabric.io/) - Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business
 * [MixPanel](https://mixpanel.com/) - Deeply understand every user's journey with instant insights for everyone on mobile and web
 * [InstaBug](https://www.bugsnag.com/) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting.
@@ -182,6 +184,7 @@ Gather feedback from your beta testers and have live conversations with your use
 ### Utilities
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
 * [Android Weak Handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler
+* [ByteBuddy](http://bytebuddy.net/) - Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application 
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
 * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
 * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way
