@@ -177,15 +177,18 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ### Utilities
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
+* [Android Weak Handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
 * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
 * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way
+* [Easy Permissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions
 * [Guava](https://github.com/google/guava) - Google Core Libraries for Java
 * [IcePick](https://github.com/frankiesardo/icepick) - Android Instance State made easy
 * [LibPhoneNumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 * [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
 * [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
-
+* [Secure Preferences](https://github.com/scottyab/secure-preferences) - Android Shared preference wrapper than encrypts the values of Shared Preferences
+* [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap
 
 ### Utilities (Advanced)
 
@@ -369,6 +372,10 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Ryan Harter](https://twitter.com/rharter) - Freelance Android Developer, Google Developer Expert, community leader
 * [Tor Norbye](https://twitter.com/tornorbye) - Tor Norbye is the tech lead for Android Studio at Google
 * [Ty](https://twitter.com/tsmith) - Android at @Uber Dev Platform - Google Developer Expert - @specializedtype investor - @sfaug and @droidconsf organizer - ex @twitter @fabric @evernote @zagat
+
+
+### :heart: Found this project useful?
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
 
 
 ## Project Maintained By
