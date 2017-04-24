@@ -2,7 +2,7 @@
 
 The goal of this project is to provide a hand-picked collection of Android libraries, tools, open-source projects, books, blogs, tutorials - you name it.
 
-This project will ty to **only showcase the best, most popular and well-tested resources** that you will actually need rather than overwhelming you with a plethora of low-quality ones.
+This project will try to **only showcase the best, most popular and well-tested resources** that you will actually need and find useful rather than overwhelming you with a plethora of low-quality ones.
 
 Happy learning. :-)
 
@@ -20,7 +20,7 @@ This project is open to all kinds of contribution in all of its categories. **To
 
 For resource contibution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request. If you want to contribute multiple resources, raise seperate PRs for each of them. Please consider adding resources maintaining the default sorting order of the category, like alphabetical sorting.
 
-If you have any suggestion for including more categories, feel free to open a Github issue for more discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promtional stuff. Let's keep this project clean and useful.
+If you have any suggestion for including more categories, feel free to open a Github issue for more discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promtional stuff. **Let's keep this project clean and useful.**
 
 If you feel that a particular resource listed here is not a good fit for this project and should be removed, feel free to let me know by opening an issue.
 
@@ -54,6 +54,9 @@ If you feel that a particular resource listed here is not a good fit for this pr
 * [Sample Projects](#sample-projects)
 * [Video Tutorials](#video-tutorials)
 * [Twitter Profiles](#twitter-profiles)
+* [Game Development](#game-development)
+	* [Frameworks](#frameworks)
+	* [Open-Source Games](#open-source-games)
 
 
 ## Libraries
@@ -109,6 +112,7 @@ Gather feedback from your beta testers and have live conversations with your use
 ### Dependency Injection
 
 * [Butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods
+* [Dagger](https://github.com/square/Dagger) - A fast dependency injector for Android and Java
 * [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java
 * [Dart](https://github.com/f2prateek/dart) - Extras "injection" library for Android
 * [Kotterknife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android (in Kotlin)
@@ -292,7 +296,6 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Trialy.IO](https://www.trialy.io/) - Increase your IAP conversions by letting your users try premium features for a limited time
 
 
-
 ## Sites
 
 * [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
@@ -372,6 +375,23 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Ryan Harter](https://twitter.com/rharter) - Freelance Android Developer, Google Developer Expert, community leader
 * [Tor Norbye](https://twitter.com/tornorbye) - Tor Norbye is the tech lead for Android Studio at Google
 * [Ty](https://twitter.com/tsmith) - Android at @Uber Dev Platform - Google Developer Expert - @specializedtype investor - @sfaug and @droidconsf organizer - ex @twitter @fabric @evernote @zagat
+
+## Game Development
+
+### Frameworks
+
+* [AndEngine](http://www.andengine.org/) - Free Android 2D OpenGL Game Engine
+* [LibGDX](https://libgdx.badlogicgames.com/) - Desktop/Android/BlackBerry/iOS/HTML5 Java game development framework
+* [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
+* [Unity](https://unity3d.com/unity) - Start creating a world class games using this framework
+
+### Open-Source Games
+
+* [ColorPhun](https://github.com/prakhar1989/colorphun) - A Simple Color Game in Android
+* [Game of Life](https://github.com/zsoltk/GameOfLife) - An Android implementation of Conway's Game of Life, focusing on clean design and implementation
+* [Memory Game](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids
+* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - raditional roguelike game with pixel-art graphics and simple interface
+
 
 
 ### :heart: Found this project useful?
