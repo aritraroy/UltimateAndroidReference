@@ -38,7 +38,8 @@ If you feel that a particular resource listed here is not a good fit for this pr
 	* [Image Processing](#image-processing)
 	* [Logging](#logging)
 	* [Networking](#networking)
-	* [Persistent Storage](#persistentence)
+	* [Persistence](#persistentence)
+	* [Testing](#testing)
 	* [UI Components](#ui-components)
 	* [Utilities](#utilities)
 	* [Utilities (Advanced)](#utilities-advanced)
@@ -162,6 +163,13 @@ Gather feedback from your beta testers and have live conversations with your use
 * [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
 * [SQL Brite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations
 
+### Testing
+
+* [AssertJ](https://github.com/joel-costigliola/assertj-core) - AssertJ is a library providing easy to use rich typed assertions
+* [AssertJ Android](https://github.com/square/assertj-android) - A set of AssertJ helpers geared toward testing Android
+* [Hamcrest](https://github.com/hamcrest/JavaHamcrest) - Java (and original) version of Hamcrest
+* [JUnit4](https://github.com/junit-team/junit4) - A programmer-oriented testing framework for Java
+* [Mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
 
 ### UI Components
 
@@ -178,7 +186,6 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
-
 
 
 ### Utilities
@@ -262,6 +269,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Android Tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
 * [Android Wifi ADB](https://github.com/pedrovgs/AndroidWiFiADB) - IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected
 * [APK DeGuard](http://apk-deguard.com/) - DeGuard reverses the process of obfuscation performed by Android obfuscation tools. This enables numerous security analyses, including code inspection and predicting libraries
+* [Battery Historian](https://github.com/google/battery-historian) - Battery Historian is a tool to analyze battery consumers using Android "bugreport" files
 * [Butterknife Zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML
 * [ClassyShark](https://github.com/google/android-classyshark) - Android executables browser
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting
@@ -289,6 +297,7 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Material Palette](https://www.materialpalette.com/) - Generate Material Design color palettes quickly and easily
 * [Methods Count](http://www.methodscount.com/) - Your solution for a perfectly fit APK
 * [NimbleDroid](https://nimbledroid.com/) - Auto-test Your Android Apps for Critical Issues. No Coding Required
+* [Pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package
 * [Scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
 * [SourceTree](https://www.sourcetreeapp.com/) - Harness the power of Git and Hg in a beautifully simple application
