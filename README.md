@@ -167,9 +167,14 @@ Gather feedback from your beta testers and have live conversations with your use
 
 * [AssertJ](https://github.com/joel-costigliola/assertj-core) - AssertJ is a library providing easy to use rich typed assertions
 * [AssertJ Android](https://github.com/square/assertj-android) - A set of AssertJ helpers geared toward testing Android
+* [Calabash](https://github.com/calabash/calabash-android) - Automated Functional testing for Android based on cucumber
+* [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/index.html) - Write easy, simple adn human-readable UI tests on Android
 * [Hamcrest](https://github.com/hamcrest/JavaHamcrest) - Java (and original) version of Hamcrest
+* [JaCoCo](https://github.com/jacoco/jacoco) - JaCoCo - Java Code Coverage Library
 * [JUnit4](https://github.com/junit-team/junit4) - A programmer-oriented testing framework for Java
 * [Mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
+* [Robolectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
+* [Robotium](https://github.com/RobotiumTech/robotium) - Android UI Testing
 
 ### UI Components
 
@@ -296,16 +301,19 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin) - This plugin help you to set material design icon to your project
 * [Material Palette](https://www.materialpalette.com/) - Generate Material Design color palettes quickly and easily
 * [Methods Count](http://www.methodscount.com/) - Your solution for a perfectly fit APK
+* [Mocky.IO](http://www.mocky.io/) - Mock your HTTP responses to test your REST API
 * [NimbleDroid](https://nimbledroid.com/) - Auto-test Your Android Apps for Critical Issues. No Coding Required
 * [Pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package
+* [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Server for Android Instrumentation tests
 * [Scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
 * [SourceTree](https://www.sourcetreeapp.com/) - Harness the power of Git and Hg in a beautifully simple application
 * [SVG2VectorDrawable Plugin](https://plugins.jetbrains.com/plugin/8103-svg2vectordrawable) - Tools for convert SVG file to Android VectorDrawable
 * [The Noun Project](https://thenounproject.com/) - Icons for Everything
-* [Vysor](https://www.vysor.io/) - Vysor puts your Android on your desktop
-* [Zeplin](https://zeplin.io/) - Design hand-off has never been easier. Generate styleguides and resources, automatically
 * [Trialy.IO](https://www.trialy.io/) - Increase your IAP conversions by letting your users try premium features for a limited time
+* [Vysor](https://www.vysor.io/) - Vysor puts your Android on your desktop
+* [WireMock](https://github.com/tomakehurst/wiremock) - A tool for mocking HTTP services
+* [Zeplin](https://zeplin.io/) - Design hand-off has never been easier. Generate styleguides and resources, automatically
 
 
 ## Sites
@@ -342,12 +350,13 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Collected code examples from the O'Reilly Android Cookbook
 * [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
-* [AndroidThings Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
+* [Android Things Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
 * [CW Omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
+* [Espresso Samples](https://github.com/chiuki/espresso-samples) - A collection of samples demonstrating different Espresso techniques
 * [Firebase Quickstart Android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
 * [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 * [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
-* [RxJava2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
+* [RxJava 2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
 
 ## Video Tutorials
 
