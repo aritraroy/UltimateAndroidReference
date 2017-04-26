@@ -220,47 +220,49 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ### Beginner
 
+* [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, < 200kb Android launcher
+* [Materialize](https://github.com/oxoooo/materialize) - Materialize all those not material
+* [MinimalTodo](https://github.com/avjinder/Minimal-Todo) - Material To-Do App
+* [PhotoAffix](https://github.com/afollestad/photo-affix) - 
+Stitch your photos together vertically or horizontally easily!
+* [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads
+* [SoundRecorder](https://github.com/dkim0419/SoundRecorder) - A simple sound recording app implementing Material Design
+
+
 ### Intermediate
+
+* [ClipStack](https://github.com/heruoxin/Clip-Stack) - A tiny clipboard history manager app
+* [EverMemo](https://github.com/daimajia/EverMemo) - Fast Record,Organize,and Share. The android memo app you will deeply love
+* [Google I/O App](https://github.com/google/iosched) - The Google I/O 2016 Android App
+* [InstaMaterial](https://github.com/frogermcs/InstaMaterial) - Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)
+* [LeafPic](https://github.com/HoraApps/LeafPic) - LeafPic is an ad-free, open-source and material-designed android gallery alternative
+* [MLManager](https://github.com/javiersantos/MLManager) - A modern, easy and customizable app manager for Android with Material Design
+* [MovieGuide](https://github.com/esoxjem/MovieGuide) - Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture. Popcorn?
+* [Narrate](https://github.com/timothymiko/narrate-android) - 
+Narrate is a beautiful and functional open source journal for Android
+* [Plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design
+* [Turbo Editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android
+* [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) - Smart App Lock for Android
+* [WeGit](https://github.com/Leaking/WeGit) - An Android App for Github
+
 
 ### Expert
 
 * [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) - Amaze File Manager source code
 * [AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
-* [ClipStack](https://github.com/heruoxin/Clip-Stack) - A tiny clipboard history manager app
 * [CoCoin](https://github.com/Nightonke/CoCoin) - CoCoin, Multi-view Accounting Application
-* [EverMemo](https://github.com/daimajia/EverMemo) - Fast Record,Organize,and Share. The android memo app you will deeply love
-* [Google I/O App](https://github.com/google/iosched) - The Google I/O 2016 Android App
-* [IconShowcase Dashbord](https://github.com/jahirfiquitiva/IconShowcase-Dashboard) - A full-of-features, easy-to-customize, free and open source, Material Design dashboard for icon packs
-* [InstaMaterial](https://github.com/frogermcs/InstaMaterial) - Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)
 * [Kickstarter](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere
-* [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, < 200kb Android launcher
-* [LeafPic](https://github.com/HoraApps/LeafPic) - LeafPic is an ad-free, open-source and material-designed android gallery alternative
 * [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Free as in Freedom torrent client for Android
-* [Materialize](https://github.com/oxoooo/materialize) - Materialize all those not material
-* [MinimalTodo](https://github.com/avjinder/Minimal-Todo) - Material To-Do App
-* [MLManager](https://github.com/javiersantos/MLManager) - A modern, easy and customizable app manager for Android with Material Design
-* [MovieGuide](https://github.com/esoxjem/MovieGuide) - Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture. Popcorn?
 * [MusicDNA](https://github.com/harjot-oberai/MusicDNA) - A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music
 * [Muzei Wallpaper](https://github.com/romannurik/muzei) - Muzei Live Wallpaper for Android
-* [Narrate](https://github.com/timothymiko/narrate-android) - 
-Narrate is a beautiful and functional open source journal for Android
-* [OmniNotes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android 
-* [PhotoAffix](https://github.com/afollestad/photo-affix) - 
-Stitch your photos together vertically or horizontally easily!
-* [Plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design
+* [OmniNotes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android
 * [QkSms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger app for Android
 * [RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Reddit client for Android
 * [Signal](https://github.com/WhisperSystems/Signal-Android) - A private messenger for Android
-* [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads
-* [SoundRecorder](https://github.com/dkim0419/SoundRecorder) - A simple sound recording app implementing Material Design
 * [SuperCleanMaster](https://github.com/joyoyao/superCleanMaster) - CleanMaster like open-source app
 * [Talon for Twitter](https://github.com/klinker24/Talon-for-Twitter) - 100% open source version of my popular Talon for Twitter app on Android
 * [Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 * [Timber](https://github.com/naman14/Timber) - Material Design Music Player
-* [Turbo Editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android
-* [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) - Smart App Lock for Android
-* [WeGit](https://github.com/Leaking/WeGit) - An Android App for Github
-
 
 
 ## Tools
