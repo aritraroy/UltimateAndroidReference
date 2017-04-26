@@ -49,7 +49,7 @@ If you feel that a particular resource listed here is not a good fit for this pr
 	* [Expert](#expert)
 * [Tools](#tools)
 	* [Free](#free)
-	* [Pro](#pro)
+	* [Free (+ Pro)](#free-pro)
 * [Sites](#sites)
 * [Books](#books)
 * [Sample Projects](#sample-projects)
@@ -269,8 +269,6 @@ Narrate is a beautiful and functional open source journal for Android
 
 ### Free
 
-### Pro
-
 * [ADB IDEA](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - A collection of tools to easily generate assets such as launcher icons for your Android app
 * [Android Tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
@@ -290,13 +288,8 @@ Narrate is a beautiful and functional open source journal for Android
 * [Dry Run](https://github.com/cesarferreira/dryrun) - Try any android library hosted online directly from the command line
 * [FindBugs](http://findbugs.sourceforge.net/) - Powerful static code analysis tool for Java and Android
 * [FlatIcon](http://www.flaticon.com/) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats
-* [GenyMotion](https://www.genymotion.com/) - A unique platform to bring your Android app to perfection!
-* [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Windows, Mac AND Linux
-* [Gradle Please](http://gradleplease.appspot.com/) - Quick and easy way to build Gradle based libraries in Android
-* [IDE Scout](http://www.idescout.com/) - SQLScout is a plugin for Android Studio and IntelliJ IDEA that provides powerful, dedicated support for managing and debugging SQLite databases
+ [Gradle Please](http://gradleplease.appspot.com/) - Quick and easy way to build Gradle based libraries in Android
 * [Infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
-* [JRebel for Android](https://zeroturnaround.com/software/jrebel-for-android) - Instantly update code and resources
-JRebel for Android is an IDE plug-in that accelerates the development of Android applications
 * [JSONBlob](https://jsonblob.com/) - JSON Blob is a web-based tool to create, edit, view, format, and share JSON
 * [JSONSchema2POJO](http://www.jsonschema2pojo.org/) - Easy and quick way to convert your JSON to Java objects 
 * [KeyPromoter](https://plugins.jetbrains.com/plugin/4455-key-promoter) - Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)
@@ -304,17 +297,25 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Material Palette](https://www.materialpalette.com/) - Generate Material Design color palettes quickly and easily
 * [Methods Count](http://www.methodscount.com/) - Your solution for a perfectly fit APK
 * [Mocky.IO](http://www.mocky.io/) - Mock your HTTP responses to test your REST API
-* [NimbleDroid](https://nimbledroid.com/) - Auto-test Your Android Apps for Critical Issues. No Coding Required
 * [Pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package
 * [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Server for Android Instrumentation tests
 * [Scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
 * [SourceTree](https://www.sourcetreeapp.com/) - Harness the power of Git and Hg in a beautifully simple application
 * [SVG2VectorDrawable Plugin](https://plugins.jetbrains.com/plugin/8103-svg2vectordrawable) - Tools for convert SVG file to Android VectorDrawable
+* [WireMock](https://github.com/tomakehurst/wiremock) - A tool for mocking HTTP services
+
+### Free (+ Pro)
+
+* [GenyMotion](https://www.genymotion.com/) - A unique platform to bring your Android app to perfection!
+* [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Windows, Mac AND Linux
+* [IDE Scout](http://www.idescout.com/) - SQLScout is a plugin for Android Studio and IntelliJ IDEA that provides powerful, dedicated support for managing and debugging SQLite databases
+* [JRebel for Android](https://zeroturnaround.com/software/jrebel-for-android) - Instantly update code and resources
+JRebel for Android is an IDE plug-in that accelerates the development of Android applications
+* [NimbleDroid](https://nimbledroid.com/) - Auto-test Your Android Apps for Critical Issues. No Coding Required
 * [The Noun Project](https://thenounproject.com/) - Icons for Everything
 * [Trialy.IO](https://www.trialy.io/) - Increase your IAP conversions by letting your users try premium features for a limited time
 * [Vysor](https://www.vysor.io/) - Vysor puts your Android on your desktop
-* [WireMock](https://github.com/tomakehurst/wiremock) - A tool for mocking HTTP services
 * [Zeplin](https://zeplin.io/) - Design hand-off has never been easier. Generate styleguides and resources, automatically
 
 
