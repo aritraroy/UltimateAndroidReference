@@ -49,7 +49,7 @@ If you feel that a particular resource listed here is not a good fit for this pr
 	* [Expert](#expert)
 * [Tools](#tools)
 	* [Free](#free)
-	* [Free (+ Pro)](#free-pro)
+	* [Free (+ Pro)](#free--pro)
 * [Sites](#sites)
 * [Books](#books)
 * [Sample Projects](#sample-projects)
@@ -365,11 +365,11 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 
 * [Advanced Android App Development (Udacity)](https://www.udacity.com/course/advanced-android-app-development--ud855) - This course will guide you through the process of productionizing an app, using Sunshine, the weather app we built in Developing Android Apps
 * [Android Developers (YouTube)](https://www.youtube.com/user/androiddevelopers) - Google's official Android development channel on Youtube for all the tutorials, demos, events, etc
-* [Beginner Java Tutorials (YouTube)](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28) - An excellent Java video tutorial series for beginners by thenewboston on YouTube.
+* [Beginner Java Tutorials (YouTube)](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28) - An excellent Java video tutorial series for beginners by *thenewboston* on YouTube.
 * [Design Patterns Tutorials (YouTube)](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07) - Learn about all the Java design patterns in details from these quick and easy video tutorials by Derek Banas
 * [Developing Android Apps (Udacity)](https://www.udacity.com/course/new-android-fundamentals--ud851) - As the first course in the Android Developer Nanodegree, Developing Android Apps is the foundation of our advanced Android curriculum. This course blends theory and practice to help you build great apps the right way
 * [Firebase in a Weekend: Android (YouTube)](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) - In this course, you’ll learn how to use Firebase. Firebase is app development platform that provides developers a variety of tools and a scalable infrastructure to build high quality apps
-* [Firebase for Android (YouTube)](https://www.youtube.com/user/Firebase) - Learn everything abour Firebase and boost your Android development skills
+* [Firebase for Android (YouTube)](https://www.youtube.com/user/Firebase) - Learn everything about Firebase and boost your Android development skills
 * [Slidenerd Tutorials (YouTube)](https://www.youtube.com/user/slidenerd) - One of the best channels covering a lot of tutorials on various aspects of Android
 
 ## Twitter Profiles
@@ -414,7 +414,7 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [ColorPhun](https://github.com/prakhar1989/colorphun) - A Simple Color Game in Android
 * [Game of Life](https://github.com/zsoltk/GameOfLife) - An Android implementation of Conway's Game of Life, focusing on clean design and implementation
 * [Memory Game](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids
-* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - raditional roguelike game with pixel-art graphics and simple interface
+* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional rogue-like game with pixel-art graphics and simple interface
 
 
 
