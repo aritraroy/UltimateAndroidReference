@@ -61,7 +61,7 @@ If you feel that a particular resource listed here is not a good fit for this pr
 
 
 ## Libraries
-These are some of the best and the most popular libraries and utilities to boost up your Android development. This list is divided into a few essential categories and only includes libraries which have been battle tested by a lot of developers.
+These are some of the best and the most popular libraries and utilities to boost up your Android development. This list is divided into several essential categories and only includes resources which have been battle-tested by a variety of developers over a long time.
 
 ### Animations
 
@@ -86,7 +86,7 @@ These are some of the best and the most popular libraries and utilities to boost
 
 * [EazeGraph](https://github.com/blackfizz/EazeGraph) - An Android chart and graph library
 * [HelloCharts](https://github.com/lecho/hellocharts-android) - Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
-* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations
+* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library, supporting line-bar-pie-radar-bubble-and candlestick charts as well as scaling, dragging and animations
 * [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Android library to create charts
 
 
@@ -218,6 +218,8 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ## Open-Source Apps
 
+There are lots of open-source apps available in the Android community for developers to learn from, but it becomes very difficult to find the ones which are actually worth your time and can help you learn a thing or two. This list (loosely categorized on the basis of your Androdi skills) can help you find the resource you always wanted.
+
 ### Beginner
 
 * [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, < 200kb Android launcher
@@ -266,6 +268,8 @@ Narrate is a beautiful and functional open source journal for Android
 
 
 ## Tools
+
+"*A craftsman is only as good as his tools*" - to level up your Android development workflow you need to have the right tools always ready in your toolbox. This list is here to provide you with hand-picked tools which can significantly improve your Android development life.
 
 ### Free
 
@@ -321,6 +325,8 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 
 ## Sites
 
+If you want to keep yourself updated with all the latest Android development news, articles and tutorials then these are some of the best sites in the Internet where the good Androidy-things happen all the time.
+
 * [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
 * [AndroidDevDigest](https://www.androiddevdigest.com/) - A Handcrafted Weekly #AndroidDev Newsletter
 * [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
@@ -330,13 +336,18 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Caster.IO](https://caster.io/) - Skyrocket your Android career with bite sized Android development video training
 * [Codepath Android Cliffnotes](https://guides.codepath.com/android) - One of the best and most up-to-date crowdsourced resource for Android developers where you will find guides and tutorials about almost everything in Android
 * [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
+* [Grokking Android](http://www.grokkingandroid.com/) - Getting Down to the Nitty Gritty of Android Development
 * [Material Up](http://materialup.com/) - Get fresh Material Design inspiration daily
 * [Medium's Google Developers Blog](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
+* [Mindork's Blog](https://blog.mindorks.com/) - A regularly updated blog talking about various aspects of Android development in detail
 * [Reddit's AndroidDev](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
 * [Styling Android](https://blog.stylingandroid.com/) - Learn perfecting your Android UI and UX development skills
 * [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
 
 ## Books
+
+*"Books are gifts that you can open again and again"* - here is a curated list of some of the best books that can help you sharpen your Android, Java and overall programming skills. Pick one of them and start reading.
+
 
 * [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/) - by Bill Phillips, Chris Stewart, and Kristin Marsicano
 * [Asynchronous Android](http://www.amazon.in/Asynchronous-Android-Steve-Liles/dp/1783286873) - by Steve Liles 
@@ -348,6 +359,8 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) - by Michael Feathers
 
 ## Sample Projects
+
+If you want to get started with something quick-and-dirty, then sample projects are something which can help you a lot in understanding the concepts and technicalities in almost no time.
 
 * [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps
 * [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Collected code examples from the O'Reilly Android Cookbook
@@ -363,6 +376,8 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 
 ## Video Tutorials
 
+Love learning from videos? Don't worry, we have got you covered. This list contains some of the most useful and informative video tutorials to boost up your Android development skills to the next level.
+
 * [Advanced Android App Development (Udacity)](https://www.udacity.com/course/advanced-android-app-development--ud855) - This course will guide you through the process of productionizing an app, using Sunshine, the weather app we built in Developing Android Apps
 * [Android Developers (YouTube)](https://www.youtube.com/user/androiddevelopers) - Google's official Android development channel on Youtube for all the tutorials, demos, events, etc
 * [Beginner Java Tutorials (YouTube)](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28) - An excellent Java video tutorial series for beginners by *thenewboston* on YouTube.
@@ -373,6 +388,8 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Slidenerd Tutorials (YouTube)](https://www.youtube.com/user/slidenerd) - One of the best channels covering a lot of tutorials on various aspects of Android
 
 ## Twitter Profiles
+
+If you are somebody who loves to engage with other fellow developers and surround yourself with all the latest news, ideas and happenings, then this list is just for you. Start following some of the best and most active Android and Java developers on Twitter.
 
 * [Android Developers](https://twitter.com/AndroidDev) - News and announcements for developers from the Android team
 * [Chet Haase](https://twitter.com/chethaase) - Willful misinterpretation. Android. Comedy. That kind of stuff
@@ -401,6 +418,8 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Ty](https://twitter.com/tsmith) - Android at @Uber Dev Platform - Google Developer Expert - @specializedtype investor - @sfaug and @droidconsf organizer - ex @twitter @fabric @evernote @zagat
 
 ## Game Development
+
+If you aspire to develop amazing games for the Android platform, we haven't forgotten about you. Here are some of the best resources which can help you in kickstarting your Android game development career.
 
 ### Frameworks
 
