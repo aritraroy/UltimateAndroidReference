@@ -176,6 +176,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
 * [Robolectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
 * [Robotium](https://github.com/RobotiumTech/robotium) - Android UI Testing
+* [Truth](https://github.com/google/truth) - Assertion/Proposition framework for Java unit tests
 
 ### UI Components
 
