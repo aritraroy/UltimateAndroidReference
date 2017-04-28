@@ -2,9 +2,9 @@
 
 The goal of this project is to provide a hand-picked collection of Android libraries, tools, open-source projects, books, blogs, tutorials - you name it.
 
-This project will try to **only showcase the best, most popular and well-tested resources** that you will actually need and find useful rather than overwhelming you with a plethora of low-quality ones.
+This project will try to **showcase only the best, most popular and well-tested resources** that you will actually need and find useful rather than overwhelming you with a plethora of low-quality ones.
 
-Happy learning. :-)
+Happy learning. :+1:
 
 
 #### Spread Some :heart:
@@ -20,9 +20,9 @@ This project is open to all kinds of contribution in all of its categories. **To
 
 For resource contibution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request. If you want to contribute multiple resources, raise seperate PRs for each of them. Please consider adding resources maintaining the default sorting order of the category, like alphabetical sorting.
 
-If you have any suggestion for including more categories, feel free to open a Github issue for more discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promtional stuff. **Let's keep this project clean and useful.**
+If you have any suggestion for including more categories, feel free to open a Github issue for us to have more discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promtional stuff. **Let's keep this project clean and useful.**
 
-If you feel that a particular resource listed here is not a good fit for this project and should be removed, feel free to let me know by opening an issue.
+If you feel that a particular resource(s) listed here is not a good fit for this project and should be removed, feel free to let me know by opening an issue.
 
 
 ## Categories
@@ -335,6 +335,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development
 * [Caster.IO](https://caster.io/) - Skyrocket your Android career with bite sized Android development video training
 * [Codepath Android Cliffnotes](https://guides.codepath.com/android) - One of the best and most up-to-date crowdsourced resource for Android developers where you will find guides and tutorials about almost everything in Android
+* [Dan Lew Codes](http://blog.danlew.net/) - Thoughts on life, the universe and the mystery of it all; but actually mostly just code
 * [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
 * [Grokking Android](http://www.grokkingandroid.com/) - Getting Down to the Nitty Gritty of Android Development
 * [Material Up](http://materialup.com/) - Get fresh Material Design inspiration daily
@@ -370,7 +371,10 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [CW Omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
 * [Espresso Samples](https://github.com/chiuki/espresso-samples) - A collection of samples demonstrating different Espresso techniques
 * [Firebase Quickstart Android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
+* [Firebucket](https://github.com/remychantenay/Firebucket) - Glimpse into Firebase, with a simple TODO list app built around Dagger, RxJava 2, Clean architecture and of course, Firebase
 * [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
+* [Just Another Android App](https://github.com/athkalia/Just-Another-Android-App) - An Android base app with loads of cool libraries/configuration
+* [Quality Matters](https://github.com/artem-zinnatullin/qualitymatters) - Android Development Culture
 * [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
 * [RxJava 2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
 
