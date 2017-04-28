@@ -50,6 +50,7 @@ If you feel that a particular resource(s) listed here is not a good fit for this
 * [Tools](#tools)
 	* [Free](#free)
 	* [Free (+ Pro)](#free--pro)
+* [Android Studio Shortcuts](#android-studio-shortcuts)
 * [Sites](#sites)
 * [Books](#books)
 * [Sample Projects](#sample-projects)
@@ -321,6 +322,68 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Trialy.IO](https://www.trialy.io/) - Increase your IAP conversions by letting your users try premium features for a limited time
 * [Vysor](https://www.vysor.io/) - Vysor puts your Android on your desktop
 * [Zeplin](https://zeplin.io/) - Design hand-off has never been easier. Generate styleguides and resources, automatically
+
+
+## Android Studio Shortcuts
+
+IDE shortcuts can really make your development workflow fast and smooth and Android Studio shines perfectly in this. Ideally, you should make it a habit to not pick up the mouse to perform most of your actions and slowly move towards a mouseless-workflow. Here are some of the most useful shortcuts for you to get started.
+
+*(Currently, only Mac shortcuts are available. Windows and Linux shortcuts coming soon)*
+
+### Legends:
+
+&#8984; = Command Key  
+&#8997; = Option Key  
+&#8679; = Shift Key  
+&#8963; = Control Key
+
+### Must-Know Shortcuts:
+
+| Description                                                                             | Shortcut             |
+|:----------------------------------------------------------------------------------------|:--------------------:|
+| Find everything (like files, classes, symbols, etc.)                                    | Double Shift         |
+| Show a list of automatic fixes and IDE suggestions at the cursor                        | Option-Enter         |
+| Rename **all** copies of the variable/method/class at the cursor                        | Shift-F6             |
+| List **all** usages of the variable/method/class at the cursor                          | Command-Option-F7    |
+| Generate code (like getters, setters, constructors, method overrides)                   | Command-N            |
+| Search for any action in Android Studio                                                 | Command-Shift-A      |
+| Find text occurencesin the current file (Enter = cycle through results, Esc. = cancel)  | Command-F            |
+| Show the list of recently used files in the IDE                                         | Command-E            |
+| Run the app or test                                                                     | Control-R            |
+
+
+### Frequently Used Shortcuts:
+
+| Description                                                                             | Shortcut              |
+|:----------------------------------------------------------------------------------------|:---------------------:|
+| Search for and open any file by name                                                    | Command-Shift-O       |
+| Move a piece of code in upward/downward direction                                       | Command-Shift-Up/Dow  |
+| View javadoc of symbol at cursor in pop-up                                              | F1                    |
+| View definition of method at cursor in pop-up                                           | Command-Y             |
+| Search for and list **any** occurrences of text                                         | Command-Shift-F       |
+| Comment/Uncomment all selected lines (also works in xml files)                          | Command-/             |
+| Show available parameters for current method (must be inside parentheses)               | Command-P             |
+| Format code to match Android Studio's default style                                     | Command-Option-L      |
+| Delete a complete line at one go                                                        | Command-Delete        |
+| Navigate through classes and methods                                                    | Command-Left click    |
+
+
+### Useful Shortcuts:
+
+| Description                                                                     | Shortcut                        |
+|:--------------------------------------------------------------------------------|:-------------------------------:|
+| Go to next highlighted error in current file                                    | F2                              |
+| Go to the declaration of the variable/method/class at cursor                    | Command-B                       |
+| Go to given line number in current file                                         | Command-L                       |
+| Duplicate current line                                                          | Command-D                       |
+| Search for and go to any symbol (incl. variables and methods)                   | Command-Option-O                |
+| Show class structure in pop-up                                                  | Command-F12                     |
+| List recently edited files in pop-up                                            | Command-Shift-E                 |
+| View full refactor menu                                                         | Control-T                       |
+| Collapse/expand all code blocks                                                 | Command-Shift-+/-               |
+| Collapse/expand individual code block                                           | Command-+/-                     |
+| Insert new line below current cursor position                                   | Shift-Enter                     |
+| Complete statement (add braces, parentheses, semi-colon)                        | Command-Shift-Enter             |
 
 
 ## Sites
