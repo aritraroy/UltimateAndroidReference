@@ -183,7 +183,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [BlurKit Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS
 * [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
-* [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for android
+* [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
 * [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android 
 * [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API
 * [Material Drawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
@@ -219,7 +219,7 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ## Open-Source Apps
 
-There are lots of open-source apps available in the Android community for developers to learn from, but it becomes very difficult to find the ones which are actually worth your time and can help you learn a thing or two. This list (loosely categorized on the basis of your Androdi skills) can help you find the resource you always wanted.
+There are lots of open-source apps available in the Android community for developers to learn from, but it becomes very difficult to find the ones which are actually worth your time and can help you learn a lot of things. This list (loosely categorized on the basis of your Androdi skills) can help you find the resource you always wanted.
 
 ### Beginner
 
@@ -270,7 +270,7 @@ Narrate is a beautiful and functional open source journal for Android
 
 ## Tools
 
-"*A craftsman is only as good as his tools*" - to level up your Android development workflow you need to have the right tools always ready in your toolbox. This list is here to provide you with hand-picked tools which can significantly improve your Android development life.
+"*A craftsman is only as good as his tools*" - to level up your Android development workflow you need to have the right tools always ready in your toolbox. This list is here to provide you with hand-picked tools to significantly improve your Android development life.
 
 ### Free
 
@@ -280,6 +280,7 @@ Narrate is a beautiful and functional open source journal for Android
 * [Android Wifi ADB](https://github.com/pedrovgs/AndroidWiFiADB) - IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected
 * [APK DeGuard](http://apk-deguard.com/) - DeGuard reverses the process of obfuscation performed by Android obfuscation tools. This enables numerous security analyses, including code inspection and predicting libraries
 * [Battery Historian](https://github.com/google/battery-historian) - Battery Historian is a tool to analyze battery consumers using Android "bugreport" files
+* [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages
 * [Butterknife Zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML
 * [ClassyShark](https://github.com/google/android-classyshark) - Android executables browser
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting
@@ -288,12 +289,11 @@ Narrate is a beautiful and functional open source journal for Android
 * [DevKnox](https://devknox.io/) - Autocorrect Security Issues As You Write Code
 * [DTO Generator](https://plugins.jetbrains.com/plugin/7834-dto-generator) - Data Transfer Object(DTO) generator that generates Java classes from the given feed
 * [DPI Love](http://dpi.lv/) - Get accurate DPI information on a wide range of Android devices
-* [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages
 * [Drawable Optimizer](https://github.com/fabiomsr/drawable-optimizer) - Gradle plugin to optimize png files and reduce resultant apk size within an Android project
 * [Dry Run](https://github.com/cesarferreira/dryrun) - Try any android library hosted online directly from the command line
 * [FindBugs](http://findbugs.sourceforge.net/) - Powerful static code analysis tool for Java and Android
 * [FlatIcon](http://www.flaticon.com/) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats
- [Gradle Please](http://gradleplease.appspot.com/) - Quick and easy way to build Gradle based libraries in Android
+* [Gradle Please](http://gradleplease.appspot.com/) - Quick and easy way to build Gradle based libraries in Android
 * [Infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 * [JSONBlob](https://jsonblob.com/) - JSON Blob is a web-based tool to create, edit, view, format, and share JSON
 * [JSONSchema2POJO](http://www.jsonschema2pojo.org/) - Easy and quick way to convert your JSON to Java objects 
@@ -326,25 +326,20 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 
 ## Android Studio Shortcuts
 
-IDE shortcuts can really make your development workflow fast and smooth and Android Studio shines perfectly in this. Ideally, you should make it a habit to not pick up the mouse to perform most of your actions and slowly move towards a mouseless-workflow. Here are some of the most useful shortcuts for you to get started.
+IDE shortcuts can really make your development workflow fast and smooth and Android Studio shines perfectly in this aspect. Ideally, you should make it a habit to not pick up the mouse to perform most of your actions and slowly migrate towards a mouseless-workflow. Here are some of the most useful shortcuts for you to get started.
 
-*(Currently, only Mac shortcuts are available. Windows and Linux shortcuts coming soon)*
-
-### Legends:
-
-&#8984; = Command Key  
-&#8997; = Option Key  
-&#8679; = Shift Key  
-&#8963; = Control Key
+*(Currently, only Mac shortcuts are available. Windows and Linux shortcuts coming soon.)*
 
 ### Must-Know Shortcuts:
+
+Never-ever-ever forget these shortcuts.
 
 | Description                                                                             | Shortcut             |
 |:----------------------------------------------------------------------------------------|:--------------------:|
 | Find everything (like files, classes, symbols, etc.)                                    | Double Shift         |
 | Show a list of automatic fixes and IDE suggestions at the cursor                        | Option-Enter         |
-| Rename **all** copies of the variable/method/class at the cursor                        | Shift-F6             |
-| List **all** usages of the variable/method/class at the cursor                          | Command-Option-F7    |
+| Rename all copies of the variable/method/class at the cursor                            | Shift-F6             |
+| List all usages of the variable/method/class at the cursor                              | Command-Option-F7    |
 | Generate code (like getters, setters, constructors, method overrides)                   | Command-N            |
 | Search for any action in Android Studio                                                 | Command-Shift-A      |
 | Find text occurencesin the current file (Enter = cycle through results, Esc. = cancel)  | Command-F            |
@@ -354,13 +349,15 @@ IDE shortcuts can really make your development workflow fast and smooth and Andr
 
 ### Frequently Used Shortcuts:
 
+You will surely need these quite often.
+
 | Description                                                                             | Shortcut              |
 |:----------------------------------------------------------------------------------------|:---------------------:|
 | Search for and open any file by name                                                    | Command-Shift-O       |
 | Move a piece of code in upward/downward direction                                       | Command-Shift-Up/Dow  |
 | View javadoc of symbol at cursor in pop-up                                              | F1                    |
 | View definition of method at cursor in pop-up                                           | Command-Y             |
-| Search for and list **any** occurrences of text                                         | Command-Shift-F       |
+| Search for and list any occurrences of text                                             | Command-Shift-F       |
 | Comment/Uncomment all selected lines (also works in xml files)                          | Command-/             |
 | Show available parameters for current method (must be inside parentheses)               | Command-P             |
 | Format code to match Android Studio's default style                                     | Command-Option-L      |
@@ -369,6 +366,8 @@ IDE shortcuts can really make your development workflow fast and smooth and Andr
 
 
 ### Useful Shortcuts:
+
+These can help you level up your development workflow.
 
 | Description                                                                     | Shortcut                        |
 |:--------------------------------------------------------------------------------|:-------------------------------:|
@@ -410,7 +409,7 @@ If you want to keep yourself updated with all the latest Android development new
 
 ## Books
 
-*"Books are gifts that you can open again and again"* - here is a curated list of some of the best books that can help you sharpen your Android, Java and overall programming skills. Pick one of them and start reading.
+*"Books are gifts that you can open again and again"* - here is a curated list of some of the best books that can help you sharpen your Android, Java and overall programming skills. Pick one of them and just start reading.
 
 
 * [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/) - by Bill Phillips, Chris Stewart, and Kristin Marsicano
