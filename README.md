@@ -428,6 +428,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 
 * [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps
 * [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Collected code examples from the O'Reilly Android Cookbook
+* [Android MVP Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
 * [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
 * [Android Things Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
