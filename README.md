@@ -148,6 +148,7 @@ Gather feedback from your beta testers and have live conversations with your use
 
 
 ### Networking
+* [Bridge](https://github.com/afollestad/bridge) - A simple but powerful HTTP networking library for Java. It features a Fluent chainable API, powered by Java URLConnection classes for maximum compatibility and speed.
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
@@ -197,6 +198,7 @@ Gather feedback from your beta testers and have live conversations with your use
 
 
 ### Utilities
+* [Ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences!
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
 * [Android Weak Handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler
 * [ByteBuddy](http://bytebuddy.net/) - Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application 
