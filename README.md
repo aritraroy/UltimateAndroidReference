@@ -31,7 +31,7 @@ If you feel that a particular resource(s) listed here is not a good fit for this
 	* [Animations](#animations)
 	* [Background Processing](#background-processing)
 	* [Charts](#charts)
-	* [Crash Reporting & Tracking](#crash-reporting-&-tracking)
+	* [Crash Reporting & Tracking](#crash-reporting--tracking)
 	* [Debugging](#debugging)
 	* [Dependency Injection](#dependency-injection)
 	* [Image Loading](#image-loading)
