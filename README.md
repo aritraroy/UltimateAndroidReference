@@ -152,6 +152,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
 * [Retrofit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface
+* [Bridge](https://github.com/afollestad/bridge) - A simple but powerful HTTP networking library for Java. It features a Fluent chainable API, powered by Java URLConnection classes for maximum compatibility and speed.
 
 ### Persistenence
 * [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android 
@@ -210,6 +211,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
 * [Secure Preferences](https://github.com/scottyab/secure-preferences) - Android Shared preference wrapper than encrypts the values of Shared Preferences
 * [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap
+* [Ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences!
 
 ### Utilities (Advanced)
 
