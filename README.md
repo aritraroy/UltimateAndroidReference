@@ -38,7 +38,7 @@ If you feel that a particular resource(s) listed here is not a good fit for this
 	* [Image Processing](#image-processing)
 	* [Logging](#logging)
 	* [Networking](#networking)
-	* [Persistence](#persistentence)
+	* [Persistence](#persistence)
 	* [Testing](#testing)
 	* [UI Components](#ui-components)
 	* [Utilities](#utilities)
@@ -155,7 +155,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
 * [Retrofit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface
 
-### Persistenence
+### Persistence
 
 * [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android 
 * [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you
