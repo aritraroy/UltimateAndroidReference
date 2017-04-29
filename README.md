@@ -289,6 +289,8 @@ Narrate is a beautiful and functional open source journal for Android
 * [Codota](https://www.codota.com/ide-plugin) - Supercharge your development workflow by getting great code examples directly in your IDE. The Codota plugin for IntelliJ lets you quickly find the best code examples for every API class or method
 * [Dagger IntelliJ Plugin](https://github.com/square/dagger-intellij-plugin) - An IntelliJ IDEA plugin for Dagger which provides insight into how injections and providers are used
 * [DevKnox](https://devknox.io/) - Autocorrect Security Issues As You Write Code
+* [Dex Count Gradle Plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build
+* [Dex Method Counts](https://github.com/mihaip/dex-method-counts) - Command-line tool to count per-package methods in Android .dex files
 * [DTO Generator](https://plugins.jetbrains.com/plugin/7834-dto-generator) - Data Transfer Object(DTO) generator that generates Java classes from the given feed
 * [DPI Love](http://dpi.lv/) - Get accurate DPI information on a wide range of Android devices
 * [Drawable Optimizer](https://github.com/fabiomsr/drawable-optimizer) - Gradle plugin to optimize png files and reduce resultant apk size within an Android project
@@ -439,9 +441,12 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [Firebucket](https://github.com/remychantenay/Firebucket) - Glimpse into Firebase, with a simple TODO list app built around Dagger, RxJava 2, Clean architecture and of course, Firebase
 * [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 * [Just Another Android App](https://github.com/athkalia/Just-Another-Android-App) - An Android base app with loads of cool libraries/configuration
+* [Material Animations](https://github.com/lgvalle/Material-Animations) - Android Transition animations explanation with examples
 * [Quality Matters](https://github.com/artem-zinnatullin/qualitymatters) - Android Development Culture
 * [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
 * [RxJava 2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
+* [u2020](https://github.com/JakeWharton/u2020) - A sample Android app which showcases advanced usage of Dagger among other open source libraries
+
 
 ## Video Tutorials
 
