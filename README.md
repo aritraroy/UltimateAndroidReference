@@ -92,6 +92,7 @@ These are some of the best and the most popular libraries and utilities to boost
 
 
 ### Crash Reporting & Tracking
+
 * [Bugsee](https://www.bugsee.com/) - Flight recorder for your iOS
 and Android apps
 * [Bugsnag](https://www.bugsnag.com/) - Monitor application errors to improve customer experiences and code quality
@@ -104,6 +105,7 @@ Gather feedback from your beta testers and have live conversations with your use
 
 
 ### Debugging
+
 * [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences
 * [Android Performance Monitor](https://github.com/markzhai/AndroidPerformanceMonitor) - A transparent ui-block detection library for Android (known as BlockCanary)
 * [Chuck](https://github.com/jgilfelt/chuck) - An in-app HTTP inspector for Android OkHttp clients
@@ -119,8 +121,6 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Dagger](https://github.com/square/Dagger) - A fast dependency injector for Android and Java
 * [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java
 * [Dart](https://github.com/f2prateek/dart) - Extras "injection" library for Android
-* [Kotterknife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android (in Kotlin)
-
 
 ### Image Loading
 
@@ -148,13 +148,15 @@ Gather feedback from your beta testers and have live conversations with your use
 
 
 ### Networking
-* [Bridge](https://github.com/afollestad/bridge) - A simple but powerful HTTP networking library for Java. It features a Fluent chainable API, powered by Java URLConnection classes for maximum compatibility and speed.
+
+* [Bridge](https://github.com/afollestad/bridge) - A simple but powerful HTTP networking library for Java. It features a Fluent chainable API, powered by Java URLConnection classes for maximum compatibility and speed
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
 * [Retrofit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface
 
 ### Persistenence
+
 * [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android 
 * [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
@@ -198,9 +200,10 @@ Gather feedback from your beta testers and have live conversations with your use
 
 
 ### Utilities
-* [Ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences!
+
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
 * [Android Weak Handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler
+* [Ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences
 * [ByteBuddy](http://bytebuddy.net/) - Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application 
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
 * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
@@ -311,6 +314,7 @@ Narrate is a beautiful and functional open source journal for Android
 * [Pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package
 * [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Server for Android Instrumentation tests
 * [Scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app
+* [Shape Shifter](https://shapeshifter.design/) - Useful tool for creating simple path morphing AnimatedVectorDrawables
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
 * [SourceTree](https://www.sourcetreeapp.com/) - Harness the power of Git and Hg in a beautifully simple application
 * [SVG2VectorDrawable Plugin](https://plugins.jetbrains.com/plugin/8103-svg2vectordrawable) - Tools for convert SVG file to Android VectorDrawable
@@ -396,6 +400,7 @@ These can help you level up your development workflow.
 If you want to keep yourself updated with all the latest Android development news, articles and tutorials then these are some of the best sites in the Internet where the good Androidy-things happen all the time.
 
 * [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
+* [Andorid Design Patterns](http://www.androiddesignpatterns.com/) - Android Design Patterns is a website for developers who wish to better understand the Android application framework
 * [AndroidDevDigest](https://www.androiddevdigest.com/) - A Handcrafted Weekly #AndroidDev Newsletter
 * [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
 * [Android Hive](http://www.androidhive.info/) - Androidhive is independent online publication that covers android programming tutorials, app reviews and more
