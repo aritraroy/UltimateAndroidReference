@@ -197,12 +197,12 @@ Gather feedback from your beta testers and have live conversations with your use
 
 
 ### Utilities
+* [Ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences!
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
 * [Android Weak Handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler
 * [ByteBuddy](http://bytebuddy.net/) - Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application 
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
 * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
-* [Ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences!
 * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way
 * [Easy Permissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions
 * [Guava](https://github.com/google/guava) - Google Core Libraries for Java
