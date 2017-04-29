@@ -18,9 +18,9 @@ Happy learning. :+1:
 
 This project is open to all kinds of contribution in all of its categories. **Together, we can make it the ultimate Android reference available for free, for everyone, forever.**
 
-For resource contibution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request. If you want to contribute multiple resources, raise seperate PRs for each of them. Please consider adding resources maintaining the default sorting order of the category, like alphabetical sorting.
+For resource contribution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request. If you want to contribute multiple resources, raise separate PRs for each of them. Please consider adding resources maintaining the default sorting order of the category, like alphabetical sorting.
 
-If you have any suggestion for including more categories, feel free to open a Github issue for us to have more discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promtional stuff. **Let's keep this project clean and useful.**
+If you have any suggestion for including more categories, feel free to open a Github issue for us to have more discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promotional stuff. **Let's keep this project clean and useful.**
 
 If you feel that a particular resource(s) listed here is not a good fit for this project and should be removed, feel free to let me know by opening an issue.
 
