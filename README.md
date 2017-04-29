@@ -18,9 +18,9 @@ Happy learning. :+1:
 
 This project is open to all kinds of contribution in all of its categories. **Together, we can make it the ultimate Android reference available for free, for everyone, forever.**
 
-For resource contibution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request. If you want to contribute multiple resources, raise seperate PRs for each of them. Please consider adding resources maintaining the default sorting order of the category, like alphabetical sorting.
+For resource contribution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request. If you want to contribute multiple resources, raise separate PRs for each of them. Please consider adding resources maintaining the default sorting order of the category, like alphabetical sorting.
 
-If you have any suggestion for including more categories, feel free to open a Github issue for us to have more discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promtional stuff. **Let's keep this project clean and useful.**
+If you have any suggestion for including more categories, feel free to open a Github issue for us to have more discussion on it. Please **DO NOT** contribute low-quality, spammy or self-promotional stuff. **Let's keep this project clean and useful.**
 
 If you feel that a particular resource(s) listed here is not a good fit for this project and should be removed, feel free to let me know by opening an issue.
 
@@ -38,7 +38,7 @@ If you feel that a particular resource(s) listed here is not a good fit for this
 	* [Image Processing](#image-processing)
 	* [Logging](#logging)
 	* [Networking](#networking)
-	* [Persistence](#persistentence)
+	* [Persistence](#persistence)
 	* [Testing](#testing)
 	* [UI Components](#ui-components)
 	* [Utilities](#utilities)
@@ -155,7 +155,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
 * [Retrofit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface
 
-### Persistenence
+### Persistence
 
 * [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android 
 * [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you
