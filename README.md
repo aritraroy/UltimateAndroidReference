@@ -71,6 +71,7 @@ These are some of the best and the most popular libraries and utilities to boost
 * [ExpectAnim](https://github.com/florent37/ExpectAnim) - Describe your animation and run
 * [Grav](https://github.com/glomadrian/Grav) - Configurable animations based on points
 * [Lottie](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
+* [Popview-Android](https://github.com/krishnarb3/Popview-Android) - Pop animation with circular dust effect for any view updation
 * [Rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app
 * [Spruce](https://github.com/willowtreeapps/spruce-android) - Spruce Animation Library
 * [ViewAnimator](https://github.com/florent37/ViewAnimator) - A fluent Android animation library
