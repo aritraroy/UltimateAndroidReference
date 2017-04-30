@@ -154,6 +154,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
 * [Retrofit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface
+* [Volley](https://github.com/google/volley) - Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster
 
 ### Persistence
 
