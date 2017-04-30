@@ -199,6 +199,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
+* [Color-O-Matic](https://github.com/GrenderG/Color-O-Matic) - Beautiful color picker dialog for Android 9+
 
 
 ### Utilities
