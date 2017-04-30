@@ -50,6 +50,8 @@ If you feel that a particular resource(s) listed here is not a good fit for this
 * [Tools](#tools)
 	* [Free](#free)
 	* [Free (+ Pro)](#free--pro)
+* [Kotlin](#kotlin)
+
 * [Android Studio Shortcuts](#android-studio-shortcuts)
 * [Sites](#sites)
 * [Books](#books)
@@ -334,6 +336,12 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Vysor](https://www.vysor.io/) - Vysor puts your Android on your desktop
 * [Zeplin](https://zeplin.io/) - Design hand-off has never been easier. Generate styleguides and resources, automatically
 
+## Kotlin
+
+* #### [Anko](https://github.com/Kotlin/anko) - Pleasant Android application development
+* #### [Anvil](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React
+* #### [AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1
+* #### [Koi](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development.
 
 ## Android Studio Shortcuts
 
