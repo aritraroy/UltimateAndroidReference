@@ -28,28 +28,28 @@ If you feel that a particular resource(s) listed here is not a good fit for this
 ## Categories
 
 * [Libraries](#libraries)
-	* [Animations](#animations)
-	* [Background Processing](#background-processing)
-	* [Charts](#charts)
-	* [Crash Reporting & Tracking](#crash-reporting--tracking)
-	* [Debugging](#debugging)
-	* [Dependency Injection](#dependency-injection)
-	* [Image Loading](#image-loading)
-	* [Image Processing](#image-processing)
-	* [Logging](#logging)
-	* [Networking](#networking)
-	* [Persistence](#persistence)
-	* [Testing](#testing)
-	* [UI Components](#ui-components)
-	* [Utilities](#utilities)
-	* [Utilities (Advanced)](#utilities-advanced)
+    * [Animations](#animations)
+    * [Background Processing](#background-processing)
+    * [Charts](#charts)
+    * [Crash Reporting & Tracking](#crash-reporting--tracking)
+    * [Debugging](#debugging)
+    * [Dependency Injection](#dependency-injection)
+    * [Image Loading](#image-loading)
+    * [Image Processing](#image-processing)
+    * [Logging](#logging)
+    * [Networking](#networking)
+    * [Persistence](#persistence)
+    * [Testing](#testing)
+    * [UI Components](#ui-components)
+    * [Utilities](#utilities)
+    * [Utilities (Advanced)](#utilities-advanced)
 * [Open-Source Apps](#open-source-apps)
-	* [Beginner](#beginner)
-	* [Intermediate](#intermediate)
-	* [Expert](#expert)
+    * [Beginner](#beginner)
+    * [Intermediate](#intermediate)
+    * [Expert](#expert)
 * [Tools](#tools)
-	* [Free](#free)
-	* [Free (+ Pro)](#free--pro)
+    * [Free](#free)
+    * [Free (+ Pro)](#free--pro)
 * [Kotlin](#kotlin)
 * [Android Studio Shortcuts](#android-studio-shortcuts)
 * [Sites](#sites)
@@ -58,8 +58,8 @@ If you feel that a particular resource(s) listed here is not a good fit for this
 * [Video Tutorials](#video-tutorials)
 * [Twitter Profiles](#twitter-profiles)
 * [Game Development](#game-development)
-	* [Frameworks](#frameworks)
-	* [Open-Source Games](#open-source-games)
+    * [Frameworks](#frameworks)
+    * [Open-Source Games](#open-source-games)
 
 
 ## Libraries
@@ -107,7 +107,7 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ### Debugging
 
-* [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences
+* [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging Android databases and shared preferences
 * [Android Performance Monitor](https://github.com/markzhai/AndroidPerformanceMonitor) - A transparent ui-block detection library for Android (known as BlockCanary)
 * [Chuck](https://github.com/jgilfelt/chuck) - An in-app HTTP inspector for Android OkHttp clients
 * [Debug Drawer](https://github.com/palaima/DebugDrawer) - Android Debug Drawer for faster development
@@ -160,7 +160,7 @@ Gather feedback from your beta testers and have live conversations with your use
 ### Persistence
 
 * [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android 
-* [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you
+* [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM Android database library that writes database code for you
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
 * [greenDAO](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases
 * [Paper](https://github.com/pilgr/Paper) - Fast and simple data storage library for Android
@@ -244,10 +244,10 @@ Stitch your photos together vertically or horizontally easily!
 ### Intermediate
 
 * [ClipStack](https://github.com/heruoxin/Clip-Stack) - A tiny clipboard history manager app
-* [EverMemo](https://github.com/daimajia/EverMemo) - Fast Record,Organize,and Share. The android memo app you will deeply love
+* [EverMemo](https://github.com/daimajia/EverMemo) - Fast Record,Organize,and Share. The Android memo app you will deeply love
 * [Google I/O App](https://github.com/google/iosched) - The Google I/O 2016 Android App
 * [InstaMaterial](https://github.com/frogermcs/InstaMaterial) - Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)
-* [LeafPic](https://github.com/HoraApps/LeafPic) - LeafPic is an ad-free, open-source and material-designed android gallery alternative
+* [LeafPic](https://github.com/HoraApps/LeafPic) - LeafPic is an ad-free, open-source and material-designed Android gallery alternative
 * [MLManager](https://github.com/javiersantos/MLManager) - A modern, easy and customizable app manager for Android with Material Design
 * [MovieGuide](https://github.com/esoxjem/MovieGuide) - Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture. Popcorn?
 * [Narrate](https://github.com/timothymiko/narrate-android) - 
@@ -265,7 +265,7 @@ Narrate is a beautiful and functional open source journal for Android
 * [CoCoin](https://github.com/Nightonke/CoCoin) - CoCoin, Multi-view Accounting Application
 * [Kickstarter](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere
 * [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Free as in Freedom torrent client for Android
-* [MusicDNA](https://github.com/harjot-oberai/MusicDNA) - A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music
+* [MusicDNA](https://github.com/harjot-oberai/MusicDNA) - A Music Player for Android that renders beautiful DNA(Visualization) of the currently playing music
 * [Muzei Wallpaper](https://github.com/romannurik/muzei) - Muzei Live Wallpaper for Android
 * [OmniNotes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android
 * [QkSms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger app for Android
@@ -283,7 +283,7 @@ Narrate is a beautiful and functional open source journal for Android
 
 ### Free
 
-* [ADB IDEA](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development
+* [ADB IDEA](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day Android development
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - A collection of tools to easily generate assets such as launcher icons for your Android app
 * [Android Tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
 * [Android Wifi ADB](https://github.com/pedrovgs/AndroidWiFiADB) - IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected
@@ -301,7 +301,7 @@ Narrate is a beautiful and functional open source journal for Android
 * [DTO Generator](https://plugins.jetbrains.com/plugin/7834-dto-generator) - Data Transfer Object(DTO) generator that generates Java classes from the given feed
 * [DPI Love](http://dpi.lv/) - Get accurate DPI information on a wide range of Android devices
 * [Drawable Optimizer](https://github.com/fabiomsr/drawable-optimizer) - Gradle plugin to optimize png files and reduce resultant apk size within an Android project
-* [Dry Run](https://github.com/cesarferreira/dryrun) - Try any android library hosted online directly from the command line
+* [Dry Run](https://github.com/cesarferreira/dryrun) - Try any Android library hosted online directly from the command line
 * [FindBugs](http://findbugs.sourceforge.net/) - Powerful static code analysis tool for Java and Android
 * [FlatIcon](http://www.flaticon.com/) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats
 * [Gradle Please](http://gradleplease.appspot.com/) - Quick and easy way to build Gradle based libraries in Android
@@ -414,7 +414,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Andorid Design Patterns](http://www.androiddesignpatterns.com/) - Android Design Patterns is a website for developers who wish to better understand the Android application framework
 * [AndroidDevDigest](https://www.androiddevdigest.com/) - A Handcrafted Weekly #AndroidDev Newsletter
 * [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
-* [Android Hive](http://www.androidhive.info/) - Androidhive is independent online publication that covers android programming tutorials, app reviews and more
+* [Android Hive](http://www.androidhive.info/) - Androidhive is independent online publication that covers Android programming tutorials, app reviews and more
 * [Android Niceties](http://androidniceties.tumblr.com/) - A collection of screenshots encompassing some of the most beautiful looking Android apps
 * [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development
 * [Caster.IO](https://caster.io/) - Skyrocket your Android career with bite sized Android development video training
@@ -559,4 +559,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
