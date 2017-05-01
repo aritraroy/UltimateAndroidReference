@@ -127,7 +127,7 @@ Gather feedback from your beta testers and have live conversations with your use
 ### Image Loading
 
 * [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android
-* [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use 
+* [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use
 * [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 
@@ -160,12 +160,12 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ### Persistence
 
-* [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android 
+* [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android
 * [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM Android database library that writes database code for you
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
 * [greenDAO](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases
 * [Paper](https://github.com/pilgr/Paper) - Fast and simple data storage library for Android
-* [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs 
+* [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs
 * [RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
 * [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
 * [SQL Brite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations
@@ -192,7 +192,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Cafebar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and easy to use
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
-* [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android 
+* [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android
 * [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API
 * [Material Drawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
 * [Material Search View](https://github.com/MiguelCatalan/MaterialSearchView) - Cute library to implement SearchView in a Material Design Approach
@@ -207,14 +207,16 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintenance
 * [Android Weak Handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler
 * [Ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences
-* [ByteBuddy](http://bytebuddy.net/) - Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application 
+* [ByteBuddy](http://bytebuddy.net/) - Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
 * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
 * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way
 * [Easy Permissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions
+* [Gson](https://github.com/google/gson) -  A Java serialization/deserialization library to convert Java Objects into JSON and back
 * [Guava](https://github.com/google/guava) - Google Core Libraries for Java
 * [IcePick](https://github.com/frankiesardo/icepick) - Android Instance State made easy
 * [LibPhoneNumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
+* [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 * [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
 * [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
 * [Secure Preferences](https://github.com/scottyab/secure-preferences) - Android Shared preference wrapper than encrypts the values of Shared Preferences
@@ -236,7 +238,7 @@ There are lots of open-source apps available in the Android community for develo
 * [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, < 200kb Android launcher
 * [Materialize](https://github.com/oxoooo/materialize) - Materialize all those not material
 * [MinimalTodo](https://github.com/avjinder/Minimal-Todo) - Material To-Do App
-* [PhotoAffix](https://github.com/afollestad/photo-affix) - 
+* [PhotoAffix](https://github.com/afollestad/photo-affix) -
 Stitch your photos together vertically or horizontally easily!
 * [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads
 * [SoundRecorder](https://github.com/dkim0419/SoundRecorder) - A simple sound recording app implementing Material Design
@@ -251,7 +253,7 @@ Stitch your photos together vertically or horizontally easily!
 * [LeafPic](https://github.com/HoraApps/LeafPic) - LeafPic is an ad-free, open-source and material-designed Android gallery alternative
 * [MLManager](https://github.com/javiersantos/MLManager) - A modern, easy and customizable app manager for Android with Material Design
 * [MovieGuide](https://github.com/esoxjem/MovieGuide) - Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture. Popcorn?
-* [Narrate](https://github.com/timothymiko/narrate-android) - 
+* [Narrate](https://github.com/timothymiko/narrate-android) -
 Narrate is a beautiful and functional open source journal for Android
 * [Plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design
 * [Turbo Editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android
@@ -308,7 +310,7 @@ Narrate is a beautiful and functional open source journal for Android
 * [Gradle Please](http://gradleplease.appspot.com/) - Quick and easy way to build Gradle based libraries in Android
 * [Infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 * [JSONBlob](https://jsonblob.com/) - JSON Blob is a web-based tool to create, edit, view, format, and share JSON
-* [JSONSchema2POJO](http://www.jsonschema2pojo.org/) - Easy and quick way to convert your JSON to Java objects 
+* [JSONSchema2POJO](http://www.jsonschema2pojo.org/) - Easy and quick way to convert your JSON to Java objects
 * [KeyPromoter](https://plugins.jetbrains.com/plugin/4455-key-promoter) - Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)
 * [Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin) - This plugin help you to set material design icon to your project
 * [Material Palette](https://www.materialpalette.com/) - Generate Material Design color palettes quickly and easily
@@ -436,7 +438,7 @@ If you want to keep yourself updated with all the latest Android development new
 
 
 * [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/) - by Bill Phillips, Chris Stewart, and Kristin Marsicano
-* [Asynchronous Android](http://www.amazon.in/Asynchronous-Android-Steve-Liles/dp/1783286873) - by Steve Liles 
+* [Asynchronous Android](http://www.amazon.in/Asynchronous-Android-Steve-Liles/dp/1783286873) - by Steve Liles
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) - by Robert C. Martin
 * [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) - by Joshua Bloch
 * [Head First Design Patterns](https://www.amazon.com/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124) - by Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson
