@@ -69,6 +69,7 @@ These are some of the best and the most popular libraries and utilities to boost
 
 * [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection
 * [Backboard](https://github.com/tumblr/Backboard) - A motion-driven animation framework for Android
+* [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - An easy-to-use animation which can be used for content picking for Android
 * [ExpectAnim](https://github.com/florent37/ExpectAnim) - Describe your animation and run
 * [Grav](https://github.com/glomadrian/Grav) - Configurable animations based on points
 * [Lottie](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
