@@ -333,7 +333,7 @@ Narrate is a beautiful and functional open source journal for Android
 
 ### Free (+ Pro)
 
-* [Crowdin](https://crowdin.com/) - Translate and manage the process better, faster, and smarter
+* [Crowdin](https://crowdin.com) - Translate and manage the process better, faster, and smarter
 * [GenyMotion](https://www.genymotion.com) - A unique platform to bring your Android app to perfection!
 * [GitKraken](https://www.gitkraken.com) - The most popular Git GUI for Windows, Mac AND Linux
 * [IDE Scout](https://www.idescout.com) - SQLScout is a plugin for Android Studio and IntelliJ IDEA that provides powerful, dedicated support for managing and debugging SQLite databases
