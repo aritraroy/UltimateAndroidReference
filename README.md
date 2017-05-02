@@ -204,12 +204,9 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ### Utilities
 
-<<<<<<< HEAD
+
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
 * [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) - UI form validation library for Android
-=======
-* [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintenance
->>>>>>> 9b23a2a84fdc1324706242539e1ef4132d152df7
 * [Android Weak Handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler
 * [Ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences
 * [ByteBuddy](http://bytebuddy.net) - Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application
