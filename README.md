@@ -297,6 +297,7 @@ Narrate is a beautiful and functional open source journal for Android
 * [Battery Historian](https://github.com/google/battery-historian) - Battery Historian is a tool to analyze battery consumers using Android "bugreport" files
 * [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages
 * [Butterknife Zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML
+* [CheckStyle IDEA](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea) - This plugin provides both real-time and on-demand scanning of Java files with CheckStyle from within IDEA
 * [ClassyShark](https://github.com/google/android-classyshark) - Android executables browser
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting
 * [Codota](https://www.codota.com/ide-plugin) - Supercharge your development workflow by getting great code examples directly in your IDE. The Codota plugin for IntelliJ lets you quickly find the best code examples for every API class or method
@@ -324,12 +325,15 @@ Narrate is a beautiful and functional open source journal for Android
 * [Scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app
 * [Shape Shifter](https://shapeshifter.design) - Useful tool for creating simple path morphing AnimatedVectorDrawables
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
+* [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint) - SonarLint is an IntelliJ IDEA plugin that provides on-the-fly feedback to developers on new bugs and quality issues injected into Java
 * [SourceTree](https://www.sourcetreeapp.com) - Harness the power of Git and Hg in a beautifully simple application
+* [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - Provides actions for text manipulation such as toggle, capitalize, encode/decode, etc
 * [SVG2VectorDrawable Plugin](https://plugins.jetbrains.com/plugin/8103-svg2vectordrawable) - Tools for convert SVG file to Android VectorDrawable
 * [WireMock](https://github.com/tomakehurst/wiremock) - A tool for mocking HTTP services
 
 ### Free (+ Pro)
 
+* [Crowdin](https://crowdin.com/) - Translate and manage the process better, faster, and smarter
 * [GenyMotion](https://www.genymotion.com) - A unique platform to bring your Android app to perfection!
 * [GitKraken](https://www.gitkraken.com) - The most popular Git GUI for Windows, Mac AND Linux
 * [IDE Scout](https://www.idescout.com) - SQLScout is a plugin for Android Studio and IntelliJ IDEA that provides powerful, dedicated support for managing and debugging SQLite databases
@@ -410,7 +414,6 @@ These can help you level up your development workflow.
 | Collapse/expand individual code block                                           | Command-+/-                     |
 | Insert new line below current cursor position                                   | Shift-Enter                     |
 | Complete statement (add braces, parentheses, semi-colon)                        | Command-Shift-Enter             |
-
 
 ## Sites
 
