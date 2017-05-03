@@ -249,6 +249,7 @@ Stitch your photos together vertically or horizontally easily!
 
 ### Intermediate
 
+* [CheeseSquare](https://github.com/chrisbanes/cheesesquare) - Demos the new Android Design library.
 * [ClipStack](https://github.com/heruoxin/Clip-Stack) - A tiny clipboard history manager app
 * [EverMemo](https://github.com/daimajia/EverMemo) - Fast Record,Organize,and Share. The Android memo app you will deeply love
 * [Google I/O App](https://github.com/google/iosched) - The Google I/O 2016 Android App
