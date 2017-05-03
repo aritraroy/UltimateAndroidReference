@@ -124,6 +124,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Dagger](https://github.com/square/Dagger) - A fast dependency injector for Android and Java
 * [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java
 * [Dart](https://github.com/f2prateek/dart) - Extras "injection" library for Android
+* [Toothpick](https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection library for Java
 
 ### Image Loading
 
