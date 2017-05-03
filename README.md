@@ -398,7 +398,7 @@ You will surely need these quite often.
 | Show available parameters for current method (must be inside parentheses)               | <kbd>Command</kbd> + <kbd>P</kbd>             |
 | Format code to match Android Studio's default style                                     | <kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>L</kbd>      |
 | Delete a complete line at one go                                                        | <kbd>Command</kbd> + <kbd>Delete</kbd>        |
-| Navigate through classes and methods                                                    | <kbd>Command</kbd> + <kbd>Left click</kbd>    |
+| Navigate through classes and methods                                                    | <kbd>Command</kbd> + <kbd>Left Click</kbd>    |
 
 
 ### Useful Shortcuts:
