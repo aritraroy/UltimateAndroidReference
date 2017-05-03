@@ -194,6 +194,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
 * [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
+* [Epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView
 * [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android
 * [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API
 * [Material Drawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
@@ -499,6 +500,7 @@ Love learning from videos? Don't worry, we have got you covered. This list conta
 If you are somebody who loves to engage with other fellow developers and surround yourself with all the latest news, ideas and happenings, then this list is just for you. Start following some of the best and most active Android and Java developers on Twitter.
 
 * [Android Developers](https://twitter.com/AndroidDev) - News and announcements for developers from the Android team
+* [Annyce Davis](https://twitter.com/brwngrldev) - #AndroidDev, Conference #Speaker, and #Instructor
 * [Chet Haase](https://twitter.com/chethaase) - Willful misinterpretation. Android. Comedy. That kind of stuff
 * [Chris Banes](https://twitter.com/chrisbanes) - #Android Developer Relations @Google
 * [Chiu-Ki Chan](https://twitter.com/chiuki) - @monkeywrite & @heartcollage creator, Android developer, public speaker (@techspeakdigest), sketchnoter, language lover, world traveller
@@ -510,6 +512,7 @@ If you are somebody who loves to engage with other fellow developers and surroun
 * [Huyen Tue Dao](https://twitter.com/queencodemonkey) - Native Android Code Monkey: monkey code, monkey break, monkey debug, monkey iterate. Randomly typing on @Trello for @Atlassian. GDE. ½ of Android Dialogs
 * [Jake Wharton](https://twitter.com/JakeWharton) - Stop stopping
 * [jessewilson](https://twitter.com/jessewilson) - Android and jokes. Sometimes also inclusivity & sustainability
+* [Joe Birch](https://twitter.com/hitherejoe) - Android Engineer @Buffer. Instructor @caster_io & @Pluralsight. Public Speaker, Android Tinkerer
 * [Kaushik Gopal](https://twitter.com/kaushikgopal) - I'm ½ of the @FragmentedCast and a Google Developer Expert. I build Android apps for @Instacart. I watch atleast 1 movie every week and Jon Stewart is my hero
 * [Kristin Marsicano](https://twitter.com/kristinmars) - Android Developer and Instructor @bignerdranch. Co-author of Android Programming: The Big Nerd Ranch Guide. Always learning
 * [Lars Vogel](https://twitter.com/vogella) - Eclipse platform UI and e4 project lead. Android and Eclipse RCP developer. CEO of vogella GmbH, book author, speaker, trainer and proud Dad and husband
@@ -523,6 +526,7 @@ If you are somebody who loves to engage with other fellow developers and surroun
 * [Ryan Harter](https://twitter.com/rharter) - Freelance Android Developer, Google Developer Expert, community leader
 * [Tor Norbye](https://twitter.com/tornorbye) - Tor Norbye is the tech lead for Android Studio at Google
 * [Ty](https://twitter.com/tsmith) - Android at @Uber Dev Platform - Google Developer Expert - @specializedtype investor - @sfaug and @droidconsf organizer - ex @twitter @fabric @evernote @zagat
+* [Zarah Dominguez](https://twitter.com/zarahjutz) - Having a love/hate affair with the little green 'droid at @domaincomau; Google Developer Expert for Android; a walking contradiction
 
 ## Game Development
 
