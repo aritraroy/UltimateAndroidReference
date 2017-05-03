@@ -426,6 +426,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
 * [Andorid Design Patterns](http://www.androiddesignpatterns.com) - Android Design Patterns is a website for developers who wish to better understand the Android application framework
 * [AndroidDevDigest](https://www.androiddevdigest.com) - A Handcrafted Weekly #AndroidDev Newsletter
+* [Android Developers Backstage](http://androidbackstage.blogspot.ch/) - Podcast made by Google, featuring Chet Haase and Tor Norbye
 * [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
 * [Android Hive](http://www.androidhive.info) - Androidhive is independent online publication that covers Android programming tutorials, app reviews and more
 * [Android Niceties](http://androidniceties.tumblr.com) - A collection of screenshots encompassing some of the most beautiful looking Android apps
