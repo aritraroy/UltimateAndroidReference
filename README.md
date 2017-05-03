@@ -372,15 +372,15 @@ Never-ever-ever forget these shortcuts.
 
 | Description                                                                             | Shortcut             |
 |:----------------------------------------------------------------------------------------|:--------------------:|
-| Find everything (like files, classes, symbols, etc.)                                    | Double Shift         |
-| Show a list of automatic fixes and IDE suggestions at the cursor                        | Option-Enter         |
-| Rename all copies of the variable/method/class at the cursor                            | Shift-F6             |
-| List all usages of the variable/method/class at the cursor                              | Command-Option-F7    |
-| Generate code (like getters, setters, constructors, method overrides)                   | Command-N            |
-| Search for any action in Android Studio                                                 | Command-Shift-A      |
-| Find text occurencesin the current file (Enter = cycle through results, Esc. = cancel)  | Command-F            |
-| Show the list of recently used files in the IDE                                         | Command-E            |
-| Run the app or test                                                                     | Control-R            |
+| Find everything (like files, classes, symbols, etc.)                                    | <kbd>Shift</kbd> + <kbd>Shift</kbd>         |
+| Show a list of automatic fixes and IDE suggestions at the cursor                        | <kbd>Option</kbd> + <kbd>Enter</kbd>        |
+| Rename all copies of the variable/method/class at the cursor                            | <kbd>Shift</kbd> + <kbd>F6</kbd>             |
+| List all usages of the variable/method/class at the cursor                              | <kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>F7</kbd>    |
+| Generate code (like getters, setters, constructors, method overrides)                   | <kbd>Command</kbd> + <kbd>N</kbd>            |
+| Search for any action in Android Studio                                                 | <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>      |
+| Find text occurencesin the current file (Enter = cycle through results, Esc. = cancel)  | <kbd>Command</kbd> + <kbd>F</kbd>            |
+| Show the list of recently used files in the IDE                                         | <kbd>Command</kbd> + <kbd>E</kbd>            |
+| Run the app or test                                                                     | <kbd>Control</kbd> + <kbd>R</kbd>            |
 
 
 ### Frequently Used Shortcuts:
@@ -389,16 +389,16 @@ You will surely need these quite often.
 
 | Description                                                                             | Shortcut              |
 |:----------------------------------------------------------------------------------------|:---------------------:|
-| Search for and open any file by name                                                    | Command-Shift-O       |
-| Move a piece of code in upward/downward direction                                       | Command-Shift-Up/Dow  |
-| View javadoc of symbol at cursor in pop-up                                              | F1                    |
-| View definition of method at cursor in pop-up                                           | Command-Y             |
-| Search for and list any occurrences of text                                             | Command-Shift-F       |
-| Comment/Uncomment all selected lines (also works in xml files)                          | Command-/             |
-| Show available parameters for current method (must be inside parentheses)               | Command-P             |
-| Format code to match Android Studio's default style                                     | Command-Option-L      |
-| Delete a complete line at one go                                                        | Command-Delete        |
-| Navigate through classes and methods                                                    | Command-Left click    |
+| Search for and open any file by name                                                    | <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>       |
+| Move a piece of code in upward/downward direction                                       | <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>Up/Down</kbd>  |
+| View javadoc of symbol at cursor in pop-up                                              | <kbd>F1</kbd>                    |
+| View definition of method at cursor in pop-up                                           | <kbd>Command</kbd> + <kbd>Y</kbd>             |
+| Search for and list any occurrences of text                                             | <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>       |
+| Comment/Uncomment all selected lines (also works in xml files)                          | <kbd>Command</kbd> + <kbd>/</kbd>             |
+| Show available parameters for current method (must be inside parentheses)               | <kbd>Command</kbd> + <kbd>P</kbd>             |
+| Format code to match Android Studio's default style                                     | <kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>L</kbd>      |
+| Delete a complete line at one go                                                        | <kbd>Command</kbd> + <kbd>Delete</kbd>        |
+| Navigate through classes and methods                                                    | <kbd>Command</kbd> + <kbd>Left click</kbd>    |
 
 
 ### Useful Shortcuts:
@@ -407,18 +407,18 @@ These can help you level up your development workflow.
 
 | Description                                                                     | Shortcut                        |
 |:--------------------------------------------------------------------------------|:-------------------------------:|
-| Go to next highlighted error in current file                                    | F2                              |
-| Go to the declaration of the variable/method/class at cursor                    | Command-B                       |
-| Go to given line number in current file                                         | Command-L                       |
-| Duplicate current line                                                          | Command-D                       |
-| Search for and go to any symbol (incl. variables and methods)                   | Command-Option-O                |
-| Show class structure in pop-up                                                  | Command-F12                     |
-| List recently edited files in pop-up                                            | Command-Shift-E                 |
-| View full refactor menu                                                         | Control-T                       |
-| Collapse/expand all code blocks                                                 | Command-Shift-+/-               |
-| Collapse/expand individual code block                                           | Command-+/-                     |
-| Insert new line below current cursor position                                   | Shift-Enter                     |
-| Complete statement (add braces, parentheses, semi-colon)                        | Command-Shift-Enter             |
+| Go to next highlighted error in current file                                    | <kbd>F2</kbd>                              |
+| Go to the declaration of the variable/method/class at cursor                    | <kbd>Command</kbd> + <kbd>B</kbd>                       |
+| Go to given line number in current file                                         | <kbd>Command</kbd> + <kbd>L</kbd>                       |
+| Duplicate current line                                                          | <kbd>Command</kbd> + <kbd>D</kbd>                       |
+| Search for and go to any symbol (incl. variables and methods)                   | <kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>O</kbd>                |
+| Show class structure in pop-up                                                  | <kbd>Command</kbd> + <kbd>F12</kbd>                     |
+| List recently edited files in pop-up                                            | <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>                 |
+| View full refactor menu                                                         | <kbd>Control</kbd> + <kbd>T</kbd>                       |
+| Collapse/expand all code blocks                                                 | <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>+/-</kbd>               |
+| Collapse/expand individual code block                                           | <kbd>Command</kbd> + <kbd>+/-</kbd>                     |
+| Insert new line below current cursor position                                   | <kbd>Shift</kbd> + <kbd>Enter</kbd>                     |
+| Complete statement (add braces, parentheses, semi-colon)                        | <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>             |
 
 ## Sites
 
