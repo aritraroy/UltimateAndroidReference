@@ -192,11 +192,11 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Cafebar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and easy to use
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
+* [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
 * [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android
 * [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API
 * [Material Drawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
 * [Material Search View](https://github.com/MiguelCatalan/MaterialSearchView) - Cute library to implement SearchView in a Material Design Approach
-* [Oblique](https://github.com/akshay2211/Oblique) - With Oblique explore new styles of displaying images
 * [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures
 * [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
