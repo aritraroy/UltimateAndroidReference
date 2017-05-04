@@ -50,8 +50,9 @@ If you feel that a particular resource(s) listed here is not a good fit for this
 * [Tools](#tools)
     * [Free](#free)
     * [Free (+ Pro)](#free--pro)
-* [Kotlin](#kotlin)
+* [Kotlin for Android](#kotlin-for-android)
 * [Android Studio Shortcuts](#android-studio-shortcuts)
+* [Android Studio Live Templates](#android-studio-live-templates)
 * [Sites](#sites)
 * [Books](#books)
 * [Sample Projects](#sample-projects)
@@ -356,15 +357,18 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Zeplin](https://zeplin.io) - Design hand-off has never been easier. Generate styleguides and resources, automatically
 
 
-## Kotlin
+## Kotlin for Android
 
 Kotlin, the new statically-typed programming language from JetBrains aims to make Android app development fun and enjoyable once again. It's like Java on steroids. Here is a list of some cool Kotlin resources for you to get started.
 
 * [Anko](https://github.com/Kotlin/anko) - Pleasant Android application development
 * [Anvil](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React
 * [AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1
+* [Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
+* [Klutter](https://github.com/kohesive/klutter) - A mix of random small libraries for Kotlin, the smallest reside here until big enough for their own repository
 * [Koi](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight Kotlin library for Android Development
 * [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made easy using Kotlin
+* [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
 
 ## Android Studio Shortcuts
 
@@ -425,6 +429,30 @@ These can help you level up your development workflow.
 | Collapse/expand individual code block                                           | <kbd>Command</kbd> + <kbd>+/-</kbd>                     |
 | Insert new line below current cursor position                                   | <kbd>Shift</kbd> + <kbd>Enter</kbd>                     |
 | Complete statement (add braces, parentheses, semi-colon)                        | <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>             |
+
+
+## Android Studio Live Templates
+
+Just like shortcuts, Live Templates can make your life a lot easier by generating tons of boring boilerplate code in a jiffy. Android Studio comes pre-loaded with a lot of these templates and here is a collection of some of the best ones for you to get started.
+
+  * `Toast` - Creates a new `Toast.makeText(context, "", Toast.LENGTH_SHORT).show();` toast
+  * `newInstance` - Generates the static `newInstance` factory method in a  Fragment with arguments
+  * `noInstance` - Generates a private empty constructor to prevent instance creation
+  * `ViewConstructors` - Generates the view constructors
+  * `Parcelable` - Generates the boilerplate code for Pacelable implementation
+  * `fbc` - Generates the `findViewById` code with the appropriate cast
+  * `const` - Generates a constant according to Android's coding conventions
+  * `logd` - Generates `Log.d(TAG, "");` log. Check the other variants as well
+  * `logm` - Generates a log with the current method name and its arguments
+  * `logr` - Generates a log result of the current method
+  * `psf` - Generates the boilerplate `public static final`. Also check `psfi` and `psfs`
+  * `key` - Generates the key constant for a Bundle
+  * `sout` - Prints a string to `System.out`. Also check `soutm` and `soutp`
+  * `visible` - Sets a view's visibility to VISIBLE
+  * `gone` - Sets view's visibility to GONE
+  * `todo` - Adds a TODO comment. Also check `stopship`
+
+Can't get enough of Live Templates? [Here](https://github.com/keyboardsurfer/idea-live-templates) is a huge repository of lots of custom Live Templates for you to get your hands on.
 
 ## Sites
 
