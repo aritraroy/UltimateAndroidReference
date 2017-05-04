@@ -357,9 +357,10 @@ Kotlin, the new statically-typed programming language from JetBrains aims to mak
 * [Anko](https://github.com/Kotlin/anko) - Pleasant Android application development
 * [Anvil](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React
 * [AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1
+* [Kodein](https://github.com/SalomonBrys/Kodein) - Painless Kotlin Dependency Injection
 * [Koi](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight Kotlin library for Android Development
 * [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made easy using Kotlin
-* [Kodein](https://github.com/SalomonBrys/Kodein) - Painless Kotlin Dependency Injection
+
 
 ## Android Studio Shortcuts
 
