@@ -137,8 +137,10 @@ Gather feedback from your beta testers and have live conversations with your use
 
 * [Android GPU Image](https://github.com/CyberAgent/android-gpuimage) - Android filters based on OpenGL (idea from GPUImage for iOS)
 * [Fresco Processors](https://github.com/wasabeef/fresco-processors) - An Android image processor library providing a variety of image transformations for Fresco
+* [Glide Face Detection Transformation](https://github.com/aryarohit07/GlideFaceDetectionTransformation) - An Android image transformation library providing cropping above Face Detection (Face Centering) for Glide
 * [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide
 * [PhotoFiltersSDK](https://github.com/Zomato/AndroidPhotoFilters) - AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media
+* [Picasso Face Detection Transformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation) - An Android image transformation library providing cropping above Face Detection (Face Centering) for Picasso
 * [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
 * [Pollexor](http://square.github.io/pollexor/) - An Android library, that can download unencrypted and encrypted images, crop, resize, apply filters and convert to another format.
 
@@ -187,6 +189,7 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ### UI Components
 
+* [AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout) - Library that makes it possible to read, edit and write CSV files
 * [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
 * [BlurKit Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS
 * [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
@@ -207,7 +210,7 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ### Utilities
 
-
+* [Android Crop](https://github.com/jdamcd/android-crop) - Android library project for cropping images
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils(updating)
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
 * [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) - UI form validation library for Android
@@ -225,8 +228,10 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 * [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
 * [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
+* [Reprint](https://github.com/ajalt/reprint) - A unified fingerprint library for Android
 * [Secure Preferences](https://github.com/scottyab/secure-preferences) - Android Shared preference wrapper than encrypts the values of Shared Preferences
 * [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap
+* [uCrop](https://github.com/Yalantis/uCrop) - Image Cropping Library for Android
 
 ### Utilities (Advanced)
 
