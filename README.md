@@ -90,6 +90,7 @@ These are some of the best and the most popular libraries and utilities to boost
 * [EazeGraph](https://github.com/blackfizz/EazeGraph) - An Android chart and graph library
 * [HelloCharts](https://github.com/lecho/hellocharts-android) - Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library, supporting line-bar-pie-radar-bubble-and candlestick charts as well as scaling, dragging and animations
+* [Spark](https://github.com/robinhood/spark) - A simple Android sparkline chart view
 * [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Android library to create charts
 
 
