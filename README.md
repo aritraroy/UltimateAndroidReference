@@ -113,6 +113,7 @@ Gather feedback from your beta testers and have live conversations with your use
 
 * [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging Android databases and shared preferences
 * [Android Performance Monitor](https://github.com/markzhai/AndroidPerformanceMonitor) - A transparent ui-block detection library for Android (known as BlockCanary)
+* [AnUitor](http://anuitor.scurab.com/) - UI debug tool for Android
 * [Chuck](https://github.com/jgilfelt/chuck) - An in-app HTTP inspector for Android OkHttp clients
 * [Debug Drawer](https://github.com/palaima/DebugDrawer) - Android Debug Drawer for faster development
 * [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
