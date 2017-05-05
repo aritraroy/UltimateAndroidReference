@@ -354,6 +354,7 @@ Narrate is a beautiful and functional open source journal for Android
 * [JRebel for Android](https://zeroturnaround.com/software/jrebel-for-android) - Instantly update code and resources
 JRebel for Android is an IDE plug-in that accelerates the development of Android applications
 * [NimbleDroid](https://nimbledroid.com) - Auto-test Your Android Apps for Critical Issues. No Coding Required
+* [Markdown Navigator 2.0](https://github.com/vsch/idea-multimarkdown) - Markdown language support for IntelliJ IDEA.
 * [The Noun Project](https://thenounproject.com) - Icons for Everything
 * [Trialy.IO](https://www.trialy.io) - Increase your IAP conversions by letting your users try premium features for a limited time
 * [Vysor](https://www.vysor.io) - Vysor puts your Android on your desktop
