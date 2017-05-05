@@ -281,6 +281,7 @@ Narrate is a beautiful and functional open source journal for Android
 * [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) - Amaze File Manager source code
 * [AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 * [CoCoin](https://github.com/Nightonke/CoCoin) - CoCoin, Multi-view Accounting Application
+* [Conversations](https://github.com/siacs/Conversations) - A federated Instant Messaging app for Android (XMPP/Jabber)
 * [Kickstarter](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere
 * [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Free as in Freedom torrent client for Android
 * [MusicDNA](https://github.com/harjot-oberai/MusicDNA) - A Music Player for Android that renders beautiful DNA(Visualization) of the currently playing music
