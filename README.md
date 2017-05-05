@@ -119,7 +119,7 @@ and Android apps
 * [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
 * [Stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more
 * [Takt](https://github.com/wasabeef/Takt) - Takt is Android library for measuring the FPS using Choreographer
-
+* [Debug Artist](https://github.com/BaristaVentures/debug-artist): debug menu that enables libs like leakcanary or stetho and some other custom features like shake to report, custom spinners and input fields.
 
 ### Dependency Injection
 
