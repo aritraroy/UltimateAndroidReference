@@ -103,9 +103,8 @@ and Android apps
 * [CleverTap](https://clevertap.com) - A complete tool to track and analyze user activity in your Android app
 * [Countly](https://count.ly) - End-to-end platform for web, mobile applications and game analytics
 * [Fabric Crash Analytics](https://get.fabric.io) - Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business
-* [HockeyApp](https://hockeyapp.net) - Bring Mobile DevOps to your apps with beta distribution, crash reporting, user metrics, feedback, and powerful workflow integrations.
-* [InstaBug](https://instabug.com) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting.
-Gather feedback from your beta testers and have live conversations with your users
+* [HockeyApp](https://hockeyapp.net) - Bring Mobile DevOps to your apps with beta distribution, crash reporting, user metrics, feedback, and powerful workflow integrations
+* [InstaBug](https://instabug.com) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting
 * [MixPanel](https://mixpanel.com) - Deeply understand every user's journey with instant insights for everyone on mobile and web
 
 
