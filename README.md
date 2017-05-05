@@ -6,6 +6,8 @@ This project will try to **showcase only the best, most popular and well-tested 
 
 Happy learning. :+1:
 
+#### Featured In :star:
+[![Android Weekly](https://img.shields.io/badge/Android%20Weekly-%23255-blue.svg)](http://androidweekly.net/issues/issue-255) [![AndroidDev Digest](https://img.shields.io/badge/AndroidDev%20Digest-%23142-blue.svg)](https://www.androiddevdigest.com/digest142/)
 
 #### Spread Some :heart:
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
