@@ -50,8 +50,9 @@ If you feel that a particular resource(s) listed here is not a good fit for this
 * [Tools](#tools)
     * [Free](#free)
     * [Free (+ Pro)](#free--pro)
-* [Kotlin](#kotlin)
+* [Kotlin for Android](#kotlin-for-android)
 * [Android Studio Shortcuts](#android-studio-shortcuts)
+* [Android Studio Live Templates](#android-studio-live-templates)
 * [Sites](#sites)
 * [Books](#books)
 * [Sample Projects](#sample-projects)
@@ -90,6 +91,7 @@ These are some of the best and the most popular libraries and utilities to boost
 * [EazeGraph](https://github.com/blackfizz/EazeGraph) - An Android chart and graph library
 * [HelloCharts](https://github.com/lecho/hellocharts-android) - Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library, supporting line-bar-pie-radar-bubble-and candlestick charts as well as scaling, dragging and animations
+* [Spark](https://github.com/robinhood/spark) - A simple Android sparkline chart view
 * [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Android library to create charts
 
 
@@ -137,8 +139,10 @@ Gather feedback from your beta testers and have live conversations with your use
 
 * [Android GPU Image](https://github.com/CyberAgent/android-gpuimage) - Android filters based on OpenGL (idea from GPUImage for iOS)
 * [Fresco Processors](https://github.com/wasabeef/fresco-processors) - An Android image processor library providing a variety of image transformations for Fresco
+* [Glide Face Detection Transformation](https://github.com/aryarohit07/GlideFaceDetectionTransformation) - An Android image transformation library providing cropping above Face Detection (Face Centering) for Glide
 * [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide
 * [PhotoFiltersSDK](https://github.com/Zomato/AndroidPhotoFilters) - AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media
+* [Picasso Face Detection Transformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation) - An Android image transformation library providing cropping above Face Detection (Face Centering) for Picasso
 * [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
 * [Pollexor](http://square.github.io/pollexor/) - An Android library, that can download unencrypted and encrypted images, crop, resize, apply filters and convert to another format.
 
@@ -187,6 +191,7 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ### UI Components
 
+* [AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout) - Library that makes it possible to read, edit and write CSV files
 * [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
 * [BlurKit Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS
 * [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
@@ -194,6 +199,7 @@ Gather feedback from your beta testers and have live conversations with your use
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
 * [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
+* [Epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView
 * [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android
 * [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API
 * [Material Drawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
@@ -206,7 +212,7 @@ Gather feedback from your beta testers and have live conversations with your use
 
 ### Utilities
 
-
+* [Android Crop](https://github.com/jdamcd/android-crop) - Android library project for cropping images
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils(updating)
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
 * [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) - UI form validation library for Android
@@ -224,8 +230,10 @@ Gather feedback from your beta testers and have live conversations with your use
 * [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 * [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
 * [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
+* [Reprint](https://github.com/ajalt/reprint) - A unified fingerprint library for Android
 * [Secure Preferences](https://github.com/scottyab/secure-preferences) - Android Shared preference wrapper than encrypts the values of Shared Preferences
 * [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap
+* [uCrop](https://github.com/Yalantis/uCrop) - Image Cropping Library for Android
 
 ### Utilities (Advanced)
 
@@ -350,16 +358,19 @@ JRebel for Android is an IDE plug-in that accelerates the development of Android
 * [Zeplin](https://zeplin.io) - Design hand-off has never been easier. Generate styleguides and resources, automatically
 
 
-## Kotlin
+## Kotlin for Android
 
 Kotlin, the new statically-typed programming language from JetBrains aims to make Android app development fun and enjoyable once again. It's like Java on steroids. Here is a list of some cool Kotlin resources for you to get started.
 
 * [Anko](https://github.com/Kotlin/anko) - Pleasant Android application development
 * [Anvil](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React
 * [AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1
+* [Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
+* [Klutter](https://github.com/kohesive/klutter) - A mix of random small libraries for Kotlin, the smallest reside here until big enough for their own repository
 * [Kodein](https://github.com/SalomonBrys/Kodein) - Painless Kotlin Dependency Injection
 * [Koi](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight Kotlin library for Android Development
 * [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made easy using Kotlin
+* [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
 
 
 ## Android Studio Shortcuts
@@ -421,6 +432,30 @@ These can help you level up your development workflow.
 | Collapse/expand individual code block                                           | <kbd>Command</kbd> + <kbd>+/-</kbd>                     |
 | Insert new line below current cursor position                                   | <kbd>Shift</kbd> + <kbd>Enter</kbd>                     |
 | Complete statement (add braces, parentheses, semi-colon)                        | <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>             |
+
+
+## Android Studio Live Templates
+
+Just like shortcuts, Live Templates can make your life a lot easier by generating tons of boring boilerplate code in a jiffy. Android Studio comes pre-loaded with a lot of these templates and here is a collection of some of the best ones for you to get started.
+
+  * `Toast` - Creates a new `Toast.makeText(context, "", Toast.LENGTH_SHORT).show();` toast
+  * `newInstance` - Generates the static `newInstance` factory method in a  Fragment with arguments
+  * `noInstance` - Generates a private empty constructor to prevent instance creation
+  * `ViewConstructors` - Generates the view constructors
+  * `Parcelable` - Generates the boilerplate code for Pacelable implementation
+  * `fbc` - Generates the `findViewById` code with the appropriate cast
+  * `const` - Generates a constant according to Android's coding conventions
+  * `logd` - Generates `Log.d(TAG, "");` log. Check the other variants as well
+  * `logm` - Generates a log with the current method name and its arguments
+  * `logr` - Generates a log result of the current method
+  * `psf` - Generates the boilerplate `public static final`. Also check `psfi` and `psfs`
+  * `key` - Generates the key constant for a Bundle
+  * `sout` - Prints a string to `System.out`. Also check `soutm` and `soutp`
+  * `visible` - Sets a view's visibility to VISIBLE
+  * `gone` - Sets view's visibility to GONE
+  * `todo` - Adds a TODO comment. Also check `stopship`
+
+Can't get enough of Live Templates? [Here](https://github.com/keyboardsurfer/idea-live-templates) is a huge repository of lots of custom Live Templates for you to get your hands on.
 
 ## Sites
 
@@ -501,6 +536,7 @@ Love learning from videos? Don't worry, we have got you covered. This list conta
 If you are somebody who loves to engage with other fellow developers and surround yourself with all the latest news, ideas and happenings, then this list is just for you. Start following some of the best and most active Android and Java developers on Twitter.
 
 * [Android Developers](https://twitter.com/AndroidDev) - News and announcements for developers from the Android team
+* [Annyce Davis](https://twitter.com/brwngrldev) - #AndroidDev, Conference #Speaker, and #Instructor
 * [Chet Haase](https://twitter.com/chethaase) - Willful misinterpretation. Android. Comedy. That kind of stuff
 * [Chris Banes](https://twitter.com/chrisbanes) - #Android Developer Relations @Google
 * [Chiu-Ki Chan](https://twitter.com/chiuki) - @monkeywrite & @heartcollage creator, Android developer, public speaker (@techspeakdigest), sketchnoter, language lover, world traveller
@@ -512,6 +548,7 @@ If you are somebody who loves to engage with other fellow developers and surroun
 * [Huyen Tue Dao](https://twitter.com/queencodemonkey) - Native Android Code Monkey: monkey code, monkey break, monkey debug, monkey iterate. Randomly typing on @Trello for @Atlassian. GDE. ½ of Android Dialogs
 * [Jake Wharton](https://twitter.com/JakeWharton) - Stop stopping
 * [jessewilson](https://twitter.com/jessewilson) - Android and jokes. Sometimes also inclusivity & sustainability
+* [Joe Birch](https://twitter.com/hitherejoe) - Android Engineer @Buffer. Instructor @caster_io & @Pluralsight. Public Speaker, Android Tinkerer
 * [Kaushik Gopal](https://twitter.com/kaushikgopal) - I'm ½ of the @FragmentedCast and a Google Developer Expert. I build Android apps for @Instacart. I watch atleast 1 movie every week and Jon Stewart is my hero
 * [Kristin Marsicano](https://twitter.com/kristinmars) - Android Developer and Instructor @bignerdranch. Co-author of Android Programming: The Big Nerd Ranch Guide. Always learning
 * [Lars Vogel](https://twitter.com/vogella) - Eclipse platform UI and e4 project lead. Android and Eclipse RCP developer. CEO of vogella GmbH, book author, speaker, trainer and proud Dad and husband
@@ -525,6 +562,7 @@ If you are somebody who loves to engage with other fellow developers and surroun
 * [Ryan Harter](https://twitter.com/rharter) - Freelance Android Developer, Google Developer Expert, community leader
 * [Tor Norbye](https://twitter.com/tornorbye) - Tor Norbye is the tech lead for Android Studio at Google
 * [Ty](https://twitter.com/tsmith) - Android at @Uber Dev Platform - Google Developer Expert - @specializedtype investor - @sfaug and @droidconsf organizer - ex @twitter @fabric @evernote @zagat
+* [Zarah Dominguez](https://twitter.com/zarahjutz) - Having a love/hate affair with the little green 'droid at @domaincomau; Google Developer Expert for Android; a walking contradiction
 
 ## Game Development
 
