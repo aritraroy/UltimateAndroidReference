@@ -367,9 +367,11 @@ Kotlin, the new statically-typed programming language from JetBrains aims to mak
 * [AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1
 * [Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 * [Klutter](https://github.com/kohesive/klutter) - A mix of random small libraries for Kotlin, the smallest reside here until big enough for their own repository
+* [Kodein](https://github.com/SalomonBrys/Kodein) - Painless Kotlin Dependency Injection
 * [Koi](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight Kotlin library for Android Development
 * [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made easy using Kotlin
 * [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
+
 
 ## Android Studio Shortcuts
 
