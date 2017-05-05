@@ -104,9 +104,9 @@ and Android apps
 * [Countly](https://count.ly) - End-to-end platform for web, mobile applications and game analytics
 * [Fabric Crash Analytics](https://get.fabric.io) - Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business
 * [HockeyApp](https://hockeyapp.net) - Bring Mobile DevOps to your apps with beta distribution, crash reporting, user metrics, feedback, and powerful workflow integrations.
-* [MixPanel](https://mixpanel.com) - Deeply understand every user's journey with instant insights for everyone on mobile and web
-* [InstaBug](https://www.bugsnag.com) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting.
+* [InstaBug](https://instabug.com) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting.
 Gather feedback from your beta testers and have live conversations with your users
+* [MixPanel](https://mixpanel.com) - Deeply understand every user's journey with instant insights for everyone on mobile and web
 
 
 ### Debugging
@@ -368,9 +368,11 @@ Kotlin, the new statically-typed programming language from JetBrains aims to mak
 * [AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1
 * [Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 * [Klutter](https://github.com/kohesive/klutter) - A mix of random small libraries for Kotlin, the smallest reside here until big enough for their own repository
+* [Kodein](https://github.com/SalomonBrys/Kodein) - Painless Kotlin Dependency Injection
 * [Koi](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight Kotlin library for Android Development
 * [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made easy using Kotlin
 * [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
+
 
 ## Android Studio Shortcuts
 
