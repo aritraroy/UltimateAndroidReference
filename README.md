@@ -503,6 +503,7 @@ If you want to keep yourself updated with all the latest Android development new
 If you want to get started with something quick-and-dirty, then sample projects are something which can help you a lot in understanding the concepts and technicalities in almost no time.
 
 * [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps
+* [Android Boilerplate](https://github.com/ribot/android-boilerplate) - Android boilerplate app that showcases architecture and libraries used at ribot
 * [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Collected code examples from the O'Reilly Android Cookbook
 * [Android MVP Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
 * [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
