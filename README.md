@@ -296,6 +296,7 @@ Narrate is a beautiful and functional open source journal for Android
 * [Talon for Twitter](https://github.com/klinker24/Talon-for-Twitter) - 100% open source version of my popular Talon for Twitter app on Android
 * [Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 * [Timber](https://github.com/naman14/Timber) - Material Design Music Player
+* [Just-Another-Android-App](https://github.com/athkalia/Just-Another-Android-App) - Sample android MVP project that showcases MVP and advanced testing techniques
 
 
 ## Tools
