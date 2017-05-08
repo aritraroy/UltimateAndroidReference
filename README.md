@@ -203,6 +203,7 @@ and Android apps
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
 * [Epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView
 * [FirebaseUI for Android](https://github.com/firebase/FirebaseUI-Android) - UI Bindings for Firebase
+* [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) - An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go!.
 * [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android
 * [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API
 * [Material Drawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
@@ -286,6 +287,7 @@ Narrate is a beautiful and functional open source journal for Android
 * [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) - Amaze File Manager source code
 * [AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 * [CoCoin](https://github.com/Nightonke/CoCoin) - CoCoin, Multi-view Accounting Application
+* [Conversations](https://github.com/siacs/Conversations) - A federated Instant Messaging app for Android (XMPP/Jabber)
 * [Kickstarter](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere
 * [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Free as in Freedom torrent client for Android
 * [MusicDNA](https://github.com/harjot-oberai/MusicDNA) - A Music Player for Android that renders beautiful DNA(Visualization) of the currently playing music
