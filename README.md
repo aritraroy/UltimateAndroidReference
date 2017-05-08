@@ -195,6 +195,7 @@ and Android apps
 * [AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout) - Library that makes it possible to read, edit and write CSV files
 * [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
 * [BlurKit Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS
+* [BottomBar](https://github.com/roughike/BottomBar) - A custom view component that mimics the new Material Design Bottom Navigation pattern
 * [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
 * [Cafebar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and easy to use
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
