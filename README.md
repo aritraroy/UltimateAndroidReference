@@ -267,13 +267,13 @@ Stitch your photos together vertically or horizontally easily!
 
 * [ClipStack](https://github.com/heruoxin/Clip-Stack) - A tiny clipboard history manager app
 * [EverMemo](https://github.com/daimajia/EverMemo) - Fast Record,Organize,and Share. The Android memo app you will deeply love
+* [FastHub](https://github.com/k0shk0sh/FastHub) - GitHub client for Android
 * [Google I/O App](https://github.com/google/iosched) - The Google I/O 2016 Android App
 * [InstaMaterial](https://github.com/frogermcs/InstaMaterial) - Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)
 * [LeafPic](https://github.com/HoraApps/LeafPic) - LeafPic is an ad-free, open-source and material-designed Android gallery alternative
 * [MLManager](https://github.com/javiersantos/MLManager) - A modern, easy and customizable app manager for Android with Material Design
 * [MovieGuide](https://github.com/esoxjem/MovieGuide) - Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture. Popcorn?
-* [Narrate](https://github.com/timothymiko/narrate-android) -
-Narrate is a beautiful and functional open source journal for Android
+* [Narrate](https://github.com/timothymiko/narrate-android) -Narrate is a beautiful and functional open source journal for Android
 * [Plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design
 * [Robot Scouter](https://github.com/SUPERCILEX/Robot-Scouter/) - 🤖 A scouting app for FIRST Robotics Competition teams
 * [Turbo Editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android
