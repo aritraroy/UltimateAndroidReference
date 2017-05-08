@@ -16,6 +16,7 @@ Happy learning. :+1:
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/aritraroy/ultimate-android-reference/blob/master/LICENSE)
 
+
 ## Contribution Guide
 
 This project is open to all kinds of contribution in all of its categories. **Together, we can make it the ultimate Android reference available for free, for everyone, forever.**
