@@ -279,8 +279,8 @@ Stitch your photos together vertically or horizontally easily!
 * [Narrate](https://github.com/timothymiko/narrate-android) -Narrate is a beautiful and functional open source journal for Android
 * [Plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design
 * [Robot Scouter](https://github.com/SUPERCILEX/Robot-Scouter/) - 🤖 A scouting app for FIRST Robotics Competition teams
-* [Turbo Editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android
 * [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) - Smart App Lock for Android
+* [Turbo Editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android
 * [WeGit](https://github.com/Leaking/WeGit) - An Android App for Github
 
 
