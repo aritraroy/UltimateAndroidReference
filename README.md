@@ -255,7 +255,7 @@ and Android apps
 
 ## Open-Source Apps
 
-There are lots of open-source apps available in the Android community for developers to learn from, but it becomes very difficult to find the ones which are actually worth your time and can help you learn a lot of things. This list (loosely categorized on the basis of your Androdi skills) can help you find the resource you always wanted.
+There are lots of open-source apps available in the Android community for developers to learn from, but it becomes very difficult to find the ones which are actually worth your time and can help you learn a lot of things. This list (loosely categorized on the basis of your Android skills) can help you find the resource you always wanted.
 
 ### Beginner
 
