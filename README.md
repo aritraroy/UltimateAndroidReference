@@ -529,6 +529,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
 * [RxJava 2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
 * [u2020](https://github.com/JakeWharton/u2020) - A sample Android app which showcases advanced usage of Dagger among other open source libraries
+* [Just-Another-Android-App](https://github.com/athkalia/Just-Another-Android-App) - Sample android MVP project that showcases MVP, dvanced testing techniques and all sorts of other interesting things.
 
 
 ## Video Tutorials
