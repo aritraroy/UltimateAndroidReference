@@ -218,9 +218,10 @@ and Android apps
 
 ### Utilities
 
-* [Android Crop](https://github.com/jdamcd/android-crop) - Android library project for cropping images
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils(updating)
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
+* [Android Crop](https://github.com/jdamcd/android-crop) - Android library project for cropping images
+* [Android In-App Billing V3](https://github.com/anjlab/android-inapp-billing-v3) - A lightweight implementation of Android In-app Billing Version 3
 * [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) - UI form validation library for Android
 * [Android Weak Handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler
 * [Ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences
@@ -245,6 +246,7 @@ and Android apps
 
 * [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
 * [Lightweight Stream API](https://github.com/aNNiMON/Lightweight-Stream-API) - Stream API from Java 8 rewritten on iterators for Java 7 and below
+* [Optional](https://github.com/MrHadiSatrio/Optional) - Java 8 Optional-like APIs for everyone
 * [RetroLambda](https://github.com/evant/gradle-retrolambda) - A Gradle plugin for getting Java lambda support in Java 6, 7 and android
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) – This module adds the minimum classes to RxJava that make writing reactive components in Android applications easy and hassle-free. More specifically, it provides a Scheduler that schedules on the main thread or any given Looper.
 * [RxBinding](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android's UI widgets
