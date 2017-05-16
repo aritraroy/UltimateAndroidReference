@@ -519,6 +519,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
 * [Android Things Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
 * [CW Omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
+* [Effective Android UI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer
 * [Espresso Samples](https://github.com/chiuki/espresso-samples) - A collection of samples demonstrating different Espresso techniques
 * [Firebase Quickstart Android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
 * [Firebucket](https://github.com/remychantenay/Firebucket) - Glimpse into Firebase, with a simple TODO list app built around Dagger, RxJava 2, Clean architecture and of course, Firebase
