@@ -218,6 +218,7 @@ and Android apps
 
 ### Utilities
 
+* [Aesthetic](https://github.com/afollestad/aesthetic) - A fast and easy to use plug-and-play dynamic theme engine. Powered by Rx, for Android apps
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils(updating)
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
 * [Android Crop](https://github.com/jdamcd/android-crop) - Android library project for cropping images
