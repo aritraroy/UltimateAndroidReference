@@ -220,7 +220,7 @@ and Android apps
 ### Utilities
 
 * [Aesthetic](https://github.com/afollestad/aesthetic) - A fast and easy to use plug-and-play dynamic theme engine. Powered by Rx, for Android apps
-* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils(updating)
+* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating)
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
 * [Android Crop](https://github.com/jdamcd/android-crop) - Android library project for cropping images
 * [Android In-App Billing V3](https://github.com/anjlab/android-inapp-billing-v3) - A lightweight implementation of Android In-app Billing Version 3
@@ -561,25 +561,25 @@ If you are somebody who loves to engage with other fellow developers and surroun
 * [Cyril Mottier](https://twitter.com/cyrilmottier) - Mobile Product Devsigner & Android expert. ex-Head of Mobile & Web @captaintrain. #UI #UX #Design
 * [Dan Lew](https://twitter.com/danlew42) - Android @Trello/@Atlassian, gamer and geek. The views expressed in these tweets are yours and your employer's
 * [Donn Felker](https://twitter.com/donnfelker) - Best Selling Mobile Dev Book Author. Android GDE. Android Consultant. Co-Host of the @fragmentedcast. Teaching Android at @caster_io. Remote workforce advocate
-* [DroidSmith](https://twitter.com/devunwired) - I write, speak, and build...mostly with Android+Embedded. IoT @ Google. Recovering spark-chaser
+* [Dave Smith](https://twitter.com/devunwired) - I write, speak, and build...mostly with Android+Embedded. IoT @ Google. Recovering spark-chaser
 * [GenyMotion](https://twitter.com/Genymotion) - The most complete Android emulation platform (desktop, cloud, on-demand) 🚀 • Trusted by 5M+ developers, testers & enthusiasts 🙌 • Made by @Genymobile in France
 * [Huyen Tue Dao](https://twitter.com/queencodemonkey) - Native Android Code Monkey: monkey code, monkey break, monkey debug, monkey iterate. Randomly typing on @Trello for @Atlassian. GDE. ½ of Android Dialogs
 * [Jake Wharton](https://twitter.com/JakeWharton) - Stop stopping
-* [jessewilson](https://twitter.com/jessewilson) - Android and jokes. Sometimes also inclusivity & sustainability
+* [Jesse Wilson](https://twitter.com/jessewilson) - Android and jokes. Sometimes also inclusivity & sustainability
 * [Joe Birch](https://twitter.com/hitherejoe) - Android Engineer @Buffer. Instructor @caster_io & @Pluralsight. Public Speaker, Android Tinkerer
 * [Kaushik Gopal](https://twitter.com/kaushikgopal) - I'm ½ of the @FragmentedCast and a Google Developer Expert. I build Android apps for @Instacart. I watch atleast 1 movie every week and Jon Stewart is my hero
 * [Kristin Marsicano](https://twitter.com/kristinmars) - Android Developer and Instructor @bignerdranch. Co-author of Android Programming: The Big Nerd Ranch Guide. Always learning
 * [Lars Vogel](https://twitter.com/vogella) - Eclipse platform UI and e4 project lead. Android and Eclipse RCP developer. CEO of vogella GmbH, book author, speaker, trainer and proud Dad and husband
 * [Mark Allison](https://twitter.com/MarkIAllison) - GDE for Android. I write code and https://blog.stylingandroid.com . Then I relax by supporting Watford FC. After that I need to drink good whisky
 * [Nick Butcher](https://twitter.com/crafty) - Design + Developer Advocate @Google, I help people to design and build lovely Android apps
-* [Py](https://twitter.com/Piwai) - Android baker @Square
+* [Pierre-Yves Ricau](https://twitter.com/Piwai) - Android baker @Square
 * [Rebecca Franks](https://twitter.com/riggaroo) - Android Engineering Lead at @DVT_Corporate | Google Developer Expert for #Android and #IoT #GDE | Made @bookdash app | I ❤ baking and travelling
 * [Reto Meier](https://twitter.com/retomeier) - Developer Advocate at Google, Android developer, and author of Professional Android Application Development series. Views expressed are mine alone
 * [Romain Guy](https://twitter.com/romainguy) - Android Graphics team manager @Google, Photography
 * [Roman Nurik](https://twitter.com/romannurik) - Designer on @Firebase at @Google · Android/Web Developer
 * [Ryan Harter](https://twitter.com/rharter) - Freelance Android Developer, Google Developer Expert, community leader
 * [Tor Norbye](https://twitter.com/tornorbye) - Tor Norbye is the tech lead for Android Studio at Google
-* [Ty](https://twitter.com/tsmith) - Android at @Uber Dev Platform - Google Developer Expert - @specializedtype investor - @sfaug and @droidconsf organizer - ex @twitter @fabric @evernote @zagat
+* [Ty Smith](https://twitter.com/tsmith) - Android at @Uber Dev Platform - Google Developer Expert - @specializedtype investor - @sfaug and @droidconsf organizer - ex @twitter @fabric @evernote @zagat
 * [Zarah Dominguez](https://twitter.com/zarahjutz) - Having a love/hate affair with the little green 'droid at @domaincomau; Google Developer Expert for Android; a walking contradiction
 
 ## Game Development
