@@ -124,6 +124,7 @@ and Android apps
 
 ### Dependency Injection
 
+* [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with arguments.
 * [Butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods
 * [Dagger](https://github.com/square/Dagger) - A fast dependency injector for Android and Java
 * [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java
