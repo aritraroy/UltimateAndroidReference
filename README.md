@@ -164,6 +164,7 @@ and Android apps
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
 * [Retrofit](https://square.github.io/retrofit) - Retrofit turns your REST API into a Java interface
 * [Volley](https://github.com/google/volley) - Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster
+* [ProtoBuf - A faster serialization library by Google](https://www.youtube.com/watch?v=IwxIIUypnTE) - Developed by Google, ProtoBuff is serialization library which is way faster than Serializable, Parcelable, JSON.
 
 ### Persistence
 
