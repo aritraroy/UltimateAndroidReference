@@ -173,6 +173,7 @@ and Android apps
 * [greenDAO](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases
 * [Paper](https://github.com/pilgr/Paper) - Fast and simple data storage library for Android
 * [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs
+* [Room](https://developer.android.com/topic/libraries/architecture/room.html) - Room provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite
 * [RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
 * [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
 * [SQL Brite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations
