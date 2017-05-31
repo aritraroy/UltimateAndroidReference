@@ -212,7 +212,7 @@ and Android apps
 * [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API
 * [Material Drawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
 * [Material Search View](https://github.com/MiguelCatalan/MaterialSearchView) - Cute library to implement SearchView in a Material Design Approach
-* [Matisse](https://github.com/zhihu/Matisse) - A well-designed local image and video selector for Android 
+* [Matisse](https://github.com/zhihu/Matisse) - A well-designed local image and video selector for Android
 * [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures
 * [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
@@ -597,7 +597,7 @@ If you aspire to develop amazing games for the Android platform, we haven't forg
 * [Unity](https://unity3d.com/unity) - Start creating a world class games using this framework
 
 ### Open-Source Games
-
+* [2048](https://github.com/tpcstld/2048) - A Android Port of the 2048
 * [ColorPhun](https://github.com/prakhar1989/colorphun) - A Simple Color Game in Android
 * [Game of Life](https://github.com/zsoltk/GameOfLife) - An Android implementation of Conway's Game of Life, focusing on clean design and implementation
 * [Memory Game](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids
