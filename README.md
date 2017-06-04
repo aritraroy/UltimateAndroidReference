@@ -177,6 +177,7 @@ and Android apps
 * [RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
 * [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
 * [SQL Brite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations
+* [Requery](https://github.com/requery/requery) - Modern SQL based query & persistence for Java / Kotlin / Android
 
 ### Testing
 
