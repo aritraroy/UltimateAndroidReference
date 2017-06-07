@@ -217,7 +217,7 @@ and Android apps
 * [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
-* [Alerter](https://github.com/Tapadoo/Alerter) - A customisable notification view with aims to overcome the limitations of Toasts and Snackbars, while reducing the complexity of your layouts.
+* [Alerter](https://github.com/Tapadoo/Alerter) - A customisable notification view
 * [VLayout](https://github.com/alibaba/vlayout) - Project vlayout is a powerful LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView
 
 ### Utilities
