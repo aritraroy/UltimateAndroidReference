@@ -147,7 +147,7 @@ and Android apps
 * [Picasso Face Detection Transformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation) - An Android image transformation library providing cropping above Face Detection (Face Centering) for Picasso
 * [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
 * [Pollexor](http://square.github.io/pollexor/) - An Android library, that can download unencrypted and encrypted images, crop, resize, apply filters and convert to another format.
-
+* [Cropiwa](https://github.com/steelkiwi/cropiwa) - The library which is highly configurable for image cropping.
 
 ### Logging
 * [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds
