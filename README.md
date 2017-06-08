@@ -140,6 +140,7 @@ and Android apps
 ### Image Processing
 
 * [Android GPU Image](https://github.com/CyberAgent/android-gpuimage) - Android filters based on OpenGL (idea from GPUImage for iOS)
+* [Cropiwa](https://github.com/steelkiwi/cropiwa) - The library which is highly configurable for image cropping.
 * [Fresco Processors](https://github.com/wasabeef/fresco-processors) - An Android image processor library providing a variety of image transformations for Fresco
 * [Glide Face Detection Transformation](https://github.com/aryarohit07/GlideFaceDetectionTransformation) - An Android image transformation library providing cropping above Face Detection (Face Centering) for Glide
 * [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide
@@ -147,7 +148,6 @@ and Android apps
 * [Picasso Face Detection Transformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation) - An Android image transformation library providing cropping above Face Detection (Face Centering) for Picasso
 * [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
 * [Pollexor](http://square.github.io/pollexor/) - An Android library, that can download unencrypted and encrypted images, crop, resize, apply filters and convert to another format.
-* [Cropiwa](https://github.com/steelkiwi/cropiwa) - The library which is highly configurable for image cropping.
 
 ### Logging
 * [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds
@@ -196,6 +196,7 @@ and Android apps
 ### UI Components
 
 * [AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout) - Library that makes it possible to read, edit and write CSV files
+* [Alerter](https://github.com/Tapadoo/Alerter) - A customisable notification view
 * [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
 * [BlurKit Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS
 * [BottomBar](https://github.com/roughike/BottomBar) - A custom view component that mimics the new Material Design Bottom Navigation pattern
@@ -217,7 +218,6 @@ and Android apps
 * [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
-* [Alerter](https://github.com/Tapadoo/Alerter) - A customisable notification view
 * [VLayout](https://github.com/alibaba/vlayout) - Project vlayout is a powerful LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView
 
 ### Utilities
