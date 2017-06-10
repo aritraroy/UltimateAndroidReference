@@ -242,6 +242,7 @@ and Android apps
 * [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 * [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
 * [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
+* [ProtoBuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
 * [Reprint](https://github.com/ajalt/reprint) - A unified fingerprint library for Android
 * [Secure Preferences](https://github.com/scottyab/secure-preferences) - Android Shared preference wrapper than encrypts the values of Shared Preferences
 * [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap
