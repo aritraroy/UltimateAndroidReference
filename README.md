@@ -140,7 +140,6 @@ and Android apps
 ### Image Processing
 
 * [Android GPU Image](https://github.com/CyberAgent/android-gpuimage) - Android filters based on OpenGL (idea from GPUImage for iOS)
-* [Cropiwa](https://github.com/steelkiwi/cropiwa) - The library which is highly configurable for image cropping.
 * [Fresco Processors](https://github.com/wasabeef/fresco-processors) - An Android image processor library providing a variety of image transformations for Fresco
 * [Glide Face Detection Transformation](https://github.com/aryarohit07/GlideFaceDetectionTransformation) - An Android image transformation library providing cropping above Face Detection (Face Centering) for Glide
 * [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide
@@ -232,6 +231,7 @@ and Android apps
 * [Ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences
 * [ByteBuddy](http://bytebuddy.net) - Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
+* [Cropiwa](https://github.com/steelkiwi/cropiwa) - The library which is highly configurable for image cropping.
 * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
 * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way
 * [Easy Permissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions
