@@ -148,7 +148,6 @@ and Android apps
 * [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
 * [Pollexor](http://square.github.io/pollexor/) - An Android library, that can download unencrypted and encrypted images, crop, resize, apply filters and convert to another format.
 
-
 ### Logging
 * [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds
 * [Logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for Android
@@ -196,6 +195,7 @@ and Android apps
 ### UI Components
 
 * [AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout) - Library that makes it possible to read, edit and write CSV files
+* [Alerter](https://github.com/Tapadoo/Alerter) - A customisable notification view
 * [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
 * [BlurKit Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS
 * [BottomBar](https://github.com/roughike/BottomBar) - A custom view component that mimics the new Material Design Bottom Navigation pattern
@@ -219,7 +219,6 @@ and Android apps
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
 * [VLayout](https://github.com/alibaba/vlayout) - Project vlayout is a powerful LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView
 
-
 ### Utilities
 
 * [Aesthetic](https://github.com/afollestad/aesthetic) - A fast and easy to use plug-and-play dynamic theme engine. Powered by Rx, for Android apps
@@ -232,6 +231,7 @@ and Android apps
 * [Ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences
 * [ByteBuddy](http://bytebuddy.net) - Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
+* [Cropiwa](https://github.com/steelkiwi/cropiwa) - The library which is highly configurable for image cropping.
 * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
 * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way
 * [Easy Permissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions
