@@ -71,6 +71,7 @@ These are some of the best and the most popular libraries and utilities to boost
 
 ### Animations
 
+* [AndroidRippleBackground](https://github.com/skyfishjy/android-ripple-background) - A beautiful ripple animation
 * [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection
 * [Backboard](https://github.com/tumblr/Backboard) - A motion-driven animation framework for Android
 * [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - An easy-to-use animation which can be used for content picking for Android
