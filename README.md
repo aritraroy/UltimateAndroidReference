@@ -288,6 +288,7 @@ Stitch your photos together vertically or horizontally easily!
 * [MovieGuide](https://github.com/esoxjem/MovieGuide) - Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture. Popcorn?
 * [Narrate](https://github.com/timothymiko/narrate-android) -Narrate is a beautiful and functional open source journal for Android
 * [Plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design
+* [Protein](https://github.com/gejiaheng/Protein) - 🏀 An Android App for Dribbble
 * [Robot Scouter](https://github.com/SUPERCILEX/Robot-Scouter/) - 🤖 A scouting app for FIRST Robotics Competition teams
 * [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) - Smart App Lock for Android
 * [Turbo Editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android
