@@ -261,6 +261,7 @@ and Android apps
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) – This module adds the minimum classes to RxJava that make writing reactive components in Android applications easy and hassle-free. More specifically, it provides a Scheduler that schedules on the main thread or any given Looper.
 * [RxBinding](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android's UI widgets
 * [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM
+* [RxJava2Interop](https://github.com/akarnokd/RxJava2Interop) - Library to convert between RxJava 1.x and 2.x reactive types
 
 
 ## Open-Source Apps
