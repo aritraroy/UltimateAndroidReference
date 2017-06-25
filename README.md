@@ -494,6 +494,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Android Hive](http://www.androidhive.info) - Androidhive is independent online publication that covers Android programming tutorials, app reviews and more
 * [Android Niceties](http://androidniceties.tumblr.com) - A collection of screenshots encompassing some of the most beautiful looking Android apps
 * [Android Weekly](http://androidweekly.net) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development
+* [Antonio Leiva's Blog](https://antonioleiva.com/category/blog/) - Amazing blog on Android development, with special focus on Kotlin from Antonio Leiva
 * [Caster.IO](https://caster.io) - Skyrocket your Android career with bite sized Android development video training
 * [Codepath Android Cliffnotes](https://guides.codepath.com/android) - One of the best and most up-to-date crowdsourced resource for Android developers where you will find guides and tutorials about almost everything in Android
 * [Dan Lew Codes](http://blog.danlew.net) - Thoughts on life, the universe and the mystery of it all; but actually mostly just code
