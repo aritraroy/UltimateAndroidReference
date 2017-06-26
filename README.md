@@ -182,7 +182,7 @@ and Android apps
 
 * [AssertJ](https://github.com/joel-costigliola/assertj-core) - AssertJ is a library providing easy to use rich typed assertions
 * [AssertJ Android](https://github.com/square/assertj-android) - A set of AssertJ helpers geared toward testing Android
-* [Calabash](https://github.com/calabash/calabash-android) - Automated Functional testing for Android based on cucumber
+* [Cucumber](https://github.com/autonomousapps/Cappuccino) - A sweeter Espresso. Never write your own IdlingResource again. Never manually turn off system animations again
 * [Composer](https://github.com/gojuno/composer) - Reactive Android Instrumentation Test Runner
 * [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/index.html) - Write easy, simple and human-readable UI tests on Android
 * [Hamcrest](https://github.com/hamcrest/JavaHamcrest) - Java (and original) version of Hamcrest
