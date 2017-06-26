@@ -110,6 +110,7 @@ and Android apps
 * [HockeyApp](https://hockeyapp.net) - Bring Mobile DevOps to your apps with beta distribution, crash reporting, user metrics, feedback, and powerful workflow integrations
 * [InstaBug](https://instabug.com) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting
 * [MixPanel](https://mixpanel.com) - Deeply understand every user's journey with instant insights for everyone on mobile and web
+* [Firebase Crash Reporting](https://firebase.google.com/docs/crash) - Google Firebase Crash Reporting for iOS and Android. It Creates detailed reports of the errors in your app, groups them into issues based on having similar stack traces, and triaged by the severity of impact on your users 
 
 
 ### Debugging
