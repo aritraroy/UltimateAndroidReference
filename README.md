@@ -76,7 +76,6 @@ These are some of the best and the most popular libraries and utilities to boost
 * [Backboard](https://github.com/tumblr/Backboard) - A motion-driven animation framework for Android
 * [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - An easy-to-use animation which can be used for content picking for Android
 * [ExpectAnim](https://github.com/florent37/ExpectAnim) - Describe your animation and run
-* [FabulousFilter](https://github.com/Krupen/FabulousFilter) - Library to easily implement FAB to BottomSheetDialog animation
 * [Grav](https://github.com/glomadrian/Grav) - Configurable animations based on points
 * [Lottie](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
 * [Rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app
@@ -211,6 +210,7 @@ and Android apps
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
 * [Epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView
 * [ExoPlayer](https://github.com/google/ExoPlayer) - An extensible media player for Android
+* [FabulousFilter](https://github.com/Krupen/FabulousFilter) - Library to easily implement FAB to BottomSheetDialog animation
 * [FirebaseUI for Android](https://github.com/firebase/FirebaseUI-Android) - UI Bindings for Firebase
 * [Flexbox Layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android
 * [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) - An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go
