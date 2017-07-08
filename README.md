@@ -76,6 +76,7 @@ These are some of the best and the most popular libraries and utilities to boost
 * [Backboard](https://github.com/tumblr/Backboard) - A motion-driven animation framework for Android
 * [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - An easy-to-use animation which can be used for content picking for Android
 * [ExpectAnim](https://github.com/florent37/ExpectAnim) - Describe your animation and run
+* [FabulousFilter](https://github.com/Krupen/FabulousFilter) - Library to easily implement FAB to BottomSheetDialog animation
 * [Grav](https://github.com/glomadrian/Grav) - Configurable animations based on points
 * [Lottie](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
 * [Rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app
