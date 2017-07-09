@@ -266,6 +266,7 @@ and Android apps
 * [RxBinding](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android's UI widgets
 * [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM
 * [RxJava2Interop](https://github.com/akarnokd/RxJava2Interop) - Library to convert between RxJava 1.x and 2.x reactive types
+* [RxLifecycle](https://github.com/trello/RxLifecycle) - Lifecycle handling APIs for Android apps using RxJava
 * [Traceur](https://github.com/T-Spoon/Traceur) - Easier RxJava2 debugging with better stacktraces
 
 
