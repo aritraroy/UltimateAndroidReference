@@ -494,6 +494,7 @@ Can't get enough of Live Templates? [Here](https://github.com/keyboardsurfer/ide
 
 If you want to keep yourself updated with all the latest Android development news, articles and tutorials then these are some of the best sites in the Internet where the good Androidy-things happen all the time.
 
+* [AndroidPub](https://android.jlelse.eu) - The Pub(lication) for Android & Tech, focused on Development
 * [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
 * [Andorid Design Patterns](http://www.androiddesignpatterns.com) - Android Design Patterns is a website for developers who wish to better understand the Android application framework
 * [AndroidDevDigest](https://www.androiddevdigest.com) - A Handcrafted Weekly #AndroidDev Newsletter
