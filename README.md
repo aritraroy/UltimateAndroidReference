@@ -107,7 +107,7 @@ and Android apps
 * [CleverTap](https://clevertap.com) - A complete tool to track and analyze user activity in your Android app
 * [Countly](https://count.ly) - End-to-end platform for web, mobile applications and game analytics
 * [Fabric Crash Analytics](https://get.fabric.io) - Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business
-* [Firebase Crash Reporting](https://firebase.google.com/docs/crash) - Google Firebase Crash Reporting for iOS and Android. It creates detailed reports of the errors in your app, groups them into issues based on having similar stack traces, and tagged by the severity of impact on your users 
+* [Firebase Crash Reporting](https://firebase.google.com/docs/crash) - Google Firebase Crash Reporting for iOS and Android. It creates detailed reports of the errors in your app, groups them into issues based on having similar stack traces, and tagged by the severity of impact on your users
 * [HockeyApp](https://hockeyapp.net) - Bring Mobile DevOps to your apps with beta distribution, crash reporting, user metrics, feedback, and powerful workflow integrations
 * [InstaBug](https://instabug.com) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting
 * [MixPanel](https://mixpanel.com) - Deeply understand every user's journey with instant insights for everyone on mobile and web
@@ -220,7 +220,8 @@ and Android apps
 * [Material Search View](https://github.com/MiguelCatalan/MaterialSearchView) - Cute library to implement SearchView in a Material Design Approach
 * [Matisse](https://github.com/zhihu/Matisse) - A well-designed local image and video selector for Android
 * [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures
-* [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc
+* [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
+* [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout)- Memory efficient shimmering effect for Android applications by Supercharge. 
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
 * [VLayout](https://github.com/alibaba/vlayout) - Project vlayout is a powerful LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView
@@ -513,7 +514,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Material Up](https://material.uplabs.com) - Get fresh Material Design inspiration daily
 * [Medium's Google Developers Blog](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
 * [Mindork's Blog](https://blog.mindorks.com) - A regularly updated blog talking about various aspects of Android development in detail
-* [Philosophical Hacker](https://www.philosophicalhacker.com) - Some really informative articles on Android development 
+* [Philosophical Hacker](https://www.philosophicalhacker.com) - Some really informative articles on Android development
 * [Reddit's AndroidDev](https://www.reddit.com/r/androiddev) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
 * [Styling Android](https://blog.stylingandroid.com) - Learn perfecting your Android UI and UX development skills
 * [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
