@@ -225,6 +225,7 @@ and Android apps
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
 * [VLayout](https://github.com/alibaba/vlayout) - Project vlayout is a powerful LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView
+* [wATL](https://github.com/suwhs/wATLlib) - TextView replacement with full text justification, auto-hyphenation, and paginagtion support
 
 ### Utilities
 
