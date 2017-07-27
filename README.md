@@ -210,6 +210,7 @@ and Android apps
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
 * [Epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView
 * [ExoPlayer](https://github.com/google/ExoPlayer) - An extensible media player for Android
+* [ExoPlayer+PlaybackSpeed](https://github.com/suwhs/ExoPlayer) - Same ExoPlayer, but with setPlaybackSpeed method
 * [FabulousFilter](https://github.com/Krupen/FabulousFilter) - Library to easily implement FAB to BottomSheetDialog animation
 * [FirebaseUI for Android](https://github.com/firebase/FirebaseUI-Android) - UI Bindings for Firebase
 * [Flexbox Layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android
@@ -225,6 +226,7 @@ and Android apps
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
 * [VLayout](https://github.com/alibaba/vlayout) - Project vlayout is a powerful LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView
+* [wATL](https://github.com/suwhs/wATLlib) - TextView replacement with full text justification, auto-hyphenation, and paginagtion support
 
 ### Utilities
 
