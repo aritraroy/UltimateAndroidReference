@@ -639,7 +639,7 @@ Android & Backend Developer. Blogger. Designer. Fitness Enthusiast.
 
 <a href="https://play.google.com/store/apps/details?id=com.codexapps.andrognito&hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true" width="60"></a> <a href="https://blog.aritraroy.in/"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a>
 <a href="https://stackoverflow.com/users/2858654/aritra-roy"><img src="https://github.com/aritraroy/social-icons/blob/master/stackoverflow-icon.png?raw=true" width="60"></a>
-<a href="https://twitter.com/aritraroy93"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://twitter.com/aritraroy"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 
 ## License
 
