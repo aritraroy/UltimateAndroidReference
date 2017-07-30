@@ -201,6 +201,7 @@ and Android apps
 * [AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout) - Library that makes it possible to read, edit and write CSV files
 * [Alerter](https://github.com/Tapadoo/Alerter) - A customisable notification view
 * [Android SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations
+* [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment) - Library project to display DialogFragment with a blur effect
 * [BlurKit Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS
 * [BottomBar](https://github.com/roughike/BottomBar) - A custom view component that mimics the new Material Design Bottom Navigation pattern
 * [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
