@@ -539,6 +539,7 @@ Not too fond of reading books or blogs? You should definately try listening to s
 
 * [Android Developers Backstage](http://androidbackstage.blogspot.ch/) - Podcast made by Google, featuring Chet Haase and Tor Norbye
 * [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
+* [The Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast) - Podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests
 
 
 ## Sample Projects
