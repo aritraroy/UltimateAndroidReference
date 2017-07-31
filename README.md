@@ -58,6 +58,7 @@ If you feel that a particular resource(s) listed here is not a good fit for this
 * [Android Studio Live Templates](#android-studio-live-templates)
 * [Sites](#sites)
 * [Books](#books)
+* [Podcasts](#podcasts)
 * [Sample Projects](#sample-projects)
 * [Video Tutorials](#video-tutorials)
 * [Twitter Profiles](#twitter-profiles)
@@ -501,7 +502,6 @@ If you want to keep yourself updated with all the latest Android development new
 * [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
 * [Andorid Design Patterns](http://www.androiddesignpatterns.com) - Android Design Patterns is a website for developers who wish to better understand the Android application framework
 * [AndroidDevDigest](https://www.androiddevdigest.com) - A Handcrafted Weekly #AndroidDev Newsletter
-* [Android Developers Backstage](http://androidbackstage.blogspot.ch/) - Podcast made by Google, featuring Chet Haase and Tor Norbye
 * [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
 * [Android Hive](http://www.androidhive.info) - Androidhive is independent online publication that covers Android programming tutorials, app reviews and more
 * [Android Niceties](http://androidniceties.tumblr.com) - A collection of screenshots encompassing some of the most beautiful looking Android apps
@@ -510,7 +510,6 @@ If you want to keep yourself updated with all the latest Android development new
 * [Caster.IO](https://caster.io) - Skyrocket your Android career with bite sized Android development video training
 * [Codepath Android Cliffnotes](https://guides.codepath.com/android) - One of the best and most up-to-date crowdsourced resource for Android developers where you will find guides and tutorials about almost everything in Android
 * [Dan Lew Codes](http://blog.danlew.net) - Thoughts on life, the universe and the mystery of it all; but actually mostly just code
-* [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
 * [Grokking Android](https://www.grokkingandroid.com) - Getting Down to the Nitty Gritty of Android Development
 * [Material Up](https://material.uplabs.com) - Get fresh Material Design inspiration daily
 * [Medium's Google Developers Blog](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
@@ -533,6 +532,14 @@ If you want to keep yourself updated with all the latest Android development new
 * [Java: The Complete Reference](https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/9339212096) - by Herbert Schildt
 * [The Busy Coder's Guide to Advanced Android Development](https://commonsware.com/Android) - by Mark Murphy
 * [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) - by Michael Feathers
+
+# Podcasts
+
+Not too fond of reading books or blogs? You should definately try listening to some of these podcasts in your free time, while driving, cooking or doing the dishes.
+
+* [Android Developers Backstage](http://androidbackstage.blogspot.ch/) - Podcast made by Google, featuring Chet Haase and Tor Norbye
+* [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
+
 
 ## Sample Projects
 
