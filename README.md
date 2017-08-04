@@ -80,6 +80,7 @@ These are some of the best and the most popular libraries and utilities to boost
 * [Grav](https://github.com/glomadrian/Grav) - Configurable animations based on points
 * [Lottie](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS
 * [Rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app
+* [RichPath](https://github.com/tarek360/RichPath) - 💪 Rich Android Path. 🤡 Draw as you want. 🎉 Animate much as you can
 * [Spruce](https://github.com/willowtreeapps/spruce-android) - Spruce Animation Library
 * [ViewAnimator](https://github.com/florent37/ViewAnimator) - A fluent Android animation library
 
