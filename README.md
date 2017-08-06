@@ -338,6 +338,7 @@ Stitch your photos together vertically or horizontally easily!
 * [ADB IDEA](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day Android development
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio) - A collection of tools to easily generate assets such as launcher icons for your Android app
 * [Android Tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
+* [Android Translator](https://github.com/BoondoggleLabs/Android-Translator) - A web-based tool to quickly and easily create translations for your Android app
 * [Android Wifi ADB](https://github.com/pedrovgs/AndroidWiFiADB) - IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected
 * [APK DeGuard](http://apk-deguard.com) - DeGuard reverses the process of obfuscation performed by Android obfuscation tools. This enables numerous security analyses, including code inspection and predicting libraries
 * [APK Patch Size Estimator](https://github.com/googlesamples/apk-patch-size-estimator) - Estimates the size of Google Play patches and the new gzipped APK
