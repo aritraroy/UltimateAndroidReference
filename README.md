@@ -227,6 +227,7 @@ and Android apps
 * [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications by Supercharge 
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
+* [VectorMaster](https://github.com/harjot-oberai/VectorMaster) - Dynamic control over vector drawables
 * [VLayout](https://github.com/alibaba/vlayout) - Project vlayout is a powerful LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView
 
 ### Utilities
