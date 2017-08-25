@@ -37,6 +37,7 @@ If you feel that a particular resource(s) listed here is not a good fit for this
     * [Crash Reporting & Tracking](#crash-reporting--tracking)
     * [Debugging](#debugging)
     * [Dependency Injection](#dependency-injection)
+    * [Functional Programming](#functional-programming)
     * [Image Loading](#image-loading)
     * [Image Processing](#image-processing)
     * [Logging](#logging)
@@ -132,6 +133,10 @@ and Android apps
 * [Dagger](https://github.com/square/Dagger) - A fast dependency injector for Android and Java
 * [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java
 * [Dart](https://github.com/f2prateek/dart) - Extras "injection" library for Android
+
+### Functional Programming
+* [Flow](https://github.com/00ec454/Flow) - Java8 Stream like API for android
+
 
 ### Image Loading
 
