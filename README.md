@@ -172,7 +172,7 @@ and Android apps
 
 * [ActiveAndroid](https://github.com/pardom/ActiveAndroid) - Active record style SQLite persistence for Android
 * [Android dynamic Sqlite database management v.2](https://www.codeproject.com/Articles/829272/Android-dynamic-Sqlite-database-management-v) - Dynamic management and implementation of SQLite database on android platform by using reflection of the Java classes
-*[DatabaseManager_For_Android](https://github.com/sanathp/DatabaseManager_For_Android#databasemanager_for_android) - DatabaseManager_For_Android library enables you to manage the database of an android app from the app itself.
+* [DatabaseManager_For_Android](https://github.com/sanathp/DatabaseManager_For_Android#databasemanager_for_android) - DatabaseManager_For_Android library enables you to manage the database of an android app from the app itself.
 * [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM Android database library that writes database code for you
 * [Firebase Realtime Database](https://firebase.google.com/docs/database) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
 * [greenDAO](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases
