@@ -339,7 +339,7 @@ Stitch your photos together vertically or horizontally easily!
 
 * [ADB IDEA](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day Android development
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio) - A collection of tools to easily generate assets such as launcher icons for your Android app
-* [Android Starters](https://github.com/androidstarters/android-starter) - Android starter based on MVP/Dagger2/RxJava2/Robolectric/Espresso/Mockito. It provides a generator to fast create a Android template project
+* [Android Starters](http://androidstarters.com) - Android starter based on MVP/Dagger2/RxJava2/Robolectric/Espresso/Mockito. It provides a generator to fast create a Android template project
 * [Android Tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
 * [Android Translator](https://github.com/BoondoggleLabs/Android-Translator) - A web-based tool to quickly and easily create translations for your Android app
 * [Android Wifi ADB](https://github.com/pedrovgs/AndroidWiFiADB) - IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected
