@@ -262,6 +262,7 @@ and Android apps
 
 ### Utilities (Advanced)
 
+* [Flow](https://github.com/00ec454/Flow) - Java8 Stream like API for android
 * [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [Lightweight Stream API](https://github.com/aNNiMON/Lightweight-Stream-API) - Stream API from Java 8 rewritten on iterators for Java 7 and below
