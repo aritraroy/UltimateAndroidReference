@@ -37,7 +37,6 @@ If you feel that a particular resource(s) listed here is not a good fit for this
     * [Crash Reporting & Tracking](#crash-reporting--tracking)
     * [Debugging](#debugging)
     * [Dependency Injection](#dependency-injection)
-    * [Functional Programming](#functional-programming)
     * [Image Loading](#image-loading)
     * [Image Processing](#image-processing)
     * [Logging](#logging)
