@@ -250,6 +250,7 @@ and Android apps
 * [Gson](https://github.com/google/gson) -  A Java serialization/deserialization library to convert Java Objects into JSON and back
 * [Guava](https://github.com/google/guava) - Google Core Libraries for Java
 * [IcePick](https://github.com/frankiesardo/icepick) - Android Instance State made easy
+* [JSoup](https://github.com/jhy/jsoup/) - Java HTML Parser, with best of DOM, CSS, and jquery
 * [LibPhoneNumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 * [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 * [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
