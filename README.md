@@ -223,8 +223,10 @@ and Android apps
 * [Material Search View](https://github.com/MiguelCatalan/MaterialSearchView) - Cute library to implement SearchView in a Material Design Approach
 * [Matisse](https://github.com/zhihu/Matisse) - A well-designed local image and video selector for Android
 * [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures
+* [Remixer](https://github.com/material-foundation/material-remixer-android) -
+Remixer is a framework to iterate quickly on UI changes by allowing you to adjust UI variables without needing to rebuild (or even restart) your app. You can adjust Numbers, Colors, Booleans, and Strings.
 * [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
-* [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications by Supercharge 
+* [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications by Supercharge
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
 * [VectorMaster](https://github.com/harjot-oberai/VectorMaster) - Dynamic control over vector drawables
@@ -529,7 +531,7 @@ If you want to keep yourself updated with all the latest Android development new
 
 *"Books are gifts that you can open again and again"* - here is a curated list of some of the best books that can help you sharpen your Android, Java and overall programming skills. Pick one of them and just start reading.
 
-
+* [Android Development with Kotlin](https://www.packtpub.com/application-development/android-development-kotlin)- by Marcin Moskala, Igor Wojda 
 * [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming) - by Bill Phillips, Chris Stewart, and Kristin Marsicano
 * [Asynchronous Android](https://www.amazon.in/Asynchronous-Android-Steve-Liles/dp/1783286873) - by Steve Liles
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - by Robert C. Martin
