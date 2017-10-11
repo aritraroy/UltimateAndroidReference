@@ -416,6 +416,7 @@ Kotlin, the new statically-typed programming language from JetBrains aims to mak
 * [KotlinPoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
 * [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made easy using Kotlin
 * [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
+* [Spek](https://github.com/spekframework/spek) - A specification framework for Kotlin
 
 
 ## Android Studio Shortcuts
