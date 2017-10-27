@@ -153,6 +153,7 @@ and Android apps
 * [Pollexor](http://square.github.io/pollexor/) - An Android library, that can download unencrypted and encrypted images, crop, resize, apply filters and convert to another format.
 
 ### Logging
+
 * [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds
 * [Logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for Android
 * [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data
@@ -276,6 +277,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM
 * [RxJava2Interop](https://github.com/akarnokd/RxJava2Interop) - Library to convert between RxJava 1.x and 2.x reactive types
 * [RxLifecycle](https://github.com/trello/RxLifecycle) - Lifecycle handling APIs for Android apps using RxJava
+* [RxLint](https://bitbucket.org/littlerobots/rxlint) - rxlint is a set of lint checks that check your RxJava code. There are currently three checks
 * [RxRelay](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and a Consumer
 * [Traceur](https://github.com/T-Spoon/Traceur) - Easier RxJava2 debugging with better stacktraces
 
