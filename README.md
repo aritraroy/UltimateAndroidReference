@@ -411,6 +411,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Mindork's Blog](https://blog.mindorks.com/) - A regularly updated blog talking about various aspects of Android development in detail
 * [Reddit's AndroidDev](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
 * [Styling Android](https://blog.stylingandroid.com/) - Learn perfecting your Android UI and UX development skills
+* [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more
 * [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
 
 
