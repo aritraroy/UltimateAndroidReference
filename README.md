@@ -399,6 +399,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
 * [Android Hive](http://www.androidhive.info/) - Androidhive is independent online publication that covers android programming tutorials, app reviews and more
 * [Android Niceties](http://androidniceties.tumblr.com/) - A collection of screenshots encompassing some of the most beautiful looking Android apps
+* [AndroidPub](https://android.jlelse.eu/) - The Pub(lication) for Android & Tech, focused on Development
 * [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development
 * [Caster.IO](https://caster.io/) - Skyrocket your Android career with bite sized Android development video training
 * [Codepath Android Cliffnotes](https://guides.codepath.com/android) - One of the best and most up-to-date crowdsourced resource for Android developers where you will find guides and tutorials about almost everything in Android
