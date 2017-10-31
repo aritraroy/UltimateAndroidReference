@@ -307,6 +307,7 @@ Narrate is a beautiful and functional open source journal for Android
 * [Methods Count](http://www.methodscount.com/) - Your solution for a perfectly fit APK
 * [Mocky.IO](http://www.mocky.io/) - Mock your HTTP responses to test your REST API
 * [Pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package
+* [ProgrammableWeb API Directory](https://www.programmableweb.com/category/all/apis) - A directory for APIs for (almost) all purposes
 * [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Server for Android Instrumentation tests
 * [Scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
