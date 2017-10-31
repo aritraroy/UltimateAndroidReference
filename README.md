@@ -404,6 +404,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Codepath Android Cliffnotes](https://guides.codepath.com/android) - One of the best and most up-to-date crowdsourced resource for Android developers where you will find guides and tutorials about almost everything in Android
 * [Dan Lew Codes](http://blog.danlew.net/) - Thoughts on life, the universe and the mystery of it all; but actually mostly just code
 * [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
+* [Future Studio](https://futurestud.io/) - Build up your knowledge in modern Android and Node.js backend development.
 * [Grokking Android](http://www.grokkingandroid.com/) - Getting Down to the Nitty Gritty of Android Development
 * [Material Up](http://materialup.com/) - Get fresh Material Design inspiration daily
 * [Medium's Google Developers Blog](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
@@ -411,6 +412,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Reddit's AndroidDev](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
 * [Styling Android](https://blog.stylingandroid.com/) - Learn perfecting your Android UI and UX development skills
 * [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
+
 
 ## Books
 
