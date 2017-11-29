@@ -19,7 +19,7 @@ Happy learning. :+1:
 
 ## Supported with :heart: by
 
-[![Instabug](https://user-images.githubusercontent.com/9888943/33328761-84021b2e-d463-11e7-87bc-5b876ca94e69.gif)](https://try.instabug.com/beta-testing)
+[![Instabug](https://user-images.githubusercontent.com/9888943/33328761-84021b2e-d463-11e7-87bc-5b876ca94e69.gif)](https://try.instabug.com/android)
 
 ## Contribution Guide
 
