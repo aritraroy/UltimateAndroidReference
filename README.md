@@ -17,7 +17,7 @@ Happy learning. :+1:
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/aritraroy/ultimate-android-reference/blob/master/LICENSE)
 
 
-## Supported with :heart: by
+## Supported with :heart: by Instabug
 
 [![Instabug](https://user-images.githubusercontent.com/9888943/33328761-84021b2e-d463-11e7-87bc-5b876ca94e69.gif)](https://try.instabug.com/android)
 
