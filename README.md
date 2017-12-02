@@ -16,6 +16,10 @@ Happy learning. :+1:
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/aritraroy/ultimate-android-reference/blob/master/LICENSE)
 
+## Supported With :heart: By [Instabug](https://try.instabug.com/android?utm_source=androidref&utm_medium=spon&utm_content=header)
+
+[![Instabug](https://user-images.githubusercontent.com/9888943/33424996-24edb968-d5c6-11e7-96bd-5d90832316a9.gif)](https://try.instabug.com/android?utm_source=androidref&utm_medium=spon&utm_content=banner)
+
 
 ## Contribution Guide
 
