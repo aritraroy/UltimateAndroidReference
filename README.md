@@ -170,6 +170,7 @@ and Android apps
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
+* [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader) - A file downloader library for Android with pause and resume support
 * [Retrofit](https://square.github.io/retrofit) - Retrofit turns your REST API into a Java interface
 * [Volley](https://github.com/google/volley) - Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster
 
