@@ -307,7 +307,6 @@ Narrate is a beautiful and functional open source journal for Android
 * [Methods Count](http://www.methodscount.com/) - Your solution for a perfectly fit APK
 * [Mocky.IO](http://www.mocky.io/) - Mock your HTTP responses to test your REST API
 * [Pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package
-* [ProgrammableWeb API Directory](https://www.programmableweb.com/category/all/apis) - A directory for APIs for (almost) all purposes
 * [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Server for Android Instrumentation tests
 * [Scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
@@ -405,7 +404,6 @@ If you want to keep yourself updated with all the latest Android development new
 * [Codepath Android Cliffnotes](https://guides.codepath.com/android) - One of the best and most up-to-date crowdsourced resource for Android developers where you will find guides and tutorials about almost everything in Android
 * [Dan Lew Codes](http://blog.danlew.net/) - Thoughts on life, the universe and the mystery of it all; but actually mostly just code
 * [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
-* [Future Studio](https://futurestud.io/) - Build up your knowledge in modern Android and Node.js backend development.
 * [Grokking Android](http://www.grokkingandroid.com/) - Getting Down to the Nitty Gritty of Android Development
 * [Material Up](http://materialup.com/) - Get fresh Material Design inspiration daily
 * [Medium's Google Developers Blog](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
