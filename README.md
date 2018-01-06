@@ -522,6 +522,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
 * [Android Hive](http://www.androidhive.info) - Androidhive is independent online publication that covers Android programming tutorials, app reviews and more
 * [Android Niceties](http://androidniceties.tumblr.com) - A collection of screenshots encompassing some of the most beautiful looking Android apps
+* [AndroidPub](https://android.jlelse.eu/) - The Pub(lication) for Android & Tech, focused on Development
 * [Android Weekly](http://androidweekly.net) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development
 * [Antonio Leiva's Blog](https://antonioleiva.com/category/blog/) - Amazing blog on Android development, with special focus on Kotlin from Antonio Leiva
 * [Caster.IO](https://caster.io) - Skyrocket your Android career with bite sized Android development video training
@@ -534,6 +535,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Philosophical Hacker](https://www.philosophicalhacker.com) - Some really informative articles on Android development
 * [Reddit's AndroidDev](https://www.reddit.com/r/androiddev) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
 * [Styling Android](https://blog.stylingandroid.com) - Learn perfecting your Android UI and UX development skills
+* [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more
 * [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
 
 ## Books
