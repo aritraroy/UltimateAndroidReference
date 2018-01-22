@@ -234,6 +234,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [Subsampling Scale ImageView](https://github.com/davemorrissey/subsampling-scale-image-view) - Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
 * [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications by Supercharge
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
+- [ShowCaseView](https://github.com/mreram/ShowCaseView) - The ShowcaseView library is designed to highlight and showcase specific parts of apps to the user with a attractive and flat overlay.
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
 * [VectorMaster](https://github.com/harjot-oberai/VectorMaster) - Dynamic control over vector drawables
 * [VLayout](https://github.com/alibaba/vlayout) - Project vlayout is a powerful LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView
