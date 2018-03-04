@@ -270,6 +270,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [Secure Preferences](https://github.com/scottyab/secure-preferences) - Android Shared preference wrapper than encrypts the values of Shared Preferences
 * [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap
 * [uCrop](https://github.com/Yalantis/uCrop) - Image Cropping Library for Android
+* [uCrop'n'Edit](https://github.com/krokyze/uCrop-n-Edit) - Image Cropping + Editing Library for Android
 
 ### Utilities (Advanced)
 
