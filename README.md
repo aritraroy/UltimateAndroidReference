@@ -384,6 +384,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Material Palette](https://www.materialpalette.com) - Generate Material Design color palettes quickly and easily
 * [Methods Count](http://www.methodscount.com) - Your solution for a perfectly fit APK
 * [Mocky.IO](http://www.mocky.io) - Mock your HTTP responses to test your REST API
+* [Name That Color](https://github.com/galex/name-that-color-intellij-plugin) - This plugin lets you insert a name for a color you copy-paste or type in an android resource file
 * [OkBuck](https://github.com/uber/okbuck) - OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project
 * [Pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package
 * [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Server for Android Instrumentation tests
@@ -571,6 +572,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground) - An Android app for experimenting with Adaptive Icons
 * [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps
 * [Android Boilerplate](https://github.com/ribot/android-boilerplate) - Android boilerplate app that showcases architecture and libraries used at ribot
+* [Android Clean Architecture Boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - An android boilerplate project using clean architecture from Buffer
 * [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Collected code examples from the O'Reilly Android Cookbook
 * [Android Instant Apps](https://github.com/googlesamples/android-instant-apps) - Samples for Android Instant Apps
 * [Android MVP Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
