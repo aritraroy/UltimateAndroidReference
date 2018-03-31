@@ -389,6 +389,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package
 * [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Server for Android Instrumentation tests
 * [Scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app
+* [Scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 * [Shape Shifter](https://shapeshifter.design) - Useful tool for creating simple path morphing AnimatedVectorDrawables
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint) - SonarLint is an IntelliJ IDEA plugin that provides on-the-fly feedback to developers on new bugs and quality issues injected into Java
