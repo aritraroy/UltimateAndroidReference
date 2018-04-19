@@ -274,6 +274,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 
 ### Utilities (Advanced)
 
+* [AutoDispose](https://github.com/uber/AutoDispose) - Automatic binding+disposal of RxJava 2 streams
 * [Android KTX](https://github.com/android/android-ktx) - A set of Kotlin extensions for Android app development
 * [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
