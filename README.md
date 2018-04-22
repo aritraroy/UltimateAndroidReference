@@ -345,6 +345,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Talon for Twitter](https://github.com/klinker24/Talon-for-Twitter) - 100% open source version of my popular Talon for Twitter app on Android
 * [Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 * [Timber](https://github.com/naman14/Timber) - Material Design Music Player
+* [Restaurant App](https://github.com/yusufcakal/RestaurantApp) - Restaurant Application with QR Code Reader on desk.
 
 
 ## Tools
