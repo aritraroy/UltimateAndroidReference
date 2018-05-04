@@ -166,7 +166,6 @@ and Android apps
 * [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data
 * [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class
 
-
 ### Networking
 
 * [Bridge](https://github.com/afollestad/bridge) - A simple but powerful HTTP networking library for Java. It features a Fluent chainable API, powered by Java URLConnection classes for maximum compatibility and speed
@@ -232,6 +231,7 @@ and Android apps
 * [Material Drawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
 * [Material Search View](https://github.com/MiguelCatalan/MaterialSearchView) - Cute library to implement SearchView in a Material Design Approach
 * [Matisse](https://github.com/zhihu/Matisse) - A well-designed local image and video selector for Android
+* [Paris](https://github.com/airbnb/paris) - Define and apply styles to Android views programmatically
 * [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures
 * [Remixer](https://github.com/material-foundation/material-remixer-android) -
 Remixer is a framework to iterate quickly on UI changes by allowing you to adjust UI variables without needing to rebuild (or even restart) your app. You can adjust Numbers, Colors, Booleans, and Strings.
