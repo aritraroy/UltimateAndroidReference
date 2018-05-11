@@ -195,6 +195,7 @@ and Android apps
 * [AssertJ Android](https://github.com/square/assertj-android) - A set of AssertJ helpers geared toward testing Android
 * [Cucumber](https://github.com/autonomousapps/Cappuccino) - A sweeter Espresso. Never write your own IdlingResource again. Never manually turn off system animations again
 * [Composer](https://github.com/gojuno/composer) - Reactive Android Instrumentation Test Runner
+* [DaggerMock](https://github.com/fabioCollini/DaggerMock) - A JUnit rule to easily override Dagger 2 objects
 * [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/index.html) - Write easy, simple and human-readable UI tests on Android
 * [Hamcrest](https://github.com/hamcrest/JavaHamcrest) - Java (and original) version of Hamcrest
 * [JaCoCo](https://github.com/jacoco/jacoco) - JaCoCo - Java Code Coverage Library
