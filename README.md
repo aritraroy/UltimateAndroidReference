@@ -594,6 +594,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 * [Just Another Android App](https://github.com/athkalia/Just-Another-Android-App) - An Android base app with loads of cool libraries/configuration
 * [Material Animations](https://github.com/lgvalle/Material-Animations) - Android Transition animations explanation with examples
+* [N26AndroidSamples](https://github.com/n26/N26AndroidSamples) - A public repo to demo the Reactive Clean Architecture
 * [Quality Matters](https://github.com/artem-zinnatullin/qualitymatters) - Android Development Culture
 * [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
 * [RxJava 2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
