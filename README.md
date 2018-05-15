@@ -75,6 +75,7 @@ These are some of the best and the most popular libraries and utilities to boost
 * [Rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app
 * [Spruce](https://github.com/willowtreeapps/spruce-android) - Spruce Animation Library
 * [ViewAnimator](https://github.com/florent37/ViewAnimator) - A fluent Android animation library
+* [AndroidSmartAnimation](https://github.com/ratty3697/android-smart-animation-library) - Extended library over AndroidViewAnimations for better hold over animations. 
 
 
 ### Background Processing
