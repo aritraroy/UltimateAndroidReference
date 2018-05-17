@@ -586,6 +586,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
 * [Android Things Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
+* [Clean Architecture Manifest](https://github.com/ImangazalievM/CleanArchitectureManifest) - Description of the main principles and rules for building an Android application using Clean Architecture approach
 * [CW Omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
 * [Effective Android UI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer
 * [Espresso Samples](https://github.com/chiuki/espresso-samples) - A collection of samples demonstrating different Espresso techniques
