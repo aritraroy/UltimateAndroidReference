@@ -89,6 +89,7 @@ These are some of the best and the most popular libraries and utilities to boost
 * [RichPath](https://github.com/tarek360/RichPath) - 💪 Rich Android Path. 🤡 Draw as you want. 🎉 Animate much as you can
 * [Spruce](https://github.com/willowtreeapps/spruce-android) - Spruce Animation Library
 * [ViewAnimator](https://github.com/florent37/ViewAnimator) - A fluent Android animation library
+* [AndroidSmartAnimation](https://github.com/ratty3697/android-smart-animation-library) - Extended library over AndroidViewAnimations for better hold over animations. 
 
 
 ### Background Processing
