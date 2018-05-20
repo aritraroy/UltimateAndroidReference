@@ -228,6 +228,7 @@ and Android apps
 * [Flexbox Layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android
 * [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) - An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go
 * [Litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android
+* [Material Design Toast](https://github.com/valdesekamdem/MaterialDesign-Toast) simple and light Open Source Android library which, proposes Toasts (popup) with Material Design render.
 * [Material Dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API
 * [Material Drawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project
 * [Material Search View](https://github.com/MiguelCatalan/MaterialSearchView) - Cute library to implement SearchView in a Material Design Approach
