@@ -366,6 +366,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Battery Historian](https://github.com/google/battery-historian) - Battery Historian is a tool to analyze battery consumers using Android "bugreport" files
 * [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages
 * [Butterknife Zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML
+* [Carbon](https://github.com/dawnlabs/carbon) - Create and share beautiful images of your source code
 * [CheckStyle IDEA](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea) - This plugin provides both real-time and on-demand scanning of Java files with CheckStyle from within IDEA
 * [ClassyShark](https://github.com/google/android-classyshark) - Android executables browser
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting
