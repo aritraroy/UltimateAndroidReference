@@ -584,6 +584,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [Android Instant Apps](https://github.com/googlesamples/android-instant-apps) - Samples for Android Instant Apps
 * [Android MVP Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
 * [Android MVVM Architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2, Room, RxJava2, FastAndroidNetworking and PlaceholderView
+* [Android Sunflower](https://github.com/googlesamples/android-sunflower) - A gardening app illustrating Android development best practices with Android Jetpack
 * [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
 * [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
 * [Android Things Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
