@@ -345,6 +345,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Signal](https://github.com/WhisperSystems/Signal-Android) - A private messenger for Android
 * [SuperCleanMaster](https://github.com/joyoyao/superCleanMaster) - CleanMaster like open-source app
 * [Talon for Twitter](https://github.com/klinker24/Talon-for-Twitter) - 100% open source version of my popular Talon for Twitter app on Android
+* [Talon for Twitter (Material Design)](https://github.com/klinker24/talon-for-twitter-android) - The Material Design version of my popular Android Talon for Twitter app, 100% open-source 
 * [Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 * [Timber](https://github.com/naman14/Timber) - Material Design Music Player
 
