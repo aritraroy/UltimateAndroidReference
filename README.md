@@ -311,6 +311,7 @@ Stitch your photos together vertically or horizontally easily!
 
 ### Intermediate
 
+* [ChangeDetection](https://github.com/bernaferrari/ChangeDetection) - Automatically track websites changes on Android in background
 * [ClipStack](https://github.com/heruoxin/Clip-Stack) - A tiny clipboard history manager app
 * [EverMemo](https://github.com/daimajia/EverMemo) - Fast Record,Organize,and Share. The Android memo app you will deeply love
 * [FastHub](https://github.com/k0shk0sh/FastHub) - GitHub client for Android
