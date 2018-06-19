@@ -253,6 +253,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) - UI form validation library for Android
 * [Android Weak Handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler
 * [Ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences
+* [BillingX](https://github.com/pixiteapps/billingx) - Extension to the Billing Support library to support debug builds
 * [ByteBuddy](http://bytebuddy.net) - Byte Buddy is a code generation and manipulation library for creating and modifying Java classes during the runtime of a Java application
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way
 * [Cropiwa](https://github.com/steelkiwi/cropiwa) - The library which is highly configurable for image cropping.
