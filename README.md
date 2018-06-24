@@ -267,7 +267,8 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [IcePick](https://github.com/frankiesardo/icepick) - Android Instance State made easy
 * [JSoup](https://github.com/jhy/jsoup/) - Java HTML Parser, with best of DOM, CSS, and jquery
 * [LibPhoneNumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
-* [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
+* [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java
+* [Nanoscope](https://github.com/uber/nanoscope) - An extremely accurate Android method tracing tool
 * [Parceler](https://github.com/johncarl81/parceler) - Android Parcelables made easy through code generation
 * [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions
 * [ProtoBuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
