@@ -403,6 +403,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 * [Shape Shifter](https://shapeshifter.design) - Useful tool for creating simple path morphing AnimatedVectorDrawables
 * [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter) - A nifty tool to turn your boring pieces of code into beautifully highlighted code snippets
+* [Sonar](https://github.com/facebook/Sonar) - A desktop debugging platform for mobile developers
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint) - SonarLint is an IntelliJ IDEA plugin that provides on-the-fly feedback to developers on new bugs and quality issues injected into Java
 * [SourceTree](https://www.sourcetreeapp.com) - Harness the power of Git and Hg in a beautifully simple application
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - Provides actions for text manipulation such as toggle, capitalize, encode/decode, etc
