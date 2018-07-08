@@ -183,6 +183,7 @@ and Android apps
 * [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM Android database library that writes database code for you
 * [Firebase Realtime Database](https://firebase.google.com/docs/database) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
 * [greenDAO](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases
+* [ObjectBox](https://github.com/objectbox/objectbox-java) -  superfast object-oriented database with strong relation support. ObjectBox is embedded into your Android, Linux, macOS, or Windows app
 * [Paper](https://github.com/pilgr/Paper) - Fast and simple data storage library for Android
 * [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs
 * [Room](https://developer.android.com/topic/libraries/architecture/room.html) - Room provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite
