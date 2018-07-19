@@ -184,6 +184,7 @@ and Android apps
 * [DBFLow](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM Android database library that writes database code for you
 * [Firebase Realtime Database](https://firebase.google.com/docs/database) - Store and sync data with our NoSQL cloud database. Data is synced across all clients in realtime, and remains available when your app goes offline
 * [greenDAO](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases
+* [ObjectBox](https://github.com/objectbox/objectbox-java) -  superfast object-oriented database with strong relation support. ObjectBox is embedded into your Android, Linux, macOS, or Windows app
 * [Paper](https://github.com/pilgr/Paper) - Fast and simple data storage library for Android
 * [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs
 * [Room](https://developer.android.com/topic/libraries/architecture/room.html) - Room provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite
@@ -539,7 +540,6 @@ If you want to keep yourself updated with all the latest Android development new
 * [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
 * [Android Hive](http://www.androidhive.info) - Androidhive is independent online publication that covers Android programming tutorials, app reviews and more
 * [Android Niceties](http://androidniceties.tumblr.com) - A collection of screenshots encompassing some of the most beautiful looking Android apps
-* [AndroidPub](https://android.jlelse.eu/) - The Pub(lication) for Android & Tech, focused on Development
 * [Android Weekly](http://androidweekly.net) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development
 * [Antonio Leiva's Blog](https://antonioleiva.com/category/blog/) - Amazing blog on Android development, with special focus on Kotlin from Antonio Leiva
 * [Caster.IO](https://caster.io) - Skyrocket your Android career with bite sized Android development video training
