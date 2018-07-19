@@ -175,6 +175,7 @@ and Android apps
 * [OkDownload](https://github.com/lingochamp/okdownload) - A Reliable, Flexible, Fast and Powerful download engine
 * [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader) - A file downloader library for Android with pause and resume support
 * [Retrofit](https://square.github.io/retrofit) - Retrofit turns your REST API into a Java interface
+* [Scarlet](https://github.com/Tinder/Scarlet) - A Retrofit inspired WebSocket client for Kotlin, Java, and Android 
 * [Volley](https://github.com/google/volley) - Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster
 
 ### Persistence
