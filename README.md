@@ -139,6 +139,9 @@ and Android apps
 * [Dagger](https://github.com/square/Dagger) - A fast dependency injector for Android and Java
 * [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java
 * [Dart](https://github.com/f2prateek/dart) - Extras "injection" library for Android
+* [KOIN](https://github.com/InsertKoinIO/koin) - A pragmatic lightweight dependency injection framework for Kotlin
+* [Motif](https://github.com/uber/motif) - A simple DI API for Android / Java
+
 
 ### Image Loading
 
