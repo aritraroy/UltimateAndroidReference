@@ -169,7 +169,6 @@ and Android apps
 
 ### Networking
 
-* [Bridge](https://github.com/afollestad/bridge) - A simple but powerful HTTP networking library for Java. It features a Fluent chainable API, powered by Java URLConnection classes for maximum compatibility and speed
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also supports HTTP/2
 * [Ion](https://github.com/koush/ion) - Android Asynchronous Networking and Image Loading
 * [OkHttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications
