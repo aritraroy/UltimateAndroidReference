@@ -630,6 +630,8 @@ Love learning from videos? Don't worry, we have got you covered. This list conta
 * [Firebase for Android (YouTube)](https://www.youtube.com/user/Firebase) - Learn everything about Firebase and boost your Android development skills
 * [Slidenerd Tutorials (YouTube)](https://www.youtube.com/user/slidenerd) - One of the best channels covering a lot of tutorials on various aspects of Android
 
+* [Chatting Application Using Firebase](https://www.youtube.com/playlist?list=PLGCjwl1RrtcQ3o2jmZtwu2wXEA4OIIq53) -  Another useful playlist to master the fundamentals of Firebase database.
+
 ## Twitter Profiles
 
 If you are somebody who loves to engage with other fellow developers and surround yourself with all the latest news, ideas and happenings, then this list is just for you. Start following some of the best and most active Android and Java developers on Twitter.
@@ -714,3 +716,9 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+
+
+
+## License
