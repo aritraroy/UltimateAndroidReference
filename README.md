@@ -299,6 +299,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [RxLifecycle](https://github.com/trello/RxLifecycle) - Lifecycle handling APIs for Android apps using RxJava
 * [RxLint](https://bitbucket.org/littlerobots/rxlint) - rxlint is a set of lint checks that check your RxJava code. There are currently three checks
 * [RxRelay](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and a Consumer
+* [Slick](https://github.com/MRezaNasirloo/Slick) - A Reactive MVP Framework which is Slick to use
 * [Traceur](https://github.com/T-Spoon/Traceur) - Easier RxJava2 debugging with better stacktraces
 
 
