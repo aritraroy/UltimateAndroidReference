@@ -80,6 +80,7 @@ These are some of the best and the most popular libraries and utilities to boost
 
 ### Animations
 
+* [AndroidAdditiveAnimations](https://github.com/wirecube/android_additive_animations) - Additive animations for Android!
 * [AndroidRippleBackground](https://github.com/skyfishjy/android-ripple-background) - A beautiful ripple animation
 * [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection
 * [Backboard](https://github.com/tumblr/Backboard) - A motion-driven animation framework for Android
