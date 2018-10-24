@@ -252,6 +252,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 ### Utilities
 
 * [Aesthetic](https://github.com/afollestad/aesthetic) - A fast and easy to use plug-and-play dynamic theme engine. Powered by Rx, for Android apps
+* [Alligator](https://github.com/aartikov/Alligator) - Alligator is a modern Android navigation library that will help to organize your navigation code in clean and testable way
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating)
 * [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
 * [Android Crop](https://github.com/jdamcd/android-crop) - Android library project for cropping images
