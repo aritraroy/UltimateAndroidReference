@@ -395,6 +395,7 @@ Stitch your photos together vertically or horizontally easily!
 * [FindBugs](http://findbugs.sourceforge.net) - Powerful static code analysis tool for Java and Android
 * [FlatIcon](http://www.flaticon.com) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats
 * [Gradle Please](http://gradleplease.appspot.com) - Quick and easy way to build Gradle based libraries in Android
+* [Gradle Download Task](https://github.com/michel-kraemer/gradle-download-task) - This is a simple download task for Gradle. It displays progress information just as Gradle does when it retrieves an artifact from a repository.
 * [Infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 * [JSONBlob](https://jsonblob.com) - JSON Blob is a web-based tool to create, edit, view, format, and share JSON
 * [JSONSchema2POJO](http://www.jsonschema2pojo.org) - Easy and quick way to convert your JSON to Java objects
