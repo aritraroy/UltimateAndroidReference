@@ -248,6 +248,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
 * [VectorMaster](https://github.com/harjot-oberai/VectorMaster) - Dynamic control over vector drawables
 * [VLayout](https://github.com/alibaba/vlayout) - Project vlayout is a powerful LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView
+* [CustomEditText](https://github.com/Rajagopalr3/CustomEditText) - A Collection of features are wrapped into single ui element. By adding a line of code in xml, able to access these functions. rectangular edittext with radius, font change etc.
 
 ### Utilities
 
