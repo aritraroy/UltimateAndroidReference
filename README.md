@@ -224,6 +224,7 @@ and Android apps
 * [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
 * [Cafebar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and easy to use
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
+* [CustomEditText](https://github.com/Rajagopalr3/CustomEditText) - A Collection of features are wrapped into single ui element. By adding a line of code in xml, able to access these functions. rectangular edittext with radius, font change etc.
 * [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
 * [Epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView
@@ -248,7 +249,6 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids
 * [VectorMaster](https://github.com/harjot-oberai/VectorMaster) - Dynamic control over vector drawables
 * [VLayout](https://github.com/alibaba/vlayout) - Project vlayout is a powerful LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView
-* [CustomEditText](https://github.com/Rajagopalr3/CustomEditText) - A Collection of features are wrapped into single ui element. By adding a line of code in xml, able to access these functions. rectangular edittext with radius, font change etc.
 
 ### Utilities
 
