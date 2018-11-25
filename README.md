@@ -385,6 +385,7 @@ Stitch your photos together vertically or horizontally easily!
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting
 * [Codota](https://www.codota.com/ide-plugin) - Supercharge your development workflow by getting great code examples directly in your IDE. The Codota plugin for IntelliJ lets you quickly find the best code examples for every API class or method
 * [Dagger IntelliJ Plugin](https://github.com/square/dagger-intellij-plugin) - An IntelliJ IDEA plugin for Dagger which provides insight into how injections and providers are used
+* [Detekt](https://github.com/arturbosch/detekt) - Static code analysis for Kotlin
 * [DevKnox](https://devknox.io) - Autocorrect Security Issues As You Write Code
 * [Dex Count Gradle Plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build
 * [Dex Method Counts](https://github.com/mihaip/dex-method-counts) - Command-line tool to count per-package methods in Android .dex files
