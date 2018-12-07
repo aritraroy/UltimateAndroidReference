@@ -224,6 +224,7 @@ and Android apps
 * [BottomSheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
 * [Cafebar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and easy to use
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
+* [Cyanea](https://github.com/jaredrummler/Cyanea) - A theme engine for Android
 * [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
 * [DialogPlus](https://github.com/orhanobut/dialogplus) - Advanced dialog solution for Android
 * [Epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView
