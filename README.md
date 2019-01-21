@@ -601,6 +601,7 @@ If you want to get started with something quick-and-dirty, then sample projects 
 * [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps
 * [Android Boilerplate](https://github.com/ribot/android-boilerplate) - Android boilerplate app that showcases architecture and libraries used at ribot
 * [Android Clean Architecture Boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - An android boilerplate project using clean architecture from Buffer
+* [Android Clean Architecture Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin) - This is a movies sample app in Kotlin, which is part of a series of blog posts I have written about architecting android application using different approaches
 * [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Collected code examples from the O'Reilly Android Cookbook
 * [Android Instant Apps](https://github.com/googlesamples/android-instant-apps) - Samples for Android Instant Apps
 * [Android MVP Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
