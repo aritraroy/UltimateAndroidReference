@@ -362,6 +362,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Talon for Twitter (Material Design)](https://github.com/klinker24/talon-for-twitter-android) - The Material Design version of my popular Android Talon for Twitter app, 100% open-source 
 * [Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 * [Timber](https://github.com/naman14/Timber) - Material Design Music Player
+* [TimberX](https://github.com/naman14/TimberX) - Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding)
 
 
 ## Tools
