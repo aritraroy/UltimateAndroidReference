@@ -209,6 +209,7 @@ and Android apps
 * [OkReplay](https://github.com/airbnb/okreplay) - 📼 Record and replay OkHttp network interaction in your tests
 * [Robolectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
 * [Robotium](https://github.com/RobotiumTech/robotium) - Android UI Testing
+* [RxPresso](https://github.com/novoda/rxpresso) - Easy Espresso UI testing for Android applications using RxJava
 * [Selendroid](https://github.com/selendroid/selendroid) - Selendroid is a test automation framework which drives of the UI of Android native and hybrid applications (apps) and the mobile web with Selendroid
 * [Truth](https://github.com/google/truth) - Assertion/Proposition framework for Java unit tests
 
