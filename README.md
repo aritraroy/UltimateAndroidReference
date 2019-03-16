@@ -295,6 +295,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [Lightweight Stream API](https://github.com/aNNiMON/Lightweight-Stream-API) - Stream API from Java 8 rewritten on iterators for Java 7 and below
 * [Mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter / Model-View-Intent library for modern Android apps
+* [MvRx](airbnb/MvRx) - MvRx: Android on Autopilot
 * [Optional](https://github.com/MrHadiSatrio/Optional) - Java 8 Optional-like APIs for everyone
 * [RetroLambda](https://github.com/evant/gradle-retrolambda) - A Gradle plugin for getting Java lambda support in Java 6, 7 and android
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) – This module adds the minimum classes to RxJava that make writing reactive components in Android applications easy and hassle-free. More specifically, it provides a Scheduler that schedules on the main thread or any given Looper.
