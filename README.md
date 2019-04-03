@@ -409,6 +409,7 @@ Stitch your photos together vertically or horizontally easily!
 * [JSONSchema2POJO](http://www.jsonschema2pojo.org) - Easy and quick way to convert your JSON to Java objects
 * [KeyPromoter](https://plugins.jetbrains.com/plugin/4455-key-promoter) - Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)
 * [KtLint](https://github.com/shyiko/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
+* [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 * [Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin) - This plugin help you to set material design icon to your project
 * [Material Palette](https://www.materialpalette.com) - Generate Material Design color palettes quickly and easily
 * [Methods Count](http://www.methodscount.com) - Your solution for a perfectly fit APK
