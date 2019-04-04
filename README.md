@@ -206,6 +206,7 @@ and Android apps
 * [JaCoCo](https://github.com/jacoco/jacoco) - JaCoCo - Java Code Coverage Library
 * [JUnit4](https://github.com/junit-team/junit4) - A programmer-oriented testing framework for Java
 * [Mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
+* [MockK](https://github.com/mockk/mockk) - Mocking library for Kotlin
 * [OkReplay](https://github.com/airbnb/okreplay) - 📼 Record and replay OkHttp network interaction in your tests
 * [Robolectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
 * [Robotium](https://github.com/RobotiumTech/robotium) - Android UI Testing
