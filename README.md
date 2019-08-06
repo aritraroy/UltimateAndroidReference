@@ -457,6 +457,7 @@ Kotlin, the new statically-typed programming language from JetBrains aims to mak
 * [Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 * [Klutter](https://github.com/kohesive/klutter) - A mix of random small libraries for Kotlin, the smallest reside here until big enough for their own repository
 * [Kodein](https://github.com/SalomonBrys/Kodein) - Painless Kotlin Dependency Injection
+* [KoHttp](https://github.com/rybalkinsd/kohttp) - Kotlin DSL http client
 * [Koi](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight Kotlin library for Android Development
 * [KotlinPoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
 * [PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made easy using Kotlin
