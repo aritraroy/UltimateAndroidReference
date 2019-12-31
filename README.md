@@ -146,10 +146,10 @@ and Android apps
 ### Image Loading
 
 * [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android
+* [Coil](https://github.com/coil-kt/coil) - An image loading library for Android backed by Kotlin Coroutines.
 * [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use
 * [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
-* [Coil](https://github.com/coil-kt/coil) - An image loading library for Android backed by Kotlin Coroutines.
 
 
 ### Image Processing
