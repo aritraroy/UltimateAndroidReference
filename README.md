@@ -16,14 +16,6 @@ Happy learning. :+1:
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/aritraroy/ultimate-android-reference/blob/master/LICENSE)
 
-## Recommended SDK for Bug and Crash Reporting - [Instabug](https://instabug.com/android/sdk?utm_source=androidref&utm_medium=spon&utm_content=header)
-### Understand How Your App is Doing with Real-Time Contextual Insights From Your Users
-[![instabug-github](https://user-images.githubusercontent.com/10850625/65512691-fd45f280-ded9-11e9-8921-3528b98c30a7.png)](https://instabug.com/android/sdk?utm_source=awesomeandroid&utm_medium=spon&utm_content=banner)
->Instabug helps Android developers and product teams easily collect bugs and feedback from beta testers and users to iterate faster and ship quality apps. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. 
-> Mobile teams accelerate their workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. [Instabug is offering the Android community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=androidref&utm_medium=spon&utm_content=get-started)
-[![](https://instabug-ga.appspot.com/UA-41982088-6/github/ultimateAndroidReference?pixel)](https://instabug.com)
-
-
 ## Contribution Guide
 
 This project is open to all kinds of contribution in all of its categories. **Together, we can make it the ultimate Android reference available for free, for everyone, forever.**
