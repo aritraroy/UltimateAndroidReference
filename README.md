@@ -119,7 +119,7 @@ and Android apps
 
 * [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging Android databases and shared preferences
 * [Android Performance Monitor](https://github.com/markzhai/AndroidPerformanceMonitor) - A transparent ui-block detection library for Android (known as BlockCanary)
-* [Chuck](https://github.com/jgilfelt/chuck) - An in-app HTTP inspector for Android OkHttp clients
+* [Chucker](https://github.com/ChuckerTeam/chucker) - An HTTP inspector for Android & OkHTTP (like Charles but on device)
 * [Debug Drawer](https://github.com/palaima/DebugDrawer) - Android Debug Drawer for faster development
 * [Hyperion](https://github.com/willowtreeapps/Hyperion-Android) - App Debugging & Inspection Tool for Android
 * [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
