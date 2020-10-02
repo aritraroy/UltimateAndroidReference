@@ -67,7 +67,7 @@ If you feel that a particular resource(s) listed here is not a good fit for this
 
 
 ## Libraries
-These are some of the best and the most popular libraries and utilities to boost up your Android development. This list is divided into several essential categories and only includes resources which have been battle-tested by a variety of developers over a long time.
+These are some of the best and the most popular libraries and utilities to boost up your Android development. This list is divided into several essential categories and only includes resources which have been battle-tested by a variety of developers over a long time. So give a try to the amazing libraries.
 
 ### Animations
 
