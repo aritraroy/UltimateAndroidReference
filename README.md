@@ -640,6 +640,7 @@ Love learning from videos? Don't worry, we have got you covered. This list conta
 * [Firebase in a Weekend: Android (YouTube)](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) - In this course, you’ll learn how to use Firebase. Firebase is app development platform that provides developers a variety of tools and a scalable infrastructure to build high quality apps
 * [Firebase for Android (YouTube)](https://www.youtube.com/user/Firebase) - Learn everything about Firebase and boost your Android development skills
 * [Slidenerd Tutorials (YouTube)](https://www.youtube.com/user/slidenerd) - One of the best channels covering a lot of tutorials on various aspects of Android
+* [New Kotlin Tutorials for Beginners (YouTube)](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR) - One of the best playlist on Android  development in Kotlin.
 
 ## Twitter Profiles
 
