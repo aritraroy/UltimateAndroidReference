@@ -262,6 +262,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) - A simple, annotation-based library for making deep link handling better on Android
 * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way
 * [Easy Permissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions
+* [fingerprint-android](https://github.com/fingerprintjs/fingerprint-android) - A lightweight and easy to integrate library for identifying and fingerprinting Android devices
 * [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) - Making Camera for Android more friendly
 * [Gson](https://github.com/google/gson) -  A Java serialization/deserialization library to convert Java Objects into JSON and back
 * [Guava](https://github.com/google/guava) - Google Core Libraries for Java
