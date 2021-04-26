@@ -113,7 +113,7 @@ and Android apps
 * [HockeyApp](https://hockeyapp.net) - Bring Mobile DevOps to your apps with beta distribution, crash reporting, user metrics, feedback, and powerful workflow integrations
 * [InstaBug](https://instabug.com) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting
 * [MixPanel](https://mixpanel.com) - Deeply understand every user's journey with instant insights for everyone on mobile and web
-
+* [Shake](https://www.shakebugs.com/) - In-app feedback tracking and bug reporting tool for your app
 
 ### Debugging
 
