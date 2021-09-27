@@ -2,6 +2,8 @@
 
 The goal of this project is to provide a hand-picked collection of Android libraries, tools, open-source projects, books, blogs, tutorials - you name it.
 
+The Ultimate Android Reference is the best
+
 This project will try to **showcase only the best, most popular and well-tested resources** that you will actually need and find useful rather than overwhelming you with a plethora of low-quality ones.
 
 Happy learning. :+1:
