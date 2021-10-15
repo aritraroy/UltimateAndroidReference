@@ -1,6 +1,6 @@
 ![UltimateAndroidReference](https://github.com/aritraroy/ultimate-android-reference/blob/master/raw/top-banner.png?raw=true)
 
-Hello World!
+Hello World! DIE ULTIMATIVE ANDROID-REFERENZ IST DIE BESTE
 
 The goal of this project is to provide a hand-picked collection of Android libraries, tools, open-source projects, books, blogs, tutorials - you name it.
 
