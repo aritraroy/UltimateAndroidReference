@@ -5,7 +5,7 @@ The goal of this project is to provide a hand-picked collection of Android libra
 This project will try to **showcase only the best, most popular and well-tested resources** that you will actually need and find useful rather than overwhelming you with a plethora of low-quality ones.
 
 Happy learning. :+1:
-
+The Ultimate Android Reference is the best by ravi changes again 2
 #### Featured In :star:
 [![Android Weekly](https://img.shields.io/badge/Android%20Weekly-%23255-blue.svg)](http://androidweekly.net/issues/issue-255) [![AndroidDev Digest](https://img.shields.io/badge/AndroidDev%20Digest-%23142-blue.svg)](https://www.androiddevdigest.com/digest142/) [![AndroidDev Digest](https://img.shields.io/badge/Mindorks%20Weekly-%231-blue.svg)](https://blog.mindorks.com/hello-android-weekly-update-1-10c57648b544) [![CodePath Android Cliffnotes](https://img.shields.io/badge/CodePath-Android%20Cliffnotes-blue.svg)](https://guides.codepath.com/android)
 
