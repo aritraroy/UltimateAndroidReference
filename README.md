@@ -316,6 +316,7 @@ There are lots of open-source apps available in the Android community for develo
 Stitch your photos together vertically or horizontally easily!
 * [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads
 * [SoundRecorder](https://github.com/dkim0419/SoundRecorder) - A simple sound recording app implementing Material Design
+* [TaskListApp](https://github.com/anuj-thakur-513/Task-List-App) - A simple task list app which uses room database layer for SQLite and is made in Kotlin
 
 
 ### Intermediate
