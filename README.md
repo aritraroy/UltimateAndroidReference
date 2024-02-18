@@ -345,6 +345,7 @@ Stitch your photos together vertically or horizontally easily!
 * [CatchUp](https://github.com/hzsweers/CatchUp) - An app for catching up on things
 * [CoCoin](https://github.com/Nightonke/CoCoin) - CoCoin, Multi-view Accounting Application
 * [Conversations](https://github.com/siacs/Conversations) - A federated Instant Messaging app for Android (XMPP/Jabber)
+* [Kafka for Internet Archive](https://github.com/vipulyaara/Kafka) - A client for Internet archive to serve millions of text and audio in a modern interface
 * [Kickstarter](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere
 * [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Free as in Freedom torrent client for Android
 * [MusicDNA](https://github.com/harjot-oberai/MusicDNA) - A Music Player for Android that renders beautiful DNA(Visualization) of the currently playing music
