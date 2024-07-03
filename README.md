@@ -113,6 +113,7 @@ and Android apps
 * [HockeyApp](https://hockeyapp.net) - Bring Mobile DevOps to your apps with beta distribution, crash reporting, user metrics, feedback, and powerful workflow integrations
 * [InstaBug](https://instabug.com) - The top apps in the world rely on Instabug for beta testing, user engagement and crash reporting
 * [MixPanel](https://mixpanel.com) - Deeply understand every user's journey with instant insights for everyone on mobile and web
+* [MIKROS](https://developer.tatumgames.com) - The most advanced data analytics platform in the world for games. Crash reporting, user metrics, real-time industry trends, side-by-side KPI comparisons to Competitors, product and technology suggestions
 
 
 ### Debugging
