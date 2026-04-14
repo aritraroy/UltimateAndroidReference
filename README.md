@@ -132,7 +132,7 @@ and Android apps
 * [Butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods
 * [Dagger](https://github.com/square/Dagger) - A fast dependency injector for Android and Java
 * [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java
-* [Dart](https://github.com/f2prateek/dart) - Extras "injection" library for Android
+* [Dart](https://github.com/f2prateek/dart) - Extras \"injection\" library for Android
 
 ### Image Loading
 
@@ -249,7 +249,7 @@ Remixer is a framework to iterate quickly on UI changes by allowing you to adjus
 * [Aesthetic](https://github.com/afollestad/aesthetic) - A fast and easy to use plug-and-play dynamic theme engine. Powered by Rx, for Android apps
 * [Alligator](https://github.com/aartikov/Alligator) - Alligator is a modern Android navigation library that will help to organize your navigation code in clean and testable way
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating)
-* [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance
+* [Android Annotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintenance
 * [Android Crop](https://github.com/jdamcd/android-crop) - Android library project for cropping images
 * [Android In-App Billing V3](https://github.com/anjlab/android-inapp-billing-v3) - A lightweight implementation of Android In-app Billing Version 3
 * [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) - UI form validation library for Android
@@ -363,7 +363,7 @@ Stitch your photos together vertically or horizontally easily!
 
 ## Tools
 
-"*A craftsman is only as good as his tools*" - to level up your Android development workflow you need to have the right tools always ready in your toolbox. This list is here to provide you with hand-picked tools to significantly improve your Android development life.
+\"*A craftsman is only as good as his tools*\" - to level up your Android development workflow you need to have the right tools always ready in your toolbox. This list is here to provide you with hand-picked tools to significantly improve your Android development life.
 
 ### Free
 
@@ -375,7 +375,7 @@ Stitch your photos together vertically or horizontally easily!
 * [Android Wifi ADB](https://github.com/pedrovgs/AndroidWiFiADB) - IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected
 * [APK DeGuard](http://apk-deguard.com) - DeGuard reverses the process of obfuscation performed by Android obfuscation tools. This enables numerous security analyses, including code inspection and predicting libraries
 * [APK Patch Size Estimator](https://github.com/googlesamples/apk-patch-size-estimator) - Estimates the size of Google Play patches and the new gzipped APK
-* [Battery Historian](https://github.com/google/battery-historian) - Battery Historian is a tool to analyze battery consumers using Android "bugreport" files
+* [Battery Historian](https://github.com/google/battery-historian) - Battery Historian is a tool to analyze battery consumers using Android \"bugreport\" files
 * [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages
 * [Butterknife Zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML
 * [Build Time Tracker](https://github.com/passy/build-time-tracker-plugin) - Gradle plugin to continuously track and report your build times
@@ -475,7 +475,7 @@ Never-ever-ever forget these shortcuts.
 | List all usages of the variable/method/class at the cursor                              | <kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>F7</kbd>    |
 | Generate code (like getters, setters, constructors, method overrides)                   | <kbd>Command</kbd> + <kbd>N</kbd>            |
 | Search for any action in Android Studio                                                 | <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>      |
-| Find text occurencesin the current file (Enter = cycle through results, Esc. = cancel)  | <kbd>Command</kbd> + <kbd>F</kbd>            |
+| Find text occurrences in the current file (Enter = cycle through results, Esc. = cancel)  | <kbd>Command</kbd> + <kbd>F</kbd>            |
 | Show the list of recently used files in the IDE                                         | <kbd>Command</kbd> + <kbd>E</kbd>            |
 | Run the app or test                                                                     | <kbd>Control</kbd> + <kbd>R</kbd>            |
 
@@ -522,14 +522,14 @@ These can help you level up your development workflow.
 
 Just like shortcuts, Live Templates can make your life a lot easier by generating tons of boring boilerplate code in a jiffy. Android Studio comes pre-loaded with a lot of these templates and here is a collection of some of the best ones for you to get started.
 
-  * `Toast` - Creates a new `Toast.makeText(context, "", Toast.LENGTH_SHORT).show();` toast
+  * `Toast` - Creates a new `Toast.makeText(context, \"\", Toast.LENGTH_SHORT).show();` toast
   * `newInstance` - Generates the static `newInstance` factory method in a  Fragment with arguments
   * `noInstance` - Generates a private empty constructor to prevent instance creation
   * `ViewConstructors` - Generates the view constructors
-  * `Parcelable` - Generates the boilerplate code for Pacelable implementation
+  * `Parcelable` - Generates the boilerplate code for Parcelable implementation
   * `fbc` - Generates the `findViewById` code with the appropriate cast
   * `const` - Generates a constant according to Android's coding conventions
-  * `logd` - Generates `Log.d(TAG, "");` log. Check the other variants as well
+  * `logd` - Generates `Log.d(TAG, \"\");` log. Check the other variants as well
   * `logm` - Generates a log with the current method name and its arguments
   * `logr` - Generates a log result of the current method
   * `psf` - Generates the boilerplate `public static final`. Also check `psfi` and `psfs`
@@ -539,189 +539,4 @@ Just like shortcuts, Live Templates can make your life a lot easier by generatin
   * `gone` - Sets view's visibility to GONE
   * `todo` - Adds a TODO comment. Also check `stopship`
 
-Can't get enough of Live Templates? [Here](https://github.com/keyboardsurfer/idea-live-templates) is a huge repository of lots of custom Live Templates for you to get your hands on.
-
-## Sites
-
-If you want to keep yourself updated with all the latest Android development news, articles and tutorials then these are some of the best sites in the Internet where the good Androidy-things happen all the time.
-
-* [AndroidPub](https://android.jlelse.eu) - The Pub(lication) for Android & Tech, focused on Development
-* [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
-* [Android Design Patterns](http://www.androiddesignpatterns.com) - Android Design Patterns is a website for developers who wish to better understand the Android application framework
-* [AndroidDevDigest](https://www.androiddevdigest.com) - A Handcrafted Weekly #AndroidDev Newsletter
-* [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings
-* [Android Hive](http://www.androidhive.info) - Androidhive is independent online publication that covers Android programming tutorials, app reviews and more
-* [Android Niceties](http://androidniceties.tumblr.com) - A collection of screenshots encompassing some of the most beautiful looking Android apps
-* [Android Weekly](http://androidweekly.net) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development
-* [Antonio Leiva's Blog](https://antonioleiva.com/category/blog/) - Amazing blog on Android development, with special focus on Kotlin from Antonio Leiva
-* [Caster.IO](https://caster.io) - Skyrocket your Android career with bite sized Android development video training
-* [Codepath Android Cliffnotes](https://guides.codepath.com/android) - One of the best and most up-to-date crowdsourced resource for Android developers where you will find guides and tutorials about almost everything in Android
-* [Dan Lew Codes](http://blog.danlew.net) - Thoughts on life, the universe and the mystery of it all; but actually mostly just code
-* [Grokking Android](https://www.grokkingandroid.com) - Getting Down to the Nitty Gritty of Android Development
-* [Material Up](https://material.uplabs.com) - Get fresh Material Design inspiration daily
-* [Medium's Google Developers Blog](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google
-* [Mindork's Blog](https://blog.mindorks.com) - A regularly updated blog talking about various aspects of Android development in detail
-* [Philosophical Hacker](https://www.philosophicalhacker.com) - Some really informative articles on Android development
-* [ProAndroidDev](https://proandroiddev.com/) - Professional Android Development: the latest posts from Android Professionals and Google Developer Experts.
-* [Reddit's AndroidDev](https://www.reddit.com/r/androiddev) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
-* [Styling Android](https://blog.stylingandroid.com) - Learn perfecting your Android UI and UX development skills
-* [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more
-* [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
-
-## Books
-
-*"Books are gifts that you can open again and again"* - here is a curated list of some of the best books that can help you sharpen your Android, Java and overall programming skills. Pick one of them and just start reading.
-
-* [Android Development with Kotlin](https://www.packtpub.com/application-development/android-development-kotlin)- by Marcin Moskala, Igor Wojda 
-* [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming) - by Bill Phillips, Chris Stewart, and Kristin Marsicano
-* [Asynchronous Android](https://www.amazon.in/Asynchronous-Android-Steve-Liles/dp/1783286873) - by Steve Liles
-* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - by Robert C. Martin
-* [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) - by Joshua Bloch
-* [Head First Design Patterns](https://www.amazon.com/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124) - by Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson
-* [Java: The Complete Reference](https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/9339212096) - by Herbert Schildt
-* [The Busy Coder's Guide to Advanced Android Development](https://commonsware.com/Android) - by Mark Murphy
-* [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) - by Michael Feathers
-
-# Podcasts
-
-Not too fond of reading books or blogs? You should definately try listening to some of these podcasts in your free time, while driving, cooking or doing the dishes.
-
-* [Android Developers Backstage](http://androidbackstage.blogspot.ch/) - Podcast made by Google, featuring Chet Haase and Tor Norbye
-* [Android Snacks](https://androidsnacks.wordpress.com) - The tl;dr of last weeks Android developer news
-* [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast
-* [The Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast) - Podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests
-
-
-## Sample Projects
-
-If you want to get started with something quick-and-dirty, then sample projects are something which can help you a lot in understanding the concepts and technicalities in almost no time.
-
-* [AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground) - An Android app for experimenting with Adaptive Icons
-* [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps
-* [Android Boilerplate](https://github.com/ribot/android-boilerplate) - Android boilerplate app that showcases architecture and libraries used at ribot
-* [Android Clean Architecture Boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - An android boilerplate project using clean architecture from Buffer
-* [Android Clean Architecture Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin) - This is a movies sample app in Kotlin, which is part of a series of blog posts I have written about architecting android application using different approaches
-* [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Collected code examples from the O'Reilly Android Cookbook
-* [Android Instant Apps](https://github.com/googlesamples/android-instant-apps) - Samples for Android Instant Apps
-* [Android MVP Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
-* [Android MVVM Architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2, Room, RxJava2, FastAndroidNetworking and PlaceholderView
-* [Android Sunflower](https://github.com/googlesamples/android-sunflower) - A gardening app illustrating Android development best practices with Android Jetpack
-* [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing
-* [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples
-* [Android Things Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers
-* [Android UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) - This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices
-* [Bubble](https://github.com/ImangazalievM/Bubbble ) - ample app showcases the MVP pattern and Robert Martin's Clean Architecture approach
-* [Clean Architecture Manifest](https://github.com/ImangazalievM/CleanArchitectureManifest) - Description of the main principles and rules for building an Android application using Clean Architecture approach
-* [CW Omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
-* [Effective Android UI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer
-* [Espresso Samples](https://github.com/chiuki/espresso-samples) - A collection of samples demonstrating different Espresso techniques
-* [Firebase Quickstart Android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
-* [Firebucket](https://github.com/remychantenay/Firebucket) - Glimpse into Firebase, with a simple TODO list app built around Dagger, RxJava 2, Clean architecture and of course, Firebase
-* [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
-* [Just Another Android App](https://github.com/athkalia/Just-Another-Android-App) - An Android base app with loads of cool libraries/configuration
-* [Material Animations](https://github.com/lgvalle/Material-Animations) - Android Transition animations explanation with examples
-* [N26AndroidSamples](https://github.com/n26/N26AndroidSamples) - A public repo to demo the Reactive Clean Architecture
-* [Quality Matters](https://github.com/artem-zinnatullin/qualitymatters) - Android Development Culture
-* [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
-* [RxJava 2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
-* [u2020](https://github.com/JakeWharton/u2020) - A sample Android app which showcases advanced usage of Dagger among other open source libraries
-* [VB Android App Quality](https://github.com/vincentbrison/vb-android-app-quality) - Sample android project using Gradle, with basic quality tools set up
-
-
-## Video Tutorials
-
-Love learning from videos? Don't worry, we have got you covered. This list contains some of the most useful and informative video tutorials to boost up your Android development skills to the next level.
-
-* [Advanced Android App Development (Udacity)](https://www.udacity.com/course/advanced-android-app-development--ud855) - This course will guide you through the process of productionizing an app, using Sunshine, the weather app we built in Developing Android Apps
-* [Android Developers (YouTube)](https://www.youtube.com/user/androiddevelopers) - Google's official Android development channel on Youtube for all the tutorials, demos, events, etc
-* [Beginner Java Tutorials (YouTube)](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28) - An excellent Java video tutorial series for beginners by *thenewboston* on YouTube.
-* [Design Patterns Tutorials (YouTube)](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07) - Learn about all the Java design patterns in details from these quick and easy video tutorials by Derek Banas
-* [Developing Android Apps (Udacity)](https://www.udacity.com/course/new-android-fundamentals--ud851) - As the first course in the Android Developer Nanodegree, Developing Android Apps is the foundation of our advanced Android curriculum. This course blends theory and practice to help you build great apps the right way
-* [Firebase in a Weekend: Android (YouTube)](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) - In this course, you’ll learn how to use Firebase. Firebase is app development platform that provides developers a variety of tools and a scalable infrastructure to build high quality apps
-* [Firebase for Android (YouTube)](https://www.youtube.com/user/Firebase) - Learn everything about Firebase and boost your Android development skills
-* [Slidenerd Tutorials (YouTube)](https://www.youtube.com/user/slidenerd) - One of the best channels covering a lot of tutorials on various aspects of Android
-
-## Twitter Profiles
-
-If you are somebody who loves to engage with other fellow developers and surround yourself with all the latest news, ideas and happenings, then this list is just for you. Start following some of the best and most active Android and Java developers on Twitter.
-
-* [Android Developers](https://twitter.com/AndroidDev) - News and announcements for developers from the Android team
-* [Annyce Davis](https://twitter.com/brwngrldev) - #AndroidDev, Conference #Speaker, and #Instructor
-* [Chet Haase](https://twitter.com/chethaase) - Willful misinterpretation. Android. Comedy. That kind of stuff
-* [Chris Banes](https://twitter.com/chrisbanes) - #Android Developer Relations @Google
-* [Chiu-Ki Chan](https://twitter.com/chiuki) - @monkeywrite & @heartcollage creator, Android developer, public speaker (@techspeakdigest), sketchnoter, language lover, world traveller
-* [Cyril Mottier](https://twitter.com/cyrilmottier) - Mobile Product Devsigner & Android expert. ex-Head of Mobile & Web @captaintrain. #UI #UX #Design
-* [Dan Lew](https://twitter.com/danlew42) - Android @Trello/@Atlassian, gamer and geek. The views expressed in these tweets are yours and your employer's
-* [Donn Felker](https://twitter.com/donnfelker) - Best Selling Mobile Dev Book Author. Android GDE. Android Consultant. Co-Host of the @fragmentedcast. Teaching Android at @caster_io. Remote workforce advocate
-* [Dave Smith](https://twitter.com/devunwired) - I write, speak, and build...mostly with Android+Embedded. IoT @ Google. Recovering spark-chaser
-* [GenyMotion](https://twitter.com/Genymotion) - The most complete Android emulation platform (desktop, cloud, on-demand) 🚀 • Trusted by 5M+ developers, testers & enthusiasts 🙌 • Made by @Genymobile in France
-* [Huyen Tue Dao](https://twitter.com/queencodemonkey) - Native Android Code Monkey: monkey code, monkey break, monkey debug, monkey iterate. Randomly typing on @Trello for @Atlassian. GDE. ½ of Android Dialogs
-* [Jake Wharton](https://twitter.com/JakeWharton) - Stop stopping
-* [Jesse Wilson](https://twitter.com/jessewilson) - Android and jokes. Sometimes also inclusivity & sustainability
-* [Joe Birch](https://twitter.com/hitherejoe) - Android Engineer @Buffer. Instructor @caster_io & @Pluralsight. Public Speaker, Android Tinkerer
-* [Kaushik Gopal](https://twitter.com/kaushikgopal) - I'm ½ of the @FragmentedCast and a Google Developer Expert. I build Android apps for @Instacart. I watch atleast 1 movie every week and Jon Stewart is my hero
-* [Kristin Marsicano](https://twitter.com/kristinmars) - Android Developer and Instructor @bignerdranch. Co-author of Android Programming: The Big Nerd Ranch Guide. Always learning
-* [Lars Vogel](https://twitter.com/vogella) - Eclipse platform UI and e4 project lead. Android and Eclipse RCP developer. CEO of vogella GmbH, book author, speaker, trainer and proud Dad and husband
-* [Mark Allison](https://twitter.com/MarkIAllison) - GDE for Android. I write code and https://blog.stylingandroid.com . Then I relax by supporting Watford FC. After that I need to drink good whisky
-* [Nick Butcher](https://twitter.com/crafty) - Design + Developer Advocate @Google, I help people to design and build lovely Android apps
-* [Pierre-Yves Ricau](https://twitter.com/Piwai) - Android baker @Square
-* [Rebecca Franks](https://twitter.com/riggaroo) - Android Engineering Lead at @DVT_Corporate | Google Developer Expert for #Android and #IoT #GDE | Made @bookdash app | I ❤ baking and travelling
-* [Reto Meier](https://twitter.com/retomeier) - Developer Advocate at Google, Android developer, and author of Professional Android Application Development series. Views expressed are mine alone
-* [Romain Guy](https://twitter.com/romainguy) - Android Graphics team manager @Google, Photography
-* [Roman Nurik](https://twitter.com/romannurik) - Designer on @Firebase at @Google · Android/Web Developer
-* [Ryan Harter](https://twitter.com/rharter) - Freelance Android Developer, Google Developer Expert, community leader
-* [Tor Norbye](https://twitter.com/tornorbye) - Tor Norbye is the tech lead for Android Studio at Google
-* [Ty Smith](https://twitter.com/tsmith) - Android at @Uber Dev Platform - Google Developer Expert - @specializedtype investor - @sfaug and @droidconsf organizer - ex @twitter @fabric @evernote @zagat
-* [Zarah Dominguez](https://twitter.com/zarahjutz) - Having a love/hate affair with the little green 'droid at @domaincomau; Google Developer Expert for Android; a walking contradiction
-
-## Game Development
-
-If you aspire to develop amazing games for the Android platform, we haven't forgotten about you. Here are some of the best resources which can help you in kickstarting your Android game development career.
-
-### Frameworks
-
-* [AndEngine](http://www.andengine.org) - Free Android 2D OpenGL Game Engine
-* [LibGDX](https://libgdx.badlogicgames.com) - Desktop/Android/BlackBerry/iOS/HTML5 Java game development framework
-* [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
-* [Unity](https://unity3d.com/unity) - Start creating a world class games using this framework
-
-### Open-Source Games
-* [2048](https://github.com/tpcstld/2048) - A Android Port of the 2048
-* [ColorPhun](https://github.com/prakhar1989/colorphun) - A Simple Color Game in Android
-* [Game of Life](https://github.com/zsoltk/GameOfLife) - An Android implementation of Conway's Game of Life, focusing on clean design and implementation
-* [Memory Game](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids
-* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional rogue-like game with pixel-art graphics and simple interface
-
-
-
-### :heart: Found this project useful?
-If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
-
-
-## Project Maintained By
-
-### Aritra Roy
-
-Android & Backend Developer. Blogger. Designer. Fitness Enthusiast.
-
-<a href="https://play.google.com/store/apps/details?id=com.codexapps.andrognito&hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true" width="60"></a> <a href="https://blog.aritraroy.in/"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a>
-<a href="https://stackoverflow.com/users/2858654/aritra-roy"><img src="https://github.com/aritraroy/social-icons/blob/master/stackoverflow-icon.png?raw=true" width="60"></a>
-<a href="https://twitter.com/aritraroy"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
-<a href="http://linkedin.com/in/aritra-roy"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
-
-## License
-
-```
-Copyright 2017 aritraroy
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+Can't get enough of Live Templates? [Here](https://github.com/keyboardsurfer/idea-live-templates) is a huge repository of lots of custom Live Templates for you to get your hands on.\n\n## Sites\n\nIf you want to keep yourself updated with all the latest Android development news, articles and tutorials then these are some of the best sites in the Internet where the good Androidy-things happen all the time.\n\n* [AndroidPub](https://android.jlelse.eu) - The Pub(lication) for Android & Tech, focused on Development\n* [Android Arsenal](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps\n* [Android Design Patterns](http://www.androiddesignpatterns.com) - Android Design Patterns is a website for developers who wish to better understand the Android application framework\n* [AndroidDevDigest](https://www.androiddevdigest.com) - A Handcrafted Weekly #AndroidDev Newsletter\n* [Android Developers Official](https://developer.android.com/training/index.html) - The official Android development page provided by Google containing all the documentations and trainings\n* [Android Hive](http://www.androidhive.info) - Androidhive is independent online publication that covers Android programming tutorials, app reviews and more\n* [Android Niceties](http://androidniceties.tumblr.com) - A collection of screenshots encompassing some of the most beautiful looking Android apps\n* [Android Weekly](http://androidweekly.net) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development\n* [Antonio Leiva's Blog](https://antonioleiva.com/category/blog/) - Amazing blog on Android development, with special focus on Kotlin from Antonio Leiva\n* [Caster.IO](https://caster.io) - Skyrocket your Android career with bite sized Android development video training\n* [Codepath Android Cliffnotes](https://guides.codepath.com/android) - One of the best and most up-to-date crowdsourced resource for Android developers where you will find guides and tutorials about almost everything in Android\n* [Dan Lew Codes](http://blog.danlew.net) - Thoughts on life, the universe and the mystery of it all; but actually mostly just code\n* [Grokking Android](https://www.grokkingandroid.com) - Getting Down to the Nitty Gritty of Android Development\n* [Material Up](https://material.uplabs.com) - Get fresh Material Design inspiration daily\n* [Medium's Google Developers Blog](https://medium.com/google-developers) - Engineering and technology articles for developers, written and curated by Googlers. The views expressed are those of the authors and don’t necessarily reflect those of Google\n* [Mindork's Blog](https://blog.mindorks.com) - A regularly updated blog talking about various aspects of Android development in detail\n* [Philosophical Hacker](https://www.philosophicalhacker.com) - Some really informative articles on Android development\n* [ProAndroidDev](https://proandroiddev.com/) - Professional Android Development: the latest posts from Android Professionals and Google Developer Experts.\n* [Reddit's AndroidDev](https://www.reddit.com/r/androiddev) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how\n* [Styling Android](https://blog.stylingandroid.com) - Learn perfecting your Android UI and UX development skills\n* [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more\n* [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way\n\n## Books\n\n*\"Books are gifts that you can open again and again\"* - here is a curated list of some of the best books that can help you sharpen your Android, Java and overall programming skills. Pick one of them and just start reading.\n\n* [Android Development with Kotlin](https://www.packtpub.com/application-development/android-development-kotlin)- by Marcin Moskala, Igor Wojda \n* [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming) - by Bill Phillips, Chris Stewart, and Kristin Marsicano\n* [Asynchronous Android](https://www.amazon.in/Asynchronous-Android-Steve-Liles/dp/1783286873) - by Steve Liles\n* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - by Robert C. Martin\n* [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) - by Joshua Bloch\n* [Head First Design Patterns](https://www.amazon.com/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124) - by Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson\n* [Java: The Complete Reference](https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/9339212096) - by Herbert Schildt\n* [The Busy Coder's Guide to Advanced Android Development](https://commonsware.com/Android) - by Mark Murphy\n* [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) - by Michael Feathers\n\n# Podcasts\n\nNot too fond of reading books or blogs? You should definitely try listening to some of these podcasts in your free time, while driving, cooking or doing the dishes.\n\n* [Android Developers Backstage](http://androidbackstage.blogspot.ch/) - Podcast made by Google, featuring Chet Haase and Tor Norbye\n* [Android Snacks](https://androidsnacks.wordpress.com) - The tl;dr of last weeks Android developer news\n* [Fragmented Podcast](http://fragmentedpodcast.com) - An Android Developer Podcast\n* [The Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast) - Podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests\n\n\n## Sample Projects\n\nIf you want to get started with something quick-and-dirty, then sample projects are something which can help you a lot in understanding the concepts and technicalities in almost no time.\n\n* [AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground) - An Android app for experimenting with Adaptive Icons\n* [Android Architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps\n* [Android Boilerplate](https://github.com/ribot/android-boilerplate) - Android boilerplate app that showcases architecture and libraries used at ribot\n* [Android Clean Architecture Boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - An android boilerplate project using clean architecture from Buffer\n* [Android Clean Architecture Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin) - This is a movies sample app in Kotlin, which is part of a series of blog posts I have written about architecting android application using different approaches\n* [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) - Collected code examples from the O'Reilly Android Cookbook\n* [Android Instant Apps](https://github.com/googlesamples/android-instant-apps) - Samples for Android Instant Apps\n* [Android MVP Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView\n* [Android MVVM Architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2, Room, RxJava2, FastAndroidNetworking and PlaceholderView\n* [Android Sunflower](https://github.com/googlesamples/android-sunflower) - A gardening app illustrating Android development best practices with Android Jetpack\n* [Android Testing](https://github.com/googlesamples/android-testing) - A collection of samples demonstrating different frameworks and techniques for automated testing\n* [Android Testing Guide](https://github.com/ravidsrk/android-testing-guide) - Complete reference for Android Testing with examples\n* [Android Things Driver Samples](https://github.com/androidthings/drivers-samples) - Samples for Android Things peripheral drivers\n* [Android UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) - This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices\n* [Bubble](https://github.com/ImangazalievM/Bubbble ) - Sample app showcases the MVP pattern and Robert Martin's Clean Architecture approach\n* [Clean Architecture Manifest](https://github.com/ImangazalievM/CleanArchitectureManifest) - Description of the main principles and rules for building an Android application using Clean Architecture approach\n* [CW Omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_\n* [Effective Android UI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer\n* [Espresso Samples](https://github.com/chiuki/espresso-samples) - A collection of samples demonstrating different Espresso techniques\n* [Firebase Quickstart Android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android\n* [Firebucket](https://github.com/remychantenay/Firebucket) - Glimpse into Firebase, with a simple TODO list app built around Dagger, RxJava 2, Clean architecture and of course, Firebase\n* [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java\n* [Just Another Android App](https://github.com/athkalia/Just-Another-Android-App) - An Android base app with loads of cool libraries/configuration\n* [Material Animations](https://github.com/lgvalle/Material-Animations) - Android Transition animations explanation with examples\n* [N26AndroidSamples](https://github.com/n26/N26AndroidSamples) - A public repo to demo the Reactive Clean Architecture\n* [Quality Matters](https://github.com/artem-zinnatullin/qualitymatters) - Android Development Culture\n* [RxJava Android Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example\n* [RxJava 2 Android Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android\n* [u2020](https://github.com/JakeWharton/u2020) - A sample Android app which showcases advanced usage of Dagger among other open source libraries\n* [VB Android App Quality](https://github.com/vincentbrison/vb-android-app-quality) - Sample android project using Gradle, with basic quality tools set up\n\n\n## Video Tutorials\n\nLove learning from videos? Don't worry, we have got you covered. This list contains some of the most useful and informative video tutorials to boost up your Android development skills to the next level.\n\n* [Advanced Android App Development (Udacity)](https://www.udacity.com/course/advanced-android-app-development--ud855) - This course will guide you through the process of productionizing an app, using Sunshine, the weather app we built in Developing Android Apps\n* [Android Developers (YouTube)](https://www.youtube.com/user/androiddevelopers) - Google's official Android development channel on Youtube for all the tutorials, demos, events, etc\n* [Beginner Java Tutorials (YouTube)](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28) - An excellent Java video tutorial series for beginners by *thenewboston* on YouTube.\n* [Design Patterns Tutorials (YouTube)](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07) - Learn about all the Java design patterns in details from these quick and easy video tutorials by Derek Banas\n* [Developing Android Apps (Udacity)](https://www.udacity.com/course/new-android-fundamentals--ud851) - As the first course in the Android Developer Nanodegree, Developing Android Apps is the foundation of our advanced Android curriculum. This course blends theory and practice to help you build great apps the right way\n* [Firebase in a Weekend: Android (YouTube)](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) - In this course, you’ll learn how to use Firebase. Firebase is app development platform that provides developers a variety of tools and a scalable infrastructure to build high quality apps\n* [Firebase for Android (YouTube)](https://www.youtube.com/user/Firebase) - Learn everything about Firebase and boost your Android development skills\n* [Slidenerd Tutorials (YouTube)](https://www.youtube.com/user/slidenerd) - One of the best channels covering a lot of tutorials on various aspects of Android\n\n## Twitter Profiles\n\nIf you are somebody who loves to engage with other fellow developers and surround yourself with all the latest news, ideas and happenings, then this list is just for you. Start following some of the best and most active Android and Java developers on Twitter.\n\n* [Android Developers](https://twitter.com/AndroidDev) - News and announcements for developers from the Android team\n* [Annyce Davis](https://twitter.com/brwngrldev) - #AndroidDev, Conference #Speaker, and #Instructor\n* [Chet Haase](https://twitter.com/chethaase) - Willful misinterpretation. Android. Comedy. That kind of stuff\n* [Chris Banes](https://twitter.com/chrisbanes) - #Android Developer Relations @Google\n* [Chiu-Ki Chan](https://twitter.com/chiuki) - @monkeywrite & @heartcollage creator, Android developer, public speaker (@techspeakdigest), sketchnoter, language lover, world traveller\n* [Cyril Mottier](https://twitter.com/cyrilmottier) - Mobile Product Devsigner & Android expert. ex-Head of Mobile & Web @captaintrain. #UI #UX #Design\n* [Dan Lew](https://twitter.com/danlew42) - Android @Trello/@Atlassian, gamer and geek. The views expressed in these tweets are yours and your employer's\n* [Donn Felker](https://twitter.com/donnfelker) - Best Selling Mobile Dev Book Author. Android GDE. Android Consultant. Co-Host of the @fragmentedcast. Teaching Android at @caster_io. Remote workforce advocate\n* [Dave Smith](https://twitter.com/devunwired) - I write, speak, and build...mostly with Android+Embedded. IoT @ Google. Recovering spark-chaser\n* [GenyMotion](https://twitter.com/Genymotion) - The most complete Android emulation platform (desktop, cloud, on-demand) 🚀 • Trusted by 5M+ developers, testers & enthusiasts 🙌 • Made by @Genymobile in France\n* [Huyen Tue Dao](https://twitter.com/queencodemonkey) - Native Android Code Monkey: monkey code, monkey break, monkey debug, monkey iterate. Randomly typing on @Trello for @Atlassian. GDE. ½ of Android Dialogs\n* [Jake Wharton](https://twitter.com/JakeWharton) - Stop stopping\n* [Jesse Wilson](https://twitter.com/jessewilson) - Android and jokes. Sometimes also inclusivity & sustainability\n* [Joe Birch](https://twitter.com/hitherejoe) - Android Engineer @Buffer. Instructor @caster_io & @Pluralsight. Public Speaker, Android Tinkerer\n* [Kaushik Gopal](https://twitter.com/kaushikgopal) - I'm ½ of the @FragmentedCast and a Google Developer Expert. I build Android apps for @Instacart. I watch atleast 1 movie every week and Jon Stewart is my hero\n* [Kristin Marsicano](https://twitter.com/kristinmars) - Android Developer and Instructor @bignerdranch. Co-author of Android Programming: The Big Nerd Ranch Guide. Always learning\n* [Lars Vogel](https://twitter.com/vogella) - Eclipse platform UI and e4 project lead. Android and Eclipse RCP developer. CEO of vogella GmbH, book author, speaker, trainer and proud Dad and husband\n* [Mark Allison](https://twitter.com/MarkIAllison) - GDE for Android. I write code and https://blog.stylingandroid.com . Then I relax by supporting Watford FC. After that I need to drink good whisky\n* [Nick Butcher](https://twitter.com/crafty) - Design + Developer Advocate @Google, I help people to design and build lovely Android apps\n* [Pierre-Yves Ricau](https://twitter.com/Piwai) - Android baker @Square\n* [Rebecca Franks](https://twitter.com/riggaroo) - Android Engineering Lead at @DVT_Corporate | Google Developer Expert for #Android and #IoT #GDE | Made @bookdash app | I ❤ baking and travelling\n* [Reto Meier](https://twitter.com/retomeier) - Developer Advocate at Google, Android developer, and author of Professional Android Application Development series. Views expressed are mine alone\n* [Romain Guy](https://twitter.com/romainguy) - Android Graphics team manager @Google, Photography\n* [Roman Nurik](https://twitter.com/romannurik) - Designer on @Firebase at @Google · Android/Web Developer\n* [Ryan Harter](https://twitter.com/rharter) - Freelance Android Developer, Google Developer Expert, community leader\n* [Tor Norbye](https://twitter.com/tornorbye) - Tor Norbye is the tech lead for Android Studio at Google\n* [Ty Smith](https://twitter.com/tsmith) - Android at @Uber Dev Platform - Google Developer Expert - @specializedtype investor - @sfaug and @droidconsf organizer - ex @twitter @fabric @evernote @zagat\n* [Zarah Dominguez](https://twitter.com/zarahjutz) - Having a love/hate affair with the little green 'droid at @domaincomau; Google Developer Expert for Android; a walking contradiction\n\n## Game Development\n\nIf you aspire to develop amazing games for the Android platform, we haven't forgotten about you. Here are some of the best resources which can help you in kickstarting your Android game development career.\n\n### Frameworks\n\n* [AndEngine](http://www.andengine.org) - Free Android 2D OpenGL Game Engine\n* [LibGDX](https://libgdx.badlogicgames.com) - Desktop/Android/BlackBerry/iOS/HTML5 Java game development framework\n* [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine\n* [Unity](https://unity3d.com/unity) - Start creating a world class games using this framework\n\n### Open-Source Games\n* [2048](https://github.com/tpcstld/2048) - A Android Port of the 2048\n* [ColorPhun](https://github.com/prakhar1989/colorphun) - A Simple Color Game in Android\n* [Game of Life](https://github.com/zsoltk/GameOfLife) - An Android implementation of Conway's Game of Life, focusing on clean design and implementation\n* [Memory Game](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids\n* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional rogue-like game with pixel-art graphics and simple interface\n\n\n\n### :heart: Found this project useful?\nIf you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.\n\n\n## Project Maintained By\n\n### Aritra Roy\n\nAndroid & Backend Developer. Blogger. Designer. Fitness Enthusiast.\n\n<a href=\"https://play.google.com/store/apps/details?id=com.codexapps.andrognito&hl=en\"><img src=\"https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true\" width=\"60\"></a> <a href=\"https://blog.aritraroy.in/\"><img src=\"https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true\" width=\"60\"></a>\n<a href=\"https://stackoverflow.com/users/2858654/aritra-roy\"><img src=\"https://github.com/aritraroy/social-icons/blob/master/stackoverflow-icon.png?raw=true\" width=\"60\"></a>\n<a href=\"https://twitter.com/aritraroy\"><img src=\"https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true\" width=\"60\"></a>\n<a href=\"http://linkedin.com/in/aritra-roy\"><img src=\"https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true\" width=\"60\"></a>\n\n## License\n\n```\nCopyright 2017 aritraroy\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n   http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n
