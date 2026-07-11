@@ -584,7 +584,7 @@ If you want to keep yourself updated with all the latest Android development new
 
 # Podcasts
 
-Not too fond of reading books or blogs? You should definately try listening to some of these podcasts in your free time, while driving, cooking or doing the dishes.
+Not too fond of reading books or blogs? You should definitely try listening to some of these podcasts in your free time, while driving, cooking or doing the dishes.
 
 * [Android Developers Backstage](http://androidbackstage.blogspot.ch/) - Podcast made by Google, featuring Chet Haase and Tor Norbye
 * [Android Snacks](https://androidsnacks.wordpress.com) - The tl;dr of last weeks Android developer news
